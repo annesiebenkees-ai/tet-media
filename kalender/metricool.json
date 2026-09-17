@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-17T16:13",
+ "stand": "2026-09-17T16:19",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -15,7 +15,7 @@
     "youtube"
    ],
    "status": "PUBLISHED",
-   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs Monate lang arbeiten",
+   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs Monate lang arbeite",
    "url": "https://facebook.com/reel/27849623118072227",
    "entwurf": false
   },
@@ -102,7 +102,7 @@
     "youtube"
    ],
    "status": "PUBLISHED",
-   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs Monate lang arbeiten",
+   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "url": "https://facebook.com/reel/27763592109981535",
    "entwurf": false
   },
@@ -133,7 +133,7 @@
     "youtube"
    ],
    "status": "PUBLISHED",
-   "text": "In einer Welt, in der alle denselben KI-Text posten, ist das Einzige, was dir niemand kopieren kann, deine eigene Geschichte. Du merkst es d",
+   "text": "In einer Welt, in der alle denselben KI-Text posten, ist das Einzige, was dir niemand kopieren kann, deine eigene Geschichte.",
    "url": "https://facebook.com/reel/1700441677713771",
    "entwurf": false
   },
@@ -151,15 +151,41 @@
    "entwurf": false
   },
   {
-   "id": 377531633,
-   "datum": "2026-09-18",
-   "uhrzeit": "14:00",
+   "id": 377551547,
+   "datum": "2026-09-17",
+   "uhrzeit": "16:22",
    "typ": "REEL",
    "netzwerke": [
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Unser Mitbewerb wundert sich – wir machen es einfach. Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kundencalls sitzt, finde",
+   "text": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und hat gesagt: läuft eige",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 377552527,
+   "datum": "2026-09-17",
+   "uhrzeit": "16:23",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "DUPLIKAT - NICHT POSTEN - siehe 377551547",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 377550730,
+   "datum": "2026-09-17",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Unser Mitbewerb wundert sich – wir machen es einfach.  Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kundencalls sitzt, find",
    "url": "",
    "entwurf": false
   },
