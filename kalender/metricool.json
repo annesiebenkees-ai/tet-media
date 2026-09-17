@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-17T18:12",
+ "stand": "2026-09-17T20:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -223,9 +223,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PUBLISHING",
+   "status": "PUBLISHED",
    "text": "",
-   "url": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988291668172162225",
    "entwurf": false
   },
   {
@@ -236,9 +236,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Angst ist nichts anderes als eine Situation, die du dir vorstellst, die du nicht haben willst und die du für realistisch hältst. Mehr steckt",
-   "url": "",
+   "url": "https://www.instagram.com/reel/DdZdhOglVFG/",
    "entwurf": false
   }
  ]
