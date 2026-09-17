@@ -1,15 +1,7 @@
 {
-  "stand": "2026-09-17T09:36",
+  "stand": "2026-09-17T13:36Z",
   "kanal": "mkt-llp-content-creation",
   "links": [
-    {
-      "link": "https://share.icloud.com/photos/0ec2ldNlH5yhDbniw71wAuGww",
-      "titel": "Special call do 03.09.2026",
-      "absender": "Alex (DUB p 2)",
-      "datum": "2026-09-03",
-      "hinweise": ["Konnte so spontan das setup nicht geiler machen"],
-      "dateien": []
-    },
     {
       "link": "https://share.icloud.com/photos/008EwltvG0GuyHSDn_3qL_x0w",
       "titel": "Special Call 27.08.2026",
@@ -17,7 +9,7 @@
       "datum": "2026-09-03",
       "hinweise": [
         "Du nimmst aber von den habdyvieos nur das Bild nicht den Sound, oder?",
-        "Iphone video wird mit Zoom synchronisiert und das Audio von Zoom genutzt (Claudio Colonna (ES 0))"
+        "Iphone video wird mit Zoom synchronisiert und das Audio von Zoom genutzt"
       ],
       "dateien": []
     },
@@ -39,7 +31,9 @@
         "Das passiert wenn man in Dubai 5min die Balkontür offen lässt:",
         "(Darf verwendet werden)"
       ],
-      "dateien": ["IMG_3964.jpg"]
+      "dateien": [
+        "IMG_3964.jpg"
+      ]
     },
     {
       "link": "https://share.icloud.com/photos/0bd0gZx4Xfdqa5z1bfQei4ZSg",
@@ -47,7 +41,7 @@
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-10",
       "hinweise": [
-        "Nico Kesting (DE0) bitte immer dran denken, schnell zu testen und zu sichern, da ich die Videos nicht ewig auf dem Hand Halten oder später wiederfinden kann FYI 🔥"
+        "bitte immer dran denken, schnell zu testen und zu sichern, da ich die Videos nicht ewig auf dem Hand Halten oder später wiederfinden kann FYI :fire:"
       ],
       "dateien": []
     },
@@ -56,7 +50,9 @@
       "titel": "Business Breakfast 11.09.2026",
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-11",
-      "hinweise": ["Abgebrochen am Ende wegen Speicher"],
+      "hinweise": [
+        "Abgebrochen am Ende wegen Speicher"
+      ],
       "dateien": []
     },
     {
@@ -72,6 +68,14 @@
       "titel": "Interview Session 16.09.2026",
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-16",
+      "hinweise": [],
+      "dateien": []
+    },
+    {
+      "link": "https://share.icloud.com/photos/086LKrxgfRuU2C1Ybz63WuXDQ",
+      "titel": "Special Call 17.09.2026",
+      "absender": "Alex (DUB p 2)",
+      "datum": "2026-09-17",
       "hinweise": [],
       "dateien": []
     }
