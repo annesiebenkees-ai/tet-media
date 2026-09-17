@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-17T16:23",
+ "stand": "2026-09-17T18:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -158,9 +158,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PUBLISHING",
+   "status": "PUBLISHED",
    "text": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und hat gesagt: läuft eige",
-   "url": "",
+   "url": "https://www.instagram.com/reel/DdZEKwakoRk/",
    "entwurf": false
   },
   {
@@ -184,21 +184,60 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Unser Mitbewerb wundert sich – wir machen es einfach.  Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kundencalls sitzt, find",
+   "url": "https://www.instagram.com/reel/DdZJAqbipth/",
+   "entwurf": false
+  },
+  {
+   "id": 377614581,
+   "datum": "2026-09-17",
+   "uhrzeit": "18:00",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988289473971518232",
+   "entwurf": false
+  },
+  {
+   "id": 377617339,
+   "datum": "2026-09-17",
+   "uhrzeit": "18:00",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988289526912863025",
+   "entwurf": false
+  },
+  {
+   "id": 377626706,
+   "datum": "2026-09-17",
+   "uhrzeit": "18:10",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHING",
+   "text": "",
    "url": "",
    "entwurf": false
   },
   {
-   "id": 377534635,
-   "datum": "2026-09-19",
-   "uhrzeit": "17:00",
+   "id": 377614547,
+   "datum": "2026-09-17",
+   "uhrzeit": "20:00",
    "typ": "REEL",
    "netzwerke": [
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und hat gesagt: läuft eige",
+   "text": "Angst ist nichts anderes als eine Situation, die du dir vorstellst, die du nicht haben willst und die du für realistisch hältst. Mehr steckt",
    "url": "",
    "entwurf": false
   }
