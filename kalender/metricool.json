@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-17T08:11",
+ "stand": "2026-09-17T16:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -135,6 +135,45 @@
    "status": "PUBLISHED",
    "text": "In einer Welt, in der alle denselben KI-Text posten, ist das Einzige, was dir niemand kopieren kann, deine eigene Geschichte. Du merkst es d",
    "url": "https://facebook.com/reel/1700441677713771",
+   "entwurf": false
+  },
+  {
+   "id": 377531555,
+   "datum": "2026-09-17",
+   "uhrzeit": "15:51",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und hat gesagt: läuft eige",
+   "url": "https://www.instagram.com/reel/DdZAoL8lBxI/",
+   "entwurf": false
+  },
+  {
+   "id": 377531633,
+   "datum": "2026-09-18",
+   "uhrzeit": "14:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Unser Mitbewerb wundert sich – wir machen es einfach. Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kundencalls sitzt, finde",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 377534635,
+   "datum": "2026-09-19",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und hat gesagt: läuft eige",
+   "url": "",
    "entwurf": false
   }
  ]
