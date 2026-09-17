@@ -16,5 +16,6 @@
  "gepostet": "2026-09-17T15:52:00+02:00",
  "metricool_id": 377534635,
  "aktion": "absagen",
- "geaendert": "2026-09-17T17:29"
+ "geaendert": "2026-09-17T17:29",
+ "posting_fehler": "2026-09-17T17:51:35+02:00: Löschen fehlgeschlagen - kein deleteScheduledPost bzw. gleichwertiges Werkzeug im verfügbaren Metricool-Connector vorhanden (nur createScheduledPost, updateScheduledPost, createScheduledPostForReview, sendScheduledPostForReview, getScheduledPosts, getBrandSettings, getAnalytics*, getBestTimeToPostByNetwork). Beitrag 377534635 wurde NICHT gelöscht."
 }
