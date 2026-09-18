@@ -14,5 +14,6 @@
  ],
  "gepostet": "2026-09-18T14:39:00+02:00",
  "metricool_id": 378103618,
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "Paralleler Lauf hat um 14:40 wegen fehlender Vorab-Pruefung zusaetzlich Beitrag 378103820 fuer denselben Termin angelegt. Duplikat wurde sofort per updateScheduledPost auf draft=true, autoPublish=false gesetzt (neue id 378104449), Text bewusst leer gelassen (kein Hinweistext in der Caption, siehe Vorfall 17.09.). Aktiver Beitrag bleibt 378103618."
 }
