@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-18T12:13",
+ "stand": "2026-09-18T14:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -102,7 +102,7 @@
     "youtube"
    ],
    "status": "PUBLISHED",
-   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs Monate lang arbeite",
+   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "url": "https://facebook.com/reel/27763592109981535",
    "entwurf": false
   },
@@ -133,7 +133,7 @@
     "youtube"
    ],
    "status": "PUBLISHED",
-   "text": "In einer Welt, in der alle denselben KI-Text posten, ist das Einzige, was dir niemand kopieren kann, deine eigene Geschichte.  Du merkst es ",
+   "text": "In einer Welt, in der alle denselben KI-Text posten, ist das Einzige, was dir niemand kopieren kann, deine eigene Geschichte.",
    "url": "https://facebook.com/reel/1700441677713771",
    "entwurf": false
   },
@@ -240,6 +240,45 @@
    "text": "Angst ist nichts anderes als eine Situation, die du dir vorstellst, die du nicht haben willst und die du für realistisch hältst. Mehr steckt",
    "url": "https://www.instagram.com/reel/DdZdhOglVFG/",
    "entwurf": false
+  },
+  {
+   "id": 378102887,
+   "datum": "2026-09-18",
+   "uhrzeit": "15:00",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988922461135953401",
+   "entwurf": false
+  },
+  {
+   "id": 378103618,
+   "datum": "2026-09-18",
+   "uhrzeit": "15:20",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988930829459785093",
+   "entwurf": false
+  },
+  {
+   "id": 378104449,
+   "datum": "2026-09-18",
+   "uhrzeit": "15:20",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": true
   }
  ]
 }
