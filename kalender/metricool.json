@@ -1,79 +1,8 @@
 {
- "stand": "2026-09-18T18:13",
+ "stand": "2026-09-19T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 375679013,
-   "datum": "2026-09-14",
-   "uhrzeit": "15:35",
-   "typ": "REEL",
-   "netzwerke": [
-    "facebook",
-    "instagram",
-    "tiktok",
-    "youtube"
-   ],
-   "status": "PUBLISHED",
-   "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs Monate lang arbeite",
-   "url": "https://facebook.com/reel/27849623118072227",
-   "entwurf": false
-  },
-  {
-   "id": 375683787,
-   "datum": "2026-09-14",
-   "uhrzeit": "15:42",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/3986042843017387616",
-   "entwurf": false
-  },
-  {
-   "id": 375692181,
-   "datum": "2026-09-14",
-   "uhrzeit": "15:54",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/3986049758041266469",
-   "entwurf": false
-  },
-  {
-   "id": 375698933,
-   "datum": "2026-09-14",
-   "uhrzeit": "16:10",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Lass mich raten: Du postest ein Test-Reel nach dem anderen, weil du gehört hast, dass das die Reichweite nach oben zieht — und irgendwie fun",
-   "url": "https://www.instagram.com/p/DdRUlz2gbg0/",
-   "entwurf": false
-  },
-  {
-   "id": 375690226,
-   "datum": "2026-09-14",
-   "uhrzeit": "19:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "facebook",
-    "instagram",
-    "tiktok",
-    "youtube"
-   ],
-   "status": "PUBLISHED",
-   "text": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in zwei Minuten aus Chat",
-   "url": "https://facebook.com/reel/1068170869337309",
-   "entwurf": false
-  },
   {
    "id": 376416474,
    "datum": "2026-09-15",
