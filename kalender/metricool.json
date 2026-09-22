@@ -1,62 +1,72 @@
 {
-  "stand": "2026-09-22T14:12",
-  "brand": "5629189",
-  "quelle": "Metricool-Connector",
-  "posts": [
-    {
-      "id": 378102887,
-      "datum": "2026-09-18",
-      "uhrzeit": "15:00",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://www.instagram.com/stories/the_escapetheory/3988922461135953401",
-      "entwurf": false
-    },
-    {
-      "id": 378103618,
-      "datum": "2026-09-18",
-      "uhrzeit": "15:20",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://www.instagram.com/stories/the_escapetheory/3988930829459785093",
-      "entwurf": false
-    },
-    {
-      "id": 378104449,
-      "datum": "2026-09-18",
-      "uhrzeit": "15:20",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PENDING",
-      "text": "",
-      "url": "",
-      "entwurf": true
-    },
-    {
-      "id": 379883329,
-      "datum": "2026-09-22",
-      "uhrzeit": "09:30",
-      "typ": "POST",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-      "url": "https://www.instagram.com/p/DdlNIBmEr-X/",
-      "entwurf": false
-    },
-    {
-      "id": 380019308,
-      "datum": "2026-09-22",
-      "uhrzeit": "13:35",
-      "typ": "POST",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-      "url": "https://www.instagram.com/p/DdlpQXCirEU/",
-      "entwurf": false
-    }
-  ]
+ "stand": "2026-09-22T16:12",
+ "brand": "5629189",
+ "quelle": "Metricool-Connector",
+ "posts": [
+  {
+   "id": 378102887,
+   "datum": "2026-09-18",
+   "uhrzeit": "15:00",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988922461135953401",
+   "entwurf": false
+  },
+  {
+   "id": 378103618,
+   "datum": "2026-09-18",
+   "uhrzeit": "15:20",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3988930829459785093",
+   "entwurf": false
+  },
+  {
+   "id": 378104449,
+   "datum": "2026-09-18",
+   "uhrzeit": "15:20",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 379883329,
+   "datum": "2026-09-22",
+   "uhrzeit": "09:30",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/DdlNIBmEr-X/",
+   "entwurf": false
+  },
+  {
+   "id": 380019308,
+   "datum": "2026-09-22",
+   "uhrzeit": "13:35",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/DdlpQXCirEU/",
+   "entwurf": false
+  }
+ ]
 }
