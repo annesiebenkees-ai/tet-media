@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-22T06:10",
+ "stand": "2026-09-22T09:31",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -41,6 +41,19 @@
    "text": "",
    "url": "",
    "entwurf": true
+  },
+  {
+   "id": 379883329,
+   "datum": "2026-09-22",
+   "uhrzeit": "09:30",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/DdlNIBmEr-X/",
+   "entwurf": false
   }
  ]
 }
