@@ -1,47 +1,8 @@
 {
- "stand": "2026-09-22T22:11",
+ "stand": "2026-09-23T06:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 378102887,
-   "datum": "2026-09-18",
-   "uhrzeit": "15:00",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/3988922461135953401",
-   "entwurf": false
-  },
-  {
-   "id": 378103618,
-   "datum": "2026-09-18",
-   "uhrzeit": "15:20",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/3988930829459785093",
-   "entwurf": false
-  },
-  {
-   "id": 378104449,
-   "datum": "2026-09-18",
-   "uhrzeit": "15:20",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "",
-   "url": "",
-   "entwurf": true
-  },
   {
    "id": 379883329,
    "datum": "2026-09-22",
