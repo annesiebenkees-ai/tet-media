@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-23T10:11",
+ "stand": "2026-09-23T20:10",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -27,6 +27,19 @@
    "status": "PUBLISHED",
    "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
    "url": "https://www.instagram.com/p/DdlpQXCirEU/",
+   "entwurf": false
+  },
+  {
+   "id": 380909535,
+   "datum": "2026-09-23",
+   "uhrzeit": "20:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir. Und das ist ein Scheißgefühl, gan",
+   "url": "",
    "entwurf": false
   }
  ]
