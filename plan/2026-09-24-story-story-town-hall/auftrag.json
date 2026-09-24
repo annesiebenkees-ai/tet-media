@@ -7,9 +7,12 @@
  "thema": "Story Town Hall",
  "caption": "",
  "blogId": 5629189,
- "status": "bereit",
+ "status": "gepostet",
  "erstellt": "2026-09-24T10:42",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-09-24-story-story-town-hall/story-townhall-ut.mp4"
- ]
+ ],
+ "gepostet": "2026-09-24T10:44:00+02:00",
+ "metricool_id": 381211827,
+ "fest_eingeplant": true
 }
