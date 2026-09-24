@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-24T12:10",
+ "stand": "2026-09-24T18:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -53,6 +53,32 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993140510071919799",
+   "entwurf": false
+  },
+  {
+   "id": 381394818,
+   "datum": "2026-09-24",
+   "uhrzeit": "16:30",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch. 1.200 Euro Budget, 20 Eu",
+   "url": "https://www.instagram.com/reel/DdrGxVhgRuE/",
+   "entwurf": false
+  },
+  {
+   "id": 381460683,
+   "datum": "2026-09-24",
+   "uhrzeit": "18:04",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3993364117477720915",
    "entwurf": false
   }
  ]
