@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-24T18:12",
+ "stand": "2026-09-24T20:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -79,6 +79,32 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993364117477720915",
+   "entwurf": false
+  },
+  {
+   "id": 381495451,
+   "datum": "2026-09-24",
+   "uhrzeit": "19:00",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3993393186638196297",
+   "entwurf": false
+  },
+  {
+   "id": 381496820,
+   "datum": "2026-09-24",
+   "uhrzeit": "19:30",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3993405553435343376",
    "entwurf": false
   }
  ]
