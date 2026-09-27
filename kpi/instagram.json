@@ -1,18 +1,12 @@
 {
-  "stand": "2026-09-26T06:22+02:00",
+  "stand": "2026-09-27T06:24+02:00",
   "quelle": "Metricool-Connector",
   "profil": {
-    "followers": 6617,
-    "reach": 95024,
-    "interactions": 23
+    "followers": 6623,
+    "reach": 109135,
+    "interactions": 24
   },
   "verlauf": [
-    {
-      "datum": "2026-08-27",
-      "followers": 6634,
-      "reach": 559,
-      "interactions": null
-    },
     {
       "datum": "2026-08-28",
       "followers": 6635,
@@ -119,7 +113,7 @@
       "datum": "2026-09-14",
       "followers": 6606,
       "reach": 1806,
-      "interactions": 6
+      "interactions": 7
     },
     {
       "datum": "2026-09-15",
@@ -184,7 +178,13 @@
     {
       "datum": "2026-09-25",
       "followers": 6617,
-      "reach": 10422,
+      "reach": 13847,
+      "interactions": null
+    },
+    {
+      "datum": "2026-09-26",
+      "followers": 6623,
+      "reach": 11245,
       "interactions": null
     }
   ],
@@ -194,9 +194,9 @@
       "caption": "",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 747,
+      "likesCount": 11,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DctlLflkaAb/"
     },
     {
@@ -204,19 +204,29 @@
       "caption": "",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 1516,
+      "likesCount": 16,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DctoVkSgn0f/"
+    },
+    {
+      "timestamp": "2026-09-01T15:47:26+02:00",
+      "caption": "",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": 418,
+      "likesCount": 10,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/reel/DcwBAxWIAhq/"
     },
     {
       "timestamp": "2026-09-03T18:30:00+02:00",
       "caption": "Aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau einen Platz, voll finanziert. 6 Monate an de",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 572,
+      "likesCount": 11,
+      "commentsCount": 3,
       "url": "https://www.instagram.com/reel/Dc1Pu9Yjhws/"
     },
     {
@@ -224,9 +234,9 @@
       "caption": "Aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau einen Platz, voll finanziert. 6 Monate an de",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 455,
+      "likesCount": 9,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dc3BTzkEtN6/"
     },
     {
@@ -234,9 +244,9 @@
       "caption": "Achtung Coaches, Berater aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau einen Platz, voll f",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 339,
+      "likesCount": 4,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dc3qnJDCKkQ/"
     },
     {
@@ -244,9 +254,9 @@
       "caption": "Der Move aus dem Video ist einer von vielen, die wir im Mentoring durchgehen. Das Ding ist: Abschlüsse sind nur ein Teil",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 881,
+      "likesCount": 22,
+      "commentsCount": 2,
       "url": "https://www.instagram.com/reel/Dc30n7ulZ35/"
     },
     {
@@ -254,9 +264,9 @@
       "caption": "Willst du auch deinen Umsatz verfünffachen? Genau dafür vergeben wir gerade ein Voll-Stipendium für unser 1:1 Mentoring.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 570,
+      "likesCount": 5,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dc5s4xMm2f2/"
     },
     {
@@ -264,9 +274,9 @@
       "caption": "Ohne Ads kannst du die 50k vergessen. Warum, siehst du im Video. Passend dazu: Wir vergeben gerade ein Voll-Stipendium f",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 257,
+      "likesCount": 4,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dc6ZYUAFGHs/"
     },
     {
@@ -274,9 +284,9 @@
       "caption": "Du willst irgendwann auswandern? Dann ist deine GmbH das größte Problem, das du dir gebaut hast. Übrigens: Wir vergeben ",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 1117,
+      "likesCount": 17,
+      "commentsCount": 2,
       "url": "https://www.instagram.com/reel/Dc8EBz6DjaQ/"
     },
     {
@@ -284,9 +294,9 @@
       "caption": "Es gibt zwar keine Abkürzung aber achtung aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau ei",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 405,
+      "likesCount": 12,
+      "commentsCount": 4,
       "url": "https://www.instagram.com/reel/Dc8VEriCGvi/"
     },
     {
@@ -294,9 +304,9 @@
       "caption": "Du brauchst keine Idee, du brauchst ein Problem! Aufgepasst: Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. G",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 257,
+      "likesCount": 5,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dc87AUCka4Y/"
     },
     {
@@ -304,9 +314,9 @@
       "caption": "Verinnerliche diesen einen Gedanken! aber passend dazu: Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 345,
+      "likesCount": 5,
+      "commentsCount": 2,
       "url": "https://www.instagram.com/reel/Dc_gA5RkzLE/"
     },
     {
@@ -314,9 +324,9 @@
       "caption": "Mitarbeiter mit Burnout kosten deinem Unternehmen durchschnittlich 600.000€ Wusstest du das? Und die Ursache ist fast im",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 606,
+      "likesCount": 6,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dc_thxBE2BV/"
     },
     {
@@ -324,9 +334,9 @@
       "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feedback ge",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 752,
+      "likesCount": 10,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdByHSEjMEE/"
     },
     {
@@ -334,9 +344,9 @@
       "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 405,
+      "likesCount": 8,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdCEzVcEifY/"
     },
     {
@@ -344,29 +354,49 @@
       "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 554,
+      "likesCount": 6,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DdCVkA5k4a3/"
+    },
+    {
+      "timestamp": "2026-09-09T12:04:27+02:00",
+      "caption": "",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": 222,
+      "likesCount": 2,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/reel/DdEN74lCFPR/"
     },
     {
       "timestamp": "2026-09-09T14:00:00+02:00",
       "caption": "Teil 1 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feed",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 474,
+      "likesCount": 5,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DdEODrOAQwO/"
+    },
+    {
+      "timestamp": "2026-09-09T14:49:30+02:00",
+      "caption": "",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": 208,
+      "likesCount": 5,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/reel/DdEPdlyiPns/"
     },
     {
       "timestamp": "2026-09-09T16:00:00+02:00",
       "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 341,
+      "likesCount": 4,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdEb9-vAbix/"
     },
     {
@@ -374,9 +404,9 @@
       "caption": "Teil 2 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feed",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 391,
+      "likesCount": 4,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdEpGoilDgT/"
     },
     {
@@ -384,9 +414,9 @@
       "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 240,
+      "likesCount": 1,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdGJZz1EYGn/"
     },
     {
@@ -394,9 +424,9 @@
       "caption": "Teil 3 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feed",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 280,
+      "likesCount": 4,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdGXV14j1TI/"
     },
     {
@@ -404,9 +434,9 @@
       "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feedback ge",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 353,
+      "likesCount": 6,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdHSoSeI3gD/"
     },
     {
@@ -414,9 +444,9 @@
       "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 320,
+      "likesCount": 5,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdIuLX3Au9y/"
     },
     {
@@ -424,9 +454,9 @@
       "caption": "Das sind die Special Calls, die bei unseren Kunden nächste Woche anstehen. Und das ist nur das Extra obendrauf. Darunter",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 874,
+      "likesCount": 7,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/p/DdJopTbCL1z/"
     },
     {
@@ -434,9 +464,9 @@
       "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 384,
+      "likesCount": 7,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdJ2I5kgmMa/"
     },
     {
@@ -444,9 +474,9 @@
       "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 1205,
+      "likesCount": 16,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DdRQjlQgsjR/"
     },
     {
@@ -474,9 +504,9 @@
       "caption": "Lass mich raten: Du postest ein Test-Reel nach dem anderen, weil du gehört hast, dass das die Reichweite nach oben zieht",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 710,
+      "likesCount": 6,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/p/DdRUlz2gbg0/"
     },
     {
@@ -484,9 +514,9 @@
       "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 480,
+      "likesCount": 5,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdRoUUHE6vE/"
     },
     {
@@ -494,19 +524,19 @@
       "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 830,
+      "likesCount": 9,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdUG0buASW9/"
     },
     {
       "timestamp": "2026-09-15T20:00:00+02:00",
-      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
+      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 1562,
+      "likesCount": 6,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdUTnZoDuwJ/"
     },
     {
@@ -514,9 +544,9 @@
       "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feedback ge",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 378,
+      "likesCount": 8,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdUW7CeFwtw/"
     },
     {
@@ -524,9 +554,9 @@
       "caption": "In einer Welt, in der alle denselben KI-Text posten, ist das Einzige, was dir niemand kopieren kann, deine eigene Geschi",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 740,
+      "likesCount": 15,
+      "commentsCount": 4,
       "url": "https://www.instagram.com/reel/DdWesIUjlIm/"
     },
     {
@@ -534,9 +564,9 @@
       "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und ha",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 482,
+      "likesCount": 9,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdZAoL8lBxI/"
     },
     {
@@ -554,9 +584,9 @@
       "caption": "Unser Mitbewerb wundert sich – wir machen es einfach. Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kund",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 547,
+      "likesCount": 6,
+      "commentsCount": 2,
       "url": "https://www.instagram.com/reel/DdZJAqbipth/"
     },
     {
@@ -594,9 +624,9 @@
       "caption": "Angst ist nichts anderes als eine Situation, die du dir vorstellst, die du nicht haben willst und die du für realistisch",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 405,
+      "likesCount": 7,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdZdhOglVFG/"
     },
     {
@@ -634,9 +664,9 @@
       "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 724,
+      "likesCount": 9,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/p/DdlpQXCirEU/"
     },
     {
@@ -644,9 +674,9 @@
       "caption": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir. Und das ist e",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 557,
+      "likesCount": 7,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/Ddo7nHBFJLx/"
     },
     {
@@ -664,9 +694,9 @@
       "caption": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch. 1.20",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 1433,
+      "likesCount": 5,
+      "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DdrGxVhgRuE/"
     },
     {
@@ -721,12 +751,12 @@
     },
     {
       "timestamp": "2026-09-25T12:00:00+02:00",
-      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
+      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
+      "videoViewCount": 1291,
+      "likesCount": 12,
+      "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DdtM-tcgZLU/"
     }
   ]
