@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-28T20:12",
+ "stand": "2026-09-28T22:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -8,9 +8,7 @@
    "datum": "2026-09-24",
    "uhrzeit": "10:44",
    "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993140510071919799",
@@ -21,9 +19,7 @@
    "datum": "2026-09-24",
    "uhrzeit": "16:30",
    "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch. 1.200 Euro Budget, 20 Eu",
    "url": "https://www.instagram.com/reel/DdrGxVhgRuE/",
@@ -34,9 +30,7 @@
    "datum": "2026-09-24",
    "uhrzeit": "18:04",
    "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993364117477720915",
@@ -47,9 +41,7 @@
    "datum": "2026-09-24",
    "uhrzeit": "19:00",
    "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993393186638196297",
@@ -60,9 +52,7 @@
    "datum": "2026-09-24",
    "uhrzeit": "19:30",
    "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993405553435343376",
@@ -73,9 +63,7 @@
    "datum": "2026-09-25",
    "uhrzeit": "10:28",
    "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993857195578359337",
@@ -86,9 +74,7 @@
    "datum": "2026-09-25",
    "uhrzeit": "10:35",
    "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
+   "netzwerke": ["instagram"],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3993860739495898376",
@@ -99,12 +85,7 @@
    "datum": "2026-09-25",
    "uhrzeit": "12:00",
    "typ": "REEL",
-   "netzwerke": [
-    "facebook",
-    "instagram",
-    "tiktok",
-    "youtube"
-   ],
+   "netzwerke": ["facebook", "instagram", "tiktok", "youtube"],
    "status": "PUBLISHED",
    "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs Monate lang arbeite",
    "url": "https://facebook.com/reel/1655318076307637",
