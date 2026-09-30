@@ -1,6 +1,18 @@
 {
-  "stand": "2026-09-30T16:12",
+  "stand": "2026-09-30T20:11",
   "brand": "5629189",
   "quelle": "Metricool-Connector",
-  "posts": []
+  "posts": [
+    {
+      "id": 385210035,
+      "datum": "2026-09-30",
+      "uhrzeit": "19:15",
+      "typ": "POST",
+      "netzwerke": ["instagram"],
+      "status": "PUBLISHED",
+      "text": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben drauf. Unsere Kunden ha",
+      "url": "https://www.instagram.com/p/Dd62pLlDaSJ/",
+      "entwurf": false
+    }
+  ]
 }
