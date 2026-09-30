@@ -1,40 +1,6 @@
 {
-  "stand": "2026-09-29T22:12",
+  "stand": "2026-09-30T06:11",
   "brand": "5629189",
   "quelle": "Metricool-Connector",
-  "posts": [
-    {
-      "id": 381817586,
-      "datum": "2026-09-25",
-      "uhrzeit": "10:28",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://www.instagram.com/stories/the_escapetheory/3993857195578359337",
-      "entwurf": false
-    },
-    {
-      "id": 381818044,
-      "datum": "2026-09-25",
-      "uhrzeit": "10:35",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://www.instagram.com/stories/the_escapetheory/3993860739495898376",
-      "entwurf": false
-    },
-    {
-      "id": 381857138,
-      "datum": "2026-09-25",
-      "uhrzeit": "12:00",
-      "typ": "REEL",
-      "netzwerke": ["facebook", "instagram", "tiktok", "youtube"],
-      "status": "PUBLISHED",
-      "text": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs Monate lang arbeite",
-      "url": "https://facebook.com/reel/1655318076307637",
-      "entwurf": false
-    }
-  ]
+  "posts": []
 }
