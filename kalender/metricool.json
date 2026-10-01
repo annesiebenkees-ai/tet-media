@@ -1,18 +1,29 @@
 {
-  "stand": "2026-10-01T16:11",
-  "brand": "5629189",
-  "quelle": "Metricool-Connector",
-  "posts": [
-    {
-      "id": 385210035,
-      "datum": "2026-09-30",
-      "uhrzeit": "19:15",
-      "typ": "POST",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben drauf. Unsere Kunden ha",
-      "url": "https://www.instagram.com/p/Dd62pLlDaSJ/",
-      "entwurf": false
-    }
-  ]
+ "stand": "2026-10-01T18:11",
+ "brand": "5629189",
+ "quelle": "Metricool-Connector",
+ "posts": [
+  {
+   "id": 385210035,
+   "datum": "2026-09-30",
+   "uhrzeit": "19:15",
+   "typ": "POST",
+   "netzwerke": ["instagram"],
+   "status": "PUBLISHED",
+   "text": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben drauf. Unsere Kunden ha",
+   "url": "https://www.instagram.com/p/Dd62pLlDaSJ/",
+   "entwurf": false
+  },
+  {
+   "id": 385901139,
+   "datum": "2026-10-01",
+   "uhrzeit": "16:30",
+   "typ": "STORY",
+   "netzwerke": ["instagram"],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998",
+   "entwurf": false
+  }
+ ]
 }
