@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-01T18:11",
+ "stand": "2026-10-01T22:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -42,9 +42,9 @@
    "uhrzeit": "20:10",
    "typ": "REEL",
    "netzwerke": ["instagram", "tiktok"],
-   "status": "PUBLISHING",
+   "status": "PUBLISHED",
    "text": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war nicht",
-   "url": "",
+   "url": "https://www.instagram.com/reel/Dd9haZvCB5t/",
    "entwurf": false
   }
  ]
