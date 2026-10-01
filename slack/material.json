@@ -1,13 +1,25 @@
 {
-  "stand": "2026-10-01T13:37Z",
+  "stand": "2026-10-01T17:37Z",
   "kanal": "mkt-llp-content-creation",
   "links": [
+    {
+      "link": "https://share.icloud.com/photos/0bd0gZx4Xfdqa5z1bfQei4ZSg",
+      "titel": "Special Call 10.09.26",
+      "absender": "Alex (DUB p 2)",
+      "datum": "2026-09-10",
+      "hinweise": [
+        "@Nico Kesting (DE0) bitte immer dran denken, schnell zu testen und zu sichern, da ich die Videos nicht ewig auf dem Hand Halten oder später wiederfinden kann FYI :fire:"
+      ],
+      "dateien": []
+    },
     {
       "link": "https://share.icloud.com/photos/0fc7y3cJda0IBxwMe4vezKOtg",
       "titel": "Business Breakfast 11.09.2026",
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-11",
-      "hinweise": ["Abgebrochen am Ende wegen Speicher"],
+      "hinweise": [
+        "Abgebrochen am Ende wegen Speicher"
+      ],
       "dateien": []
     },
     {
@@ -40,11 +52,13 @@
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-24",
       "hinweise": [
-        "Das passiert wenn man zu spät in den Call muss… Ich habe meine sportkleidung vom padel 2h lang gefilmt, dabei war in dem Special Call so geiler Scheiß dabei… fuxk… Anne bitte trotzdem aus dem Special Call Inhalte versuchen rauszuholen… oder eben die Aussagen und Stories als reels irgendwie in unsere Session holen… Naja…",
+        "Das passiert wenn man zu spät in den Call muss… Ich habe meine sportkleidung vom padel 2h lang gefilmt, dabei war in dem Special Call so geiler Scheiß dabei… fuxk… @Anne (DE-0) bitte trotzdem aus dem Special Call Inhalte versuchen rauszuholen… oder eben die Aussagen und Stories als reels irgendwie in unsere Session holen… Naja…",
         "Story dazu:",
         ":partying_face: die Story ist cool @Alex (DUB p 2) genau solche Momente aus dem Leben wollen wir gern öfter sehen. Danke :pray::joy:"
       ],
-      "dateien": ["IMG_4227.jpg"]
+      "dateien": [
+        "IMG_4227.jpg"
+      ]
     },
     {
       "link": "https://share.icloud.com/photos/0f3H5k4GsxMuDsLlZpnOmmrCw",
@@ -52,11 +66,13 @@
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-24",
       "hinweise": [
-        "Das passiert wenn man zu spät in den Call muss… Ich habe meine sportkleidung vom padel 2h lang gefilmt, dabei war in dem Special Call so geiler Scheiß dabei… fuxk… Anne bitte trotzdem aus dem Special Call Inhalte versuchen rauszuholen… oder eben die Aussagen und Stories als reels irgendwie in unsere Session holen… Naja…",
+        "Das passiert wenn man zu spät in den Call muss… Ich habe meine sportkleidung vom padel 2h lang gefilmt, dabei war in dem Special Call so geiler Scheiß dabei… fuxk… @Anne (DE-0) bitte trotzdem aus dem Special Call Inhalte versuchen rauszuholen… oder eben die Aussagen und Stories als reels irgendwie in unsere Session holen… Naja…",
         "Story dazu:",
         ":partying_face: die Story ist cool @Alex (DUB p 2) genau solche Momente aus dem Leben wollen wir gern öfter sehen. Danke :pray::joy:"
       ],
-      "dateien": ["IMG_4227.jpg"]
+      "dateien": [
+        "IMG_4227.jpg"
+      ]
     },
     {
       "link": "https://share.icloud.com/photos/00cZjaXmzBjrnlO3wrafB5NSw",
@@ -79,7 +95,9 @@
       "titel": "Business breakfast",
       "absender": "Alex (DUB p 2)",
       "datum": "2026-09-25",
-      "hinweise": ["Speicherplatz Probleme…"],
+      "hinweise": [
+        "Speicherplatz Probleme…"
+      ],
       "dateien": []
     }
   ]
