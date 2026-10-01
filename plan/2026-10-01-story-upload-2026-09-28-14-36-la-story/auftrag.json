@@ -7,9 +7,12 @@
  "thema": "",
  "caption": "",
  "blogId": 5629189,
- "status": "bereit",
+ "status": "gepostet",
  "erstellt": "2026-10-01T16:15",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-01-story-upload-2026-09-28-14-36-la-story/LA_Story-ut.mp4"
- ]
+ ],
+ "gepostet": "2026-10-01T16:17:00+02:00",
+ "metricool_id": 385901139,
+ "fest_eingeplant": true
 }
