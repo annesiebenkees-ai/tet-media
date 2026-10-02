@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-02T10:12",
+ "stand": "2026-10-02T14:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -8,7 +8,9 @@
    "datum": "2026-09-30",
    "uhrzeit": "19:15",
    "typ": "POST",
-   "netzwerke": ["instagram"],
+   "netzwerke": [
+    "instagram"
+   ],
    "status": "PUBLISHED",
    "text": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben drauf. Unsere Kunden ha",
    "url": "https://www.instagram.com/p/Dd62pLlDaSJ/",
@@ -19,7 +21,9 @@
    "datum": "2026-10-01",
    "uhrzeit": "16:30",
    "typ": "STORY",
-   "netzwerke": ["instagram"],
+   "netzwerke": [
+    "instagram"
+   ],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998",
@@ -30,7 +34,11 @@
    "datum": "2026-10-01",
    "uhrzeit": "19:45",
    "typ": "REEL",
-   "netzwerke": ["facebook", "instagram", "tiktok"],
+   "netzwerke": [
+    "facebook",
+    "instagram",
+    "tiktok"
+   ],
    "status": "PUBLISHED",
    "text": "",
    "url": "https://facebook.com/reel/1006392389155154",
@@ -41,7 +49,10 @@
    "datum": "2026-10-01",
    "uhrzeit": "20:10",
    "typ": "REEL",
-   "netzwerke": ["instagram", "tiktok"],
+   "netzwerke": [
+    "instagram",
+    "tiktok"
+   ],
    "status": "PUBLISHED",
    "text": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war nicht",
    "url": "https://www.instagram.com/reel/Dd9haZvCB5t/",
