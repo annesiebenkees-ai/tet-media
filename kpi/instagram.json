@@ -1,224 +1,13 @@
 {
- "stand": "2026-10-04T06:26+02:00",
+ "stand": "2026-10-05T06:25+02:00",
  "quelle": "Metricool-Connector",
  "profil": {
-  "followers": 6635,
-  "reach": 2738,
+  "followers": null,
+  "reach": null,
   "interactions": null
  },
- "verlauf": [
-  {
-   "datum": "2026-09-04",
-   "followers": 6617,
-   "reach": 1076,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-05",
-   "followers": 6616,
-   "reach": 1612,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-06",
-   "followers": 6615,
-   "reach": 1565,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-07",
-   "followers": 6619,
-   "reach": 1404,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-08",
-   "followers": 6620,
-   "reach": 1900,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-09",
-   "followers": 6616,
-   "reach": 1799,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-10",
-   "followers": 6609,
-   "reach": 1355,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-11",
-   "followers": 6604,
-   "reach": 1639,
-   "interactions": 8
-  },
-  {
-   "datum": "2026-09-12",
-   "followers": 6605,
-   "reach": 1357,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-13",
-   "followers": 6604,
-   "reach": 1543,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-14",
-   "followers": 6606,
-   "reach": 1806,
-   "interactions": 9
-  },
-  {
-   "datum": "2026-09-15",
-   "followers": 6604,
-   "reach": 2127,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-16",
-   "followers": 6597,
-   "reach": 2121,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-17",
-   "followers": 6596,
-   "reach": 1900,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-18",
-   "followers": null,
-   "reach": 1520,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-19",
-   "followers": null,
-   "reach": 2216,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-20",
-   "followers": null,
-   "reach": 3739,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-21",
-   "followers": 6606,
-   "reach": 9454,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-22",
-   "followers": 6607,
-   "reach": 10188,
-   "interactions": 10
-  },
-  {
-   "datum": "2026-09-23",
-   "followers": 6608,
-   "reach": 15402,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-24",
-   "followers": 6612,
-   "reach": 13246,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-25",
-   "followers": 6617,
-   "reach": 13847,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-26",
-   "followers": 6623,
-   "reach": 15104,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-27",
-   "followers": 6630,
-   "reach": 13480,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-28",
-   "followers": 6631,
-   "reach": 12342,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-29",
-   "followers": null,
-   "reach": 3770,
-   "interactions": null
-  },
-  {
-   "datum": "2026-09-30",
-   "followers": 6629,
-   "reach": 3880,
-   "interactions": 19
-  },
-  {
-   "datum": "2026-10-01",
-   "followers": 6633,
-   "reach": 4324,
-   "interactions": null
-  },
-  {
-   "datum": "2026-10-02",
-   "followers": 6632,
-   "reach": 3197,
-   "interactions": null
-  },
-  {
-   "datum": "2026-10-03",
-   "followers": 6635,
-   "reach": 2738,
-   "interactions": null
-  }
- ],
+ "verlauf": [],
  "posts": [
-  {
-   "timestamp": "2026-09-04T11:00:00+02:00",
-   "caption": "Aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau einen Platz, voll finanziert.  6 Monate an d",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/Dc3BTzkEtN6/"
-  },
-  {
-   "timestamp": "2026-09-04T17:00:00+02:00",
-   "caption": "Achtung Coaches, Berater aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau einen Platz, voll f",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/Dc3qnJDCKkQ/"
-  },
-  {
-   "timestamp": "2026-09-04T18:30:00+02:00",
-   "caption": "Der Move aus dem Video ist einer von vielen, die wir im Mentoring durchgehen.  Das Ding ist: Abschlüsse sind nur ein Tei",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/Dc30n7ulZ35/"
-  },
   {
    "timestamp": "2026-09-05T12:00:00+02:00",
    "caption": "Willst du auch deinen Umsatz verfünffachen? Genau dafür vergeben wir gerade ein Voll-Stipendium für unser 1:1 Mentoring.",
@@ -231,7 +20,7 @@
   },
   {
    "timestamp": "2026-09-05T18:30:00+02:00",
-   "caption": "Ohne Ads kannst du die 50k vergessen.  Warum, siehst du im Video.  Passend dazu: Wir vergeben gerade ein Voll-Stipendium",
+   "caption": "Ohne Ads kannst du die 50k vergessen. Warum, siehst du im Video.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -241,7 +30,7 @@
   },
   {
    "timestamp": "2026-09-06T10:00:00+02:00",
-   "caption": "Du willst irgendwann auswandern? Dann ist deine GmbH das größte Problem, das du dir gebaut hast.  Übrigens: Wir vergeben",
+   "caption": "Du willst irgendwann auswandern? Dann ist deine GmbH das größte Problem, das du dir gebaut hast.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -281,7 +70,7 @@
   },
   {
    "timestamp": "2026-09-07T20:00:00+02:00",
-   "caption": "Mitarbeiter mit Burnout kosten deinem Unternehmen durchschnittlich 600.000€  Wusstest du das?  Und die Ursache ist fast ",
+   "caption": "Mitarbeiter mit Burnout kosten deinem Unternehmen durchschnittlich 600.000€ Wusstest du das?",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -301,7 +90,7 @@
   },
   {
    "timestamp": "2026-09-08T18:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -321,7 +110,7 @@
   },
   {
    "timestamp": "2026-09-09T14:00:00+02:00",
-   "caption": "Teil 1  Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Fee",
+   "caption": "Teil 1 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -331,7 +120,7 @@
   },
   {
    "timestamp": "2026-09-09T16:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -341,7 +130,7 @@
   },
   {
    "timestamp": "2026-09-09T18:00:00+02:00",
-   "caption": "Teil 2  Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Fee",
+   "caption": "Teil 2 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -361,7 +150,7 @@
   },
   {
    "timestamp": "2026-09-10T10:00:00+02:00",
-   "caption": "Teil 3  Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Fee",
+   "caption": "Teil 3 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -371,7 +160,7 @@
   },
   {
    "timestamp": "2026-09-10T18:40:00+02:00",
-   "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feedback ge",
+   "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -391,7 +180,7 @@
   },
   {
    "timestamp": "2026-09-11T16:30:00+02:00",
-   "caption": "Das sind die Special Calls, die bei unseren Kunden nächste Woche anstehen.  Und das ist nur das Extra obendrauf. Darunte",
+   "caption": "Das sind die Special Calls, die bei unseren Kunden nächste Woche anstehen. Und das ist nur das Extra obendrauf.",
    "productType": "POST",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -401,7 +190,7 @@
   },
   {
    "timestamp": "2026-09-11T18:30:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -411,7 +200,7 @@
   },
   {
    "timestamp": "2026-09-14T15:35:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -471,7 +260,7 @@
   },
   {
    "timestamp": "2026-09-15T20:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -501,7 +290,7 @@
   },
   {
    "timestamp": "2026-09-17T15:51:00+02:00",
-   "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und ha",
+   "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -511,7 +300,7 @@
   },
   {
    "timestamp": "2026-09-17T16:22:00+02:00",
-   "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und ha",
+   "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -521,7 +310,7 @@
   },
   {
    "timestamp": "2026-09-17T17:00:00+02:00",
-   "caption": "Unser Mitbewerb wundert sich – wir machen es einfach.  Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kun",
+   "caption": "Unser Mitbewerb wundert sich – wir machen es einfach. Claudia ist Mentorin bei The Escape Theory.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -611,7 +400,7 @@
   },
   {
    "timestamp": "2026-09-23T20:15:00+02:00",
-   "caption": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir. Und das ist e",
+   "caption": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -631,7 +420,7 @@
   },
   {
    "timestamp": "2026-09-24T16:30:00+02:00",
-   "caption": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch. 1.20",
+   "caption": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -691,7 +480,7 @@
   },
   {
    "timestamp": "2026-09-25T12:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -701,7 +490,7 @@
   },
   {
    "timestamp": "2026-09-30T19:15:00+02:00",
-   "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben dra",
+   "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.",
    "productType": "POST",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -731,7 +520,7 @@
   },
   {
    "timestamp": "2026-10-01T20:10:00+02:00",
-   "caption": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre e",
+   "caption": "Wir analysieren Instagram-Accounts, heute Teil 1. Sam hat sich das Profil von zwei Kunden von uns angesehen",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
