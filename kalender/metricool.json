@@ -1,40 +1,76 @@
 {
-  "stand": "2026-10-05T14:12",
-  "brand": "5629189",
-  "quelle": "Metricool-Connector",
-  "posts": [
-    {
-      "id": 385901139,
-      "datum": "2026-10-01",
-      "uhrzeit": "16:30",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998",
-      "entwurf": false
-    },
-    {
-      "id": 386063499,
-      "datum": "2026-10-01",
-      "uhrzeit": "19:45",
-      "typ": "REEL",
-      "netzwerke": ["facebook", "instagram", "tiktok"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://facebook.com/reel/1006392389155154",
-      "entwurf": false
-    },
-    {
-      "id": 386081331,
-      "datum": "2026-10-01",
-      "uhrzeit": "20:10",
-      "typ": "REEL",
-      "netzwerke": ["instagram", "tiktok"],
-      "status": "PUBLISHED",
-      "text": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war nicht",
-      "url": "https://www.instagram.com/reel/Dd9haZvCB5t/",
-      "entwurf": false
-    }
-  ]
+ "stand": "2026-10-05T16:12",
+ "brand": "5629189",
+ "quelle": "Metricool-Connector",
+ "posts": [
+  {
+   "id": 385901139,
+   "datum": "2026-10-01",
+   "uhrzeit": "16:30",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998",
+   "entwurf": false
+  },
+  {
+   "id": 386063499,
+   "datum": "2026-10-01",
+   "uhrzeit": "19:45",
+   "typ": "REEL",
+   "netzwerke": [
+    "facebook",
+    "instagram",
+    "tiktok"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://facebook.com/reel/1006392389155154",
+   "entwurf": false
+  },
+  {
+   "id": 386081331,
+   "datum": "2026-10-01",
+   "uhrzeit": "20:10",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram",
+    "tiktok"
+   ],
+   "status": "PUBLISHED",
+   "text": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war nicht",
+   "url": "https://www.instagram.com/reel/Dd9haZvCB5t/",
+   "entwurf": false
+  },
+  {
+   "id": 388666644,
+   "datum": "2026-10-05",
+   "uhrzeit": "17:30",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram",
+    "tiktok"
+   ],
+   "status": "PUBLISHED",
+   "text": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in zwei Minuten aus Chat",
+   "url": "https://www.instagram.com/reel/DeHiXRtiMWt/",
+   "entwurf": false
+  },
+  {
+   "id": 388664519,
+   "datum": "2026-10-05",
+   "uhrzeit": "17:50",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇  🔻 Gemini gratis wird ab Freitag klein",
+   "url": "https://www.instagram.com/p/DeHkpjWD9Dl/",
+   "entwurf": false
+  }
+ ]
 }
