@@ -1,40 +1,49 @@
 {
-  "stand": "2026-10-05T08:11",
-  "brand": "5629189",
-  "quelle": "Metricool-Connector",
-  "posts": [
-    {
-      "id": 385901139,
-      "datum": "2026-10-01",
-      "uhrzeit": "16:30",
-      "typ": "STORY",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998",
-      "entwurf": false
-    },
-    {
-      "id": 386063499,
-      "datum": "2026-10-01",
-      "uhrzeit": "19:45",
-      "typ": "REEL",
-      "netzwerke": ["facebook", "instagram", "tiktok"],
-      "status": "PUBLISHED",
-      "text": "",
-      "url": "https://facebook.com/reel/1006392389155154",
-      "entwurf": false
-    },
-    {
-      "id": 386081331,
-      "datum": "2026-10-01",
-      "uhrzeit": "20:10",
-      "typ": "REEL",
-      "netzwerke": ["instagram", "tiktok"],
-      "status": "PUBLISHED",
-      "text": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war nicht",
-      "url": "https://www.instagram.com/reel/Dd9haZvCB5t/",
-      "entwurf": false
-    }
-  ]
+ "stand": "2026-10-05T10:11",
+ "brand": "5629189",
+ "quelle": "Metricool-Connector",
+ "posts": [
+  {
+   "id": 385901139,
+   "datum": "2026-10-01",
+   "uhrzeit": "16:30",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998",
+   "entwurf": false
+  },
+  {
+   "id": 386063499,
+   "datum": "2026-10-01",
+   "uhrzeit": "19:45",
+   "typ": "REEL",
+   "netzwerke": [
+    "facebook",
+    "instagram",
+    "tiktok"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://facebook.com/reel/1006392389155154",
+   "entwurf": false
+  },
+  {
+   "id": 386081331,
+   "datum": "2026-10-01",
+   "uhrzeit": "20:10",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram",
+    "tiktok"
+   ],
+   "status": "PUBLISHED",
+   "text": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war nicht",
+   "url": "https://www.instagram.com/reel/Dd9haZvCB5t/",
+   "entwurf": false
+  }
+ ]
 }
