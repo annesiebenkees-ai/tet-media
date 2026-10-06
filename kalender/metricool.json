@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-06T18:12",
+ "stand": "2026-10-06T20:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -28,6 +28,45 @@
    "status": "PUBLISHED",
    "text": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇  🔻 Gemini gratis wird ab Freitag klein",
    "url": "https://www.instagram.com/p/DeHkpjWD9Dl/",
+   "entwurf": false
+  },
+  {
+   "id": 389618019,
+   "datum": "2026-10-06",
+   "uhrzeit": "18:20",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002067927037625105",
+   "entwurf": false
+  },
+  {
+   "id": 389641748,
+   "datum": "2026-10-06",
+   "uhrzeit": "18:48",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/DeKQMmxAbXS/",
+   "entwurf": false
+  },
+  {
+   "id": 389652611,
+   "datum": "2026-10-06",
+   "uhrzeit": "18:59",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Testkunden zahlen dich. Nur nicht in Cash.  Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil es nichts wert ist,",
+   "url": "https://www.instagram.com/reel/DeKRPiLAXZj/",
    "entwurf": false
   }
  ]
