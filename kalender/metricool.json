@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-07T16:12",
+ "stand": "2026-10-07T18:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -70,55 +70,55 @@
    "entwurf": false
   },
   {
-   "id": 390376534,
+   "id": 390384563,
    "datum": "2026-10-07",
-   "uhrzeit": "16:30",
+   "uhrzeit": "16:24",
    "typ": "REEL",
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Personal Brands basieren auf Geschichten. Und jetzt denkst du: ich habe keine. Ich bin nicht nach Bali ausgewandert, in meinem Alltag passie",
-   "url": "",
+   "url": "https://www.instagram.com/reel/DeMkZI5ivdE/",
    "entwurf": false
   },
   {
-   "id": 390376641,
+   "id": 390384608,
    "datum": "2026-10-07",
-   "uhrzeit": "16:40",
+   "uhrzeit": "16:25",
    "typ": "STORY",
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "",
-   "url": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002734381903888899",
    "entwurf": false
   },
   {
-   "id": 390376830,
+   "id": 390384661,
    "datum": "2026-10-07",
-   "uhrzeit": "16:42",
+   "uhrzeit": "16:26",
    "typ": "STORY",
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "",
-   "url": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002734772744426513",
    "entwurf": false
   },
   {
-   "id": 390376962,
+   "id": 390384684,
    "datum": "2026-10-07",
-   "uhrzeit": "16:44",
+   "uhrzeit": "16:27",
    "typ": "STORY",
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "",
-   "url": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002735300439002261",
    "entwurf": false
   }
  ]
