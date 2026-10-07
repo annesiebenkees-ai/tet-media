@@ -1,18 +1,12 @@
 {
- "stand": "2026-10-06T06:25+02:00",
+ "stand": "2026-10-07T06:22+02:00",
  "quelle": "Metricool-Connector",
  "profil": {
-  "followers": 6641,
-  "reach": 3014,
-  "interactions": 7
+  "followers": 6640,
+  "reach": 155888,
+  "interactions": 57
  },
  "verlauf": [
-  {
-   "datum": "2026-09-06",
-   "followers": 6615,
-   "reach": 1565,
-   "interactions": null
-  },
   {
    "datum": "2026-09-07",
    "followers": 6619,
@@ -184,41 +178,17 @@
   {
    "datum": "2026-10-05",
    "followers": 6641,
-   "reach": 3014,
-   "interactions": 7
+   "reach": 3461,
+   "interactions": 8
+  },
+  {
+   "datum": "2026-10-06",
+   "followers": 6640,
+   "reach": 526,
+   "interactions": 3
   }
  ],
  "posts": [
-  {
-   "timestamp": "2026-09-06T10:00:00+02:00",
-   "caption": "Du willst irgendwann auswandern? Dann ist deine GmbH das größte Problem, das du dir gebaut hast.  Übrigens: Wir vergeben",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/Dc8EBz6DjaQ/"
-  },
-  {
-   "timestamp": "2026-09-06T12:30:00+02:00",
-   "caption": "Es gibt zwar keine Abkürzung aber achtung aufgepasst! Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. Genau ei",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/Dc8VEriCGvi/"
-  },
-  {
-   "timestamp": "2026-09-06T18:00:00+02:00",
-   "caption": "Du brauchst keine Idee, du brauchst ein Problem! Aufgepasst: Wir vergeben ein Voll-Stipendium für unser 1:1 Mentoring. G",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/Dc87AUCka4Y/"
-  },
   {
    "timestamp": "2026-09-07T18:00:00+02:00",
    "caption": "Verinnerliche diesen einen Gedanken! aber passend dazu: Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring.",
@@ -641,7 +611,7 @@
   },
   {
    "timestamp": "2026-09-25T12:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -651,7 +621,7 @@
   },
   {
    "timestamp": "2026-09-30T19:15:00+02:00",
-   "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben dra",
+   "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn. Special Calls kommen oben drau",
    "productType": "POST",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -681,7 +651,7 @@
   },
   {
    "timestamp": "2026-10-01T20:10:00+02:00",
-   "caption": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre e",
+   "caption": "Wir analysieren Instagram-Accounts, heute Teil 1. Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre er",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -701,13 +671,43 @@
   },
   {
    "timestamp": "2026-10-05T17:50:00+02:00",
-   "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇  🔻 Gemini gratis w",
+   "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 🔻 Gemini gratis wird",
    "productType": "POST",
    "videoPlayCount": null,
    "videoViewCount": null,
    "likesCount": null,
    "commentsCount": null,
    "url": "https://www.instagram.com/p/DeHkpjWD9Dl/"
+  },
+  {
+   "timestamp": "2026-10-06T18:20:00+02:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002067927037625105"
+  },
+  {
+   "timestamp": "2026-10-06T18:48:00+02:00",
+   "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/p/DeKQMmxAbXS/"
+  },
+  {
+   "timestamp": "2026-10-06T18:59:00+02:00",
+   "caption": "Testkunden zahlen dich. Nur nicht in Cash. Ein Testkunde bekommt dein Angebot für einen Euro oder für null.",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/reel/DeKRPiLAXZj/"
   }
  ]
 }
