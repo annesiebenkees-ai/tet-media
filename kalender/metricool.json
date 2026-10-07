@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-07T10:12",
+ "stand": "2026-10-07T16:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -67,6 +67,58 @@
    "status": "PUBLISHED",
    "text": "Testkunden zahlen dich. Nur nicht in Cash.  Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil es nichts wert ist,",
    "url": "https://www.instagram.com/reel/DeKRPiLAXZj/",
+   "entwurf": false
+  },
+  {
+   "id": 390376534,
+   "datum": "2026-10-07",
+   "uhrzeit": "16:30",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Personal Brands basieren auf Geschichten. Und jetzt denkst du: ich habe keine. Ich bin nicht nach Bali ausgewandert, in meinem Alltag passie",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 390376641,
+   "datum": "2026-10-07",
+   "uhrzeit": "16:40",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 390376830,
+   "datum": "2026-10-07",
+   "uhrzeit": "16:42",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 390376962,
+   "datum": "2026-10-07",
+   "uhrzeit": "16:44",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
    "entwurf": false
   }
  ]
