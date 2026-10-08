@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-08T10:11",
+ "stand": "2026-10-08T20:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -132,6 +132,45 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/4003268857162375882",
+   "entwurf": false
+  },
+  {
+   "id": 391362688,
+   "datum": "2026-10-08",
+   "uhrzeit": "18:52",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "„KI ersetzt meinen Job.“ Ja, tut sie. Wenn du dich nicht weiterentwickelst.  Das Problem ist selten die KI. Das Problem ist die Opferhaltung",
+   "url": "https://www.instagram.com/reel/DePaB-zj919/",
+   "entwurf": false
+  },
+  {
+   "id": 391362711,
+   "datum": "2026-10-08",
+   "uhrzeit": "19:20",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Warum kostet in Deutschland fast jedes Programm um die 4.000 Euro?  Weil dort der Gleichgewichtspreis liegt. 100 Kunden im Jahr für 4.000 Eu",
+   "url": "https://www.instagram.com/reel/DePdQVQk-K4/",
+   "entwurf": false
+  },
+  {
+   "id": 391362737,
+   "datum": "2026-10-08",
+   "uhrzeit": "19:50",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Ich finde es echt traurig, wenn ein Online-Business nicht entsteht, weil jemand an der Technik verzweifelt.  Die Vision ist da. Der Wunsch i",
+   "url": "https://www.instagram.com/reel/DePgsDfCQN-/",
    "entwurf": false
   }
  ]
