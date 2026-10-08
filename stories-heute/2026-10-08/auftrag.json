@@ -5,10 +5,13 @@
   {
    "name": "StoryueberTET.mp4",
    "erstellt": "2026-10-08T10:00",
-   "status": "bereit",
+   "status": "gepostet",
    "untertitel": true,
    "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-10-08/StoryueberTET-ut.mp4",
-   "posting": "ausgeloest"
+   "posting": "ausgeloest",
+   "gepostet": "2026-10-08T10:04:00+02:00",
+   "metricool_id": 390957424,
+   "fest_eingeplant": true
   }
  ]
 }
