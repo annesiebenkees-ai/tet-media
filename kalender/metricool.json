@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-08T06:12",
+ "stand": "2026-10-08T10:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -26,7 +26,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇 🔻 Gemini gratis wird ab Freitag kleine",
+   "text": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇  🔻 Gemini gratis wird ab Freitag klein",
    "url": "https://www.instagram.com/p/DeHkpjWD9Dl/",
    "entwurf": false
   },
@@ -65,7 +65,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Testkunden zahlen dich. Nur nicht in Cash. Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil es nichts wert ist, ",
+   "text": "Testkunden zahlen dich. Nur nicht in Cash.  Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil es nichts wert ist,",
    "url": "https://www.instagram.com/reel/DeKRPiLAXZj/",
    "entwurf": false
   },
@@ -119,6 +119,19 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/4002735300439002261",
+   "entwurf": false
+  },
+  {
+   "id": 390957424,
+   "datum": "2026-10-08",
+   "uhrzeit": "10:07",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4003268857162375882",
    "entwurf": false
   }
  ]
