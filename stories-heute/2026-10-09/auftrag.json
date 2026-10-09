@@ -9,10 +9,21 @@
    "untertitel": true,
    "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-10-09/01-Story1-ut.mp4",
    "posting": "ausgeloest",
-   "gepostet": "2026-10-09T11:53:00+02:00",
-   "metricool_id": 391899281,
+   "gepostet": "2026-10-09T11:51:00+02:00",
+   "metricool_id": 391900013,
    "fest_eingeplant": true,
-   "hinweis": "Kein neuer Post angelegt: laut getScheduledPosts bereits als Metricool-Post 391899281 um 11:53 fuer STORY/Instagram angelegt (draft=false, autoPublish=true, PENDING). Gemaess Regel 1 nur die bestehende ID nachgetragen."
+   "hinweis": "Paralleler Lauf hat hier faelschlich die metricool_id 391899281 eingetragen (das ist der Post fuer 02-Story2.mp4, nicht fuer diese Datei). Korrigiert: der tatsaechliche Post fuer 01-Story1-ut.mp4 ist 391900013, erstellt 11:51 fuer 11:54 Uhr, draft=false/autoPublish=true/PENDING verifiziert."
+  },
+  {
+   "name": "02-Story2.mp4",
+   "erstellt": "2026-10-09T11:47",
+   "status": "gepostet",
+   "untertitel": true,
+   "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-10-09/02-Story2-ut.mp4",
+   "posting": "ausgeloest",
+   "gepostet": "2026-10-09T11:50:00+02:00",
+   "metricool_id": 391899281,
+   "fest_eingeplant": true
   }
  ]
 }
