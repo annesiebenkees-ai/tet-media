@@ -1,18 +1,12 @@
 {
- "stand": "2026-10-08T06:23+02:00",
+ "stand": "2026-10-09T04:26+02:00",
  "quelle": "Metricool-Connector",
  "profil": {
-  "followers": 6640,
-  "reach": 154877,
+  "followers": 6642,
+  "reach": 156493,
   "interactions": 62
  },
  "verlauf": [
-  {
-   "datum": "2026-09-08",
-   "followers": 6620,
-   "reach": 1900,
-   "interactions": null
-  },
   {
    "datum": "2026-09-09",
    "followers": 6616,
@@ -184,41 +178,17 @@
   {
    "datum": "2026-10-07",
    "followers": 6640,
-   "reach": 369,
+   "reach": 403,
+   "interactions": null
+  },
+  {
+   "datum": "2026-10-08",
+   "followers": 6642,
+   "reach": 3482,
    "interactions": null
   }
  ],
  "posts": [
-  {
-   "timestamp": "2026-09-08T15:20:00+02:00",
-   "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feedback ge",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/DdByHSEjMEE/"
-  },
-  {
-   "timestamp": "2026-09-08T18:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/DdCEzVcEifY/"
-  },
-  {
-   "timestamp": "2026-09-08T20:30:00+02:00",
-   "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
-   "productType": "REEL",
-   "videoPlayCount": null,
-   "videoViewCount": null,
-   "likesCount": null,
-   "commentsCount": null,
-   "url": "https://www.instagram.com/reel/DdCVkA5k4a3/"
-  },
   {
    "timestamp": "2026-09-09T14:00:00+02:00",
    "caption": "Teil 1 Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feed",
@@ -591,7 +561,7 @@
   },
   {
    "timestamp": "2026-09-25T12:00:00+02:00",
-   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
+   "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert. Sechs ",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -651,7 +621,7 @@
   },
   {
    "timestamp": "2026-10-05T17:50:00+02:00",
-   "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 🔻 Gemini gratis wird",
+   "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇 🔻 Gemini gratis wi",
    "productType": "POST",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -681,7 +651,7 @@
   },
   {
    "timestamp": "2026-10-06T18:59:00+02:00",
-   "caption": "Testkunden zahlen dich. Nur nicht in Cash. Ein Testkunde bekommt dein Angebot für einen Euro oder für null.",
+   "caption": "Testkunden zahlen dich. Nur nicht in Cash. Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil ",
    "productType": "REEL",
    "videoPlayCount": null,
    "videoViewCount": null,
@@ -728,6 +698,46 @@
    "likesCount": null,
    "commentsCount": null,
    "url": "https://www.instagram.com/stories/the_escapetheory/4002735300439002261"
+  },
+  {
+   "timestamp": "2026-10-08T10:07:00+02:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4003268857162375882"
+  },
+  {
+   "timestamp": "2026-10-08T18:52:00+02:00",
+   "caption": "„KI ersetzt meinen Job.“ Ja, tut sie. Wenn du dich nicht weiterentwickelst. Das Problem ist selten die KI. Das Problem i",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/reel/DePaB-zj919/"
+  },
+  {
+   "timestamp": "2026-10-08T19:20:00+02:00",
+   "caption": "Warum kostet in Deutschland fast jedes Programm um die 4.000 Euro? Weil dort der Gleichgewichtspreis liegt. 100 Kunden i",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/reel/DePdQVQk-K4/"
+  },
+  {
+   "timestamp": "2026-10-08T19:50:00+02:00",
+   "caption": "Ich finde es echt traurig, wenn ein Online-Business nicht entsteht, weil jemand an der Technik verzweifelt. Die Vision i",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/reel/DePgsDfCQN-/"
   }
  ]
 }
