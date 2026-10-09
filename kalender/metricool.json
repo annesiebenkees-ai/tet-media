@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-09T08:12",
+ "stand": "2026-10-09T10:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -171,6 +171,32 @@
    "status": "PUBLISHED",
    "text": "Ich finde es echt traurig, wenn ein Online-Business nicht entsteht, weil jemand an der Technik verzweifelt.  Die Vision ist da. Der Wunsch i",
    "url": "https://www.instagram.com/reel/DePgsDfCQN-/",
+   "entwurf": false
+  },
+  {
+   "id": 391899281,
+   "datum": "2026-10-09",
+   "uhrzeit": "11:53",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4004046890723451487",
+   "entwurf": false
+  },
+  {
+   "id": 391900013,
+   "datum": "2026-10-09",
+   "uhrzeit": "11:54",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4004047393099217967",
    "entwurf": false
   }
  ]
