@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-09T10:13",
+ "stand": "2026-10-09T18:15",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -197,6 +197,136 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/4004047393099217967",
+   "entwurf": false
+  },
+  {
+   "id": 392122552,
+   "datum": "2026-10-09",
+   "uhrzeit": "16:52",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Dieses iPad hat sich in einer Stunde selbst bezahlt.  500 Euro waren damals viel Geld. Tayler und sein Freund Ralf haben das iPad trotzdem g",
+   "url": "https://www.instagram.com/reel/DeRxFYjikSd/",
+   "entwurf": false
+  },
+  {
+   "id": 392154849,
+   "datum": "2026-10-09",
+   "uhrzeit": "17:29",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/DeR1aafjYrY/",
+   "entwurf": false
+  },
+  {
+   "id": 392155053,
+   "datum": "2026-10-09",
+   "uhrzeit": "18:30",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Der größte Hebel in deinem Business? Dich zu trauen, etwas für 120.000 Euro zu verkaufen.  Alex rechnet es vor: 10.000 Euro im Monat, ein Ja",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140050,
+   "datum": "2026-10-10",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Geile Werbung, kaputtes Produkt. Tayler gibt dir drei Monate.  Du kannst starke Anzeigen bauen und gute Kunden an Land ziehen, weil du als T",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140127,
+   "datum": "2026-10-10",
+   "uhrzeit": "18:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "„Anwälte sind die schlechtesten Unternehmer der Welt.“ Alex meint das nicht als Beleidigung, sondern als Jobbeschreibung.  Ein Anwalt darf d",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140217,
+   "datum": "2026-10-11",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "80 Prozent werden scheitern. Das sagt Tayler seinen eigenen Kunden ins Gesicht.  Niemand schlägt Pareto, egal wie gut das Programm ist. Wir ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140327,
+   "datum": "2026-10-11",
+   "uhrzeit": "18:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Noch keine Kunden, noch keine Beweise? Dann brauchst du ein Angebot, das zu gut ist, um Nein zu sagen.  Alex nennt das Produkt Null. Gemeint",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140414,
+   "datum": "2026-10-12",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Wer mit Tayler in einem Call sitzt, weiß zwei Dinge.  Erstens: Die Calls laufen komplett ungeskriptet. Zweitens: Er ist extrem direkt. Wenn ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140510,
+   "datum": "2026-10-12",
+   "uhrzeit": "18:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Gratis gibt es nicht. Menschen bezahlen dich immer, nur nicht immer mit Cash.  Ein Gratis-Call mit Alex ist nicht gratis. Du bezahlst ihn zu",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 392140588,
+   "datum": "2026-10-13",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du wirst Pareto niemals schlagen. Egal wie gut du bist.  Es gibt einen Punkt, den kein Coaching, keine Dienstleistung und kein noch so guter",
+   "url": "",
    "entwurf": false
   }
  ]
