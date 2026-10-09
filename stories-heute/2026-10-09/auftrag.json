@@ -5,10 +5,14 @@
   {
    "name": "01-Story1.mp4",
    "erstellt": "2026-10-09T11:47",
-   "status": "bereit",
+   "status": "gepostet",
    "untertitel": true,
    "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-10-09/01-Story1-ut.mp4",
-   "posting": "ausgeloest"
+   "posting": "ausgeloest",
+   "gepostet": "2026-10-09T11:53:00+02:00",
+   "metricool_id": 391899281,
+   "fest_eingeplant": true,
+   "hinweis": "Kein neuer Post angelegt: laut getScheduledPosts bereits als Metricool-Post 391899281 um 11:53 fuer STORY/Instagram angelegt (draft=false, autoPublish=true, PENDING). Gemaess Regel 1 nur die bestehende ID nachgetragen."
   }
  ]
 }
