@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-11T18:14",
+ "stand": "2026-10-11T18:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -222,6 +222,32 @@
    "status": "PUBLISHED",
    "text": "Noch keine Kunden, noch keine Beweise? Dann brauchst du ein Angebot, das zu gut ist, um Nein zu sagen.  Alex nennt das Produkt Null. Gemeint",
    "url": "https://www.instagram.com/reel/DeXC31MjpFU/",
+   "entwurf": false
+  },
+  {
+   "id": 393430842,
+   "datum": "2026-10-11",
+   "uhrzeit": "20:06",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4005744581849335493",
+   "entwurf": false
+  },
+  {
+   "id": 393430856,
+   "datum": "2026-10-11",
+   "uhrzeit": "20:09",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4005746065391606860",
    "entwurf": false
   },
   {
