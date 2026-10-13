@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T08:12",
+ "stand": "2026-10-13T12:14",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -183,6 +183,32 @@
    "status": "PUBLISHED",
    "text": "Du wirst Pareto niemals schlagen. Egal wie gut du bist.  Es gibt einen Punkt, den kein Coaching, keine Dienstleistung und kein noch so guter",
    "url": "https://www.instagram.com/reel/DebVgkhAhRJ/",
+   "entwurf": false
+  },
+  {
+   "id": 394763129,
+   "datum": "2026-10-13",
+   "uhrzeit": "11:42",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4006940492818450705",
+   "entwurf": false
+  },
+  {
+   "id": 394778340,
+   "datum": "2026-10-13",
+   "uhrzeit": "13:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Der Umsatz ist für uns alle meistens nur ein Telefonat entfernt. Wir führen es trotzdem nicht, weil dahinter eine Angst sitzt.  Die schweren",
+   "url": "",
    "entwurf": false
   }
  ]
