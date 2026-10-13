@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T16:13",
+ "stand": "2026-10-13T18:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -209,6 +209,19 @@
    "status": "PUBLISHED",
    "text": "Der Umsatz ist für uns alle meistens nur ein Telefonat entfernt. Wir führen es trotzdem nicht, weil dahinter eine Angst sitzt.  Die schweren",
    "url": "https://www.instagram.com/reel/DebqBmGiD9J/",
+   "entwurf": false
+  },
+  {
+   "id": 395197534,
+   "datum": "2026-10-13",
+   "uhrzeit": "20:08",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karussells bauen, mit Fo",
+   "url": "https://www.instagram.com/p/DecawobFA9R/",
    "entwurf": false
   }
  ]
