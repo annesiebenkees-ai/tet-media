@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T18:12",
+ "stand": "2026-10-13T22:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -222,6 +222,19 @@
    "status": "PUBLISHED",
    "text": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karussells bauen, mit Fo",
    "url": "https://www.instagram.com/p/DecawobFA9R/",
+   "entwurf": false
+  },
+  {
+   "id": 395246155,
+   "datum": "2026-10-14",
+   "uhrzeit": "08:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karussells bauen, mit Fo",
+   "url": "",
    "entwurf": false
   }
  ]
