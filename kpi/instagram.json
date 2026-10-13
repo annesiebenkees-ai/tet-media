@@ -1,18 +1,12 @@
 {
-  "stand": "2026-10-12T04:25Z",
+  "stand": "2026-10-13T04:26Z",
   "quelle": "Metricool-Connector",
   "profil": {
-    "followers": 6639,
-    "reach": 168595,
-    "interactions": 61
+    "followers": 6638,
+    "reach": 168238,
+    "interactions": 63
   },
   "verlauf": [
-    {
-      "datum": "2026-09-12",
-      "followers": 6605,
-      "reach": 1357,
-      "interactions": null
-    },
     {
       "datum": "2026-09-13",
       "followers": 6604,
@@ -149,7 +143,7 @@
       "datum": "2026-10-05",
       "followers": 6641,
       "reach": 3461,
-      "interactions": 9
+      "interactions": 11
     },
     {
       "datum": "2026-10-06",
@@ -184,14 +178,20 @@
     {
       "datum": "2026-10-11",
       "followers": 6639,
-      "reach": 1386,
+      "reach": 1573,
+      "interactions": null
+    },
+    {
+      "datum": "2026-10-12",
+      "followers": 6638,
+      "reach": 813,
       "interactions": null
     }
   ],
   "posts": [
     {
       "timestamp": "2026-09-14T15:35:00+02:00",
-      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
+      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 1236,
@@ -251,7 +251,7 @@
     },
     {
       "timestamp": "2026-09-15T20:00:00+02:00",
-      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
+      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 1626,
@@ -261,7 +261,7 @@
     },
     {
       "timestamp": "2026-09-15T20:30:00+02:00",
-      "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst.",
+      "caption": "Du wirst der Durchschnitt der fünf Menschen, mit denen du die meiste Zeit verbringst. Und wenn dein Business-Feedback ge",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 430,
@@ -281,7 +281,7 @@
     },
     {
       "timestamp": "2026-09-17T15:51:00+02:00",
-      "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist",
+      "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und ha",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 555,
@@ -291,7 +291,7 @@
     },
     {
       "timestamp": "2026-09-17T16:22:00+02:00",
-      "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist",
+      "caption": "Alex saß in Tallinn auf einem Nomaden-Event, 2.000 Euro Umsatz im Monat, nicht sicher, ob der Rückflug drin ist — und ha",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": null,
@@ -301,7 +301,7 @@
     },
     {
       "timestamp": "2026-09-17T17:00:00+02:00",
-      "caption": "Unser Mitbewerb wundert sich – wir machen es einfach.",
+      "caption": "Unser Mitbewerb wundert sich – wir machen es einfach.  Claudia ist Mentorin bei The Escape Theory. Wenn sie nicht in Kun",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 628,
@@ -391,7 +391,7 @@
     },
     {
       "timestamp": "2026-09-23T20:15:00+02:00",
-      "caption": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir.",
+      "caption": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir. Und das ist e",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 704,
@@ -411,7 +411,7 @@
     },
     {
       "timestamp": "2026-09-24T16:30:00+02:00",
-      "caption": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch.",
+      "caption": "Die meisten kennen ihre eigene Rechnung nicht. Deshalb gehen wir sie im Gespräch einfach Schritt für Schritt durch. 1.20",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 1586,
@@ -471,7 +471,7 @@
     },
     {
       "timestamp": "2026-09-25T12:00:00+02:00",
-      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.",
+      "caption": "Wir vergeben gerade ein Voll-Stipendium für unser 1:1 Mentoring – genau einen Platz, komplett von uns finanziert.  Sechs",
       "productType": "REEL",
       "videoPlayCount": null,
       "videoViewCount": 1647,
@@ -481,10 +481,10 @@
     },
     {
       "timestamp": "2026-09-30T19:15:00+02:00",
-      "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.",
+      "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben dra",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": 869,
+      "videoViewCount": 872,
       "likesCount": 17,
       "commentsCount": 2,
       "url": "https://www.instagram.com/p/Dd62pLlDaSJ/"
@@ -511,10 +511,10 @@
     },
     {
       "timestamp": "2026-10-01T20:10:00+02:00",
-      "caption": "Wir analysieren Instagram-Accounts, heute Teil 1.",
+      "caption": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre e",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 716,
+      "videoViewCount": 723,
       "likesCount": 13,
       "commentsCount": 1,
       "url": "https://www.instagram.com/reel/Dd9haZvCB5t/"
@@ -524,7 +524,7 @@
       "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 428,
+      "videoViewCount": 429,
       "likesCount": 4,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeHiXRtiMWt/"
@@ -534,9 +534,9 @@
       "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest.",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": 614,
-      "likesCount": 8,
-      "commentsCount": 1,
+      "videoViewCount": 622,
+      "likesCount": 9,
+      "commentsCount": 2,
       "url": "https://www.instagram.com/p/DeHkpjWD9Dl/"
     },
     {
@@ -554,28 +554,28 @@
       "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": 510,
+      "videoViewCount": 515,
       "likesCount": 6,
       "commentsCount": 2,
       "url": "https://www.instagram.com/p/DeKQMmxAbXS/"
     },
     {
       "timestamp": "2026-10-06T18:59:00+02:00",
-      "caption": "Testkunden zahlen dich. Nur nicht in Cash.",
+      "caption": "Testkunden zahlen dich. Nur nicht in Cash.  Ein Testkunde bekommt dein Angebot für einen Euro oder für null.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 238,
+      "videoViewCount": 240,
       "likesCount": 4,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeKRPiLAXZj/"
     },
     {
       "timestamp": "2026-10-07T16:24:00+02:00",
-      "caption": "Personal Brands basieren auf Geschichten. Und jetzt denkst du: ich habe keine.",
+      "caption": "Personal Brands basieren auf Geschichten. Und jetzt denkst du: ich habe keine. Ich bin nicht nach Bali ausgewandert, in ",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 537,
-      "likesCount": 9,
+      "videoViewCount": 551,
+      "likesCount": 10,
       "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DeMkZI5ivdE/"
     },
@@ -621,20 +621,20 @@
     },
     {
       "timestamp": "2026-10-08T18:52:00+02:00",
-      "caption": "„KI ersetzt meinen Job.“ Ja, tut sie. Wenn du dich nicht weiterentwickelst.",
+      "caption": "„KI ersetzt meinen Job.“ Ja, tut sie. Wenn du dich nicht weiterentwickelst.  Das Problem ist selten die KI.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 488,
+      "videoViewCount": 501,
       "likesCount": 4,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DePaB-zj919/"
     },
     {
       "timestamp": "2026-10-08T19:20:00+02:00",
-      "caption": "Warum kostet in Deutschland fast jedes Programm um die 4.000 Euro?",
+      "caption": "Warum kostet in Deutschland fast jedes Programm um die 4.000 Euro?  Weil dort der Gleichgewichtspreis liegt.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 20530,
+      "videoViewCount": 20583,
       "likesCount": 21,
       "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DePdQVQk-K4/"
@@ -644,7 +644,7 @@
       "caption": "Ich finde es echt traurig, wenn ein Online-Business nicht entsteht, weil jemand an der Technik verzweifelt.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 401,
+      "videoViewCount": 403,
       "likesCount": 4,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DePgsDfCQN-/"
@@ -671,11 +671,11 @@
     },
     {
       "timestamp": "2026-10-09T16:52:00+02:00",
-      "caption": "Dieses iPad hat sich in einer Stunde selbst bezahlt.",
+      "caption": "Dieses iPad hat sich in einer Stunde selbst bezahlt.  500 Euro waren damals viel Geld.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 1000,
-      "likesCount": 7,
+      "videoViewCount": 1093,
+      "likesCount": 8,
       "commentsCount": 1,
       "url": "https://www.instagram.com/reel/DeRxFYjikSd/"
     },
@@ -684,7 +684,7 @@
       "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
       "productType": "POST",
       "videoPlayCount": null,
-      "videoViewCount": 594,
+      "videoViewCount": 608,
       "likesCount": 6,
       "commentsCount": 0,
       "url": "https://www.instagram.com/p/DeR1aafjYrY/"
@@ -694,17 +694,17 @@
       "caption": "Der größte Hebel in deinem Business? Dich zu trauen, etwas für 120.000 Euro zu verkaufen.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 1507,
+      "videoViewCount": 1513,
       "likesCount": 8,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeR8a3rirql/"
     },
     {
       "timestamp": "2026-10-10T10:00:00+02:00",
-      "caption": "Geile Werbung, kaputtes Produkt. Tayler gibt dir drei Monate.",
+      "caption": "Geile Werbung, kaputtes Produkt. Tayler gibt dir drei Monate.  Du kannst starke Anzeigen bauen und gute Kunden an Land z",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 317,
+      "videoViewCount": 329,
       "likesCount": 2,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeTnCAWkS-h/"
@@ -714,7 +714,7 @@
       "caption": "„Anwälte sind die schlechtesten Unternehmer der Welt.“ Alex meint das nicht als Beleidigung, sondern als Jobbeschreibung",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 823,
+      "videoViewCount": 863,
       "likesCount": 4,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeUeJQgEeGa/"
@@ -724,8 +724,8 @@
       "caption": "80 Prozent werden scheitern. Das sagt Tayler seinen eigenen Kunden ins Gesicht.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 1042,
-      "likesCount": 6,
+      "videoViewCount": 1418,
+      "likesCount": 9,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeWL2vxFKmn/"
     },
@@ -734,7 +734,7 @@
       "caption": "Noch keine Kunden, noch keine Beweise? Dann brauchst du ein Angebot, das zu gut ist, um Nein zu sagen.",
       "productType": "REEL",
       "videoPlayCount": null,
-      "videoViewCount": 215,
+      "videoViewCount": 262,
       "likesCount": 2,
       "commentsCount": 0,
       "url": "https://www.instagram.com/reel/DeXC31MjpFU/"
@@ -758,6 +758,26 @@
       "likesCount": null,
       "commentsCount": null,
       "url": "https://www.instagram.com/stories/the_escapetheory/4005746065391606860"
+    },
+    {
+      "timestamp": "2026-10-12T10:00:00+02:00",
+      "caption": "Wer mit Tayler in einem Call sitzt, weiß zwei Dinge.  Erstens: Die Calls laufen komplett ungeskriptet.",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": 506,
+      "likesCount": 4,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/reel/DeYwsKIjCvQ/"
+    },
+    {
+      "timestamp": "2026-10-12T18:00:00+02:00",
+      "caption": "Gratis gibt es nicht. Menschen bezahlen dich immer, nur nicht immer mit Cash.",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": 292,
+      "likesCount": 5,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/reel/DeZnzaglf_5/"
     }
   ]
 }
