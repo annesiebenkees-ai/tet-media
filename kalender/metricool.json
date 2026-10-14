@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-14T14:13",
+ "stand": "2026-10-14T22:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -183,6 +183,71 @@
    "status": "PUBLISHED",
    "text": "Was sagst du, wenn 1000 Wunschkunden vor dir stehen?  Stell dir vor, wir besorgen dir morgen 1000 Leute aus deiner Zielgruppe. Das geht nur,",
    "url": "https://www.instagram.com/reel/DeecxxBijB-/",
+   "entwurf": false
+  },
+  {
+   "id": 396112026,
+   "datum": "2026-10-14",
+   "uhrzeit": "19:45",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "1 Reel. 2 neue Coaching-Kundinnen. 🎯  Am 23.09. saß Stefanie in unserem Storytelling Special Call. Sie hat nicht lange überlegt: Struktur un",
+   "url": "https://www.instagram.com/p/Dee9B1lCJ4F/",
+   "entwurf": false
+  },
+  {
+   "id": 396154810,
+   "datum": "2026-10-14",
+   "uhrzeit": "20:24",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Werde laut mit deiner Geschichte - Es ist wertvoller als du denkst.  Und wenn du die ersten Anhaltspunkte dafür brauchst wie du eine Geschic",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 396134061,
+   "datum": "2026-10-15",
+   "uhrzeit": "08:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du bist selbst der Grund, warum nichts wächst. Das ist unbequem, aber es ist der ehrlichste Startpunkt.  Stell dir vorher die Frage, wie es ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 396184997,
+   "datum": "2026-10-15",
+   "uhrzeit": "10:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Werde laut mit deiner Geschichte - Es ist wertvoller als du denkst.  Und wenn du die ersten Anhaltspunkte dafür brauchst wie du eine Geschic",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 396189468,
+   "datum": "2026-10-15",
+   "uhrzeit": "12:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "30+ Unternehmen. Fast keine davon führt Tayler selbst.  Angefangen hat alles auf ein paar wenigen Quadratmetern in Dubai. Heute ist unser Fo",
+   "url": "",
    "entwurf": false
   }
  ]
