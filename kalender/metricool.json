@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-14T06:12",
+ "stand": "2026-10-14T06:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -167,8 +167,21 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karussells bauen, mit Fo",
+   "url": "https://www.instagram.com/p/DedshFRDz6h/",
+   "entwurf": false
+  },
+  {
+   "id": 395562568,
+   "datum": "2026-10-14",
+   "uhrzeit": "15:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Was sagst du, wenn 1000 Wunschkunden vor dir stehen?  Stell dir vor, wir besorgen dir morgen 1000 Leute aus deiner Zielgruppe. Das geht nur,",
    "url": "",
    "entwurf": false
   }
