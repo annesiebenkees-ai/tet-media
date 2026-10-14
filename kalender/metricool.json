@@ -1,73 +1,8 @@
 {
- "stand": "2026-10-13T22:11",
+ "stand": "2026-10-14T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 391899281,
-   "datum": "2026-10-09",
-   "uhrzeit": "11:53",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4004046890723451487",
-   "entwurf": false
-  },
-  {
-   "id": 391900013,
-   "datum": "2026-10-09",
-   "uhrzeit": "11:54",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4004047393099217967",
-   "entwurf": false
-  },
-  {
-   "id": 392122552,
-   "datum": "2026-10-09",
-   "uhrzeit": "16:52",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Dieses iPad hat sich in einer Stunde selbst bezahlt.  500 Euro waren damals viel Geld. Tayler und sein Freund Ralf haben das iPad trotzdem g",
-   "url": "https://www.instagram.com/reel/DeRxFYjikSd/",
-   "entwurf": false
-  },
-  {
-   "id": 392154849,
-   "datum": "2026-10-09",
-   "uhrzeit": "17:29",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-   "url": "https://www.instagram.com/p/DeR1aafjYrY/",
-   "entwurf": false
-  },
-  {
-   "id": 392155053,
-   "datum": "2026-10-09",
-   "uhrzeit": "18:30",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Der größte Hebel in deinem Business? Dich zu trauen, etwas für 120.000 Euro zu verkaufen.  Alex rechnet es vor: 10.000 Euro im Monat, ein Ja",
-   "url": "https://www.instagram.com/reel/DeR8a3rirql/",
-   "entwurf": false
-  },
   {
    "id": 392140050,
    "datum": "2026-10-10",
