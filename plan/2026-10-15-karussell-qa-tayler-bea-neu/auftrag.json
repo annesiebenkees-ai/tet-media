@@ -16,5 +16,10 @@
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-15-karussell-qa-tayler-bea-neu/slide-04.png",
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-15-karussell-qa-tayler-bea-neu/slide-05.mp4",
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-15-karussell-qa-tayler-bea-neu/slide-06.png"
- ]
+ ],
+ "gepostet": "2026-10-15T15:19:00+02:00",
+ "metricool_id": 396830560,
+ "status": "gepostet",
+ "fest_eingeplant": true,
+ "hinweis": "Vorlaeufer-Beitrag 396189468 (gleiche Caption, 15.10. 12:00 Uhr, aus karussell-qa-tayler-bea) stand laut getScheduledPosts auf status ERROR/Fatal (nicht veroeffentlicht). Dieser Lauf hat dies vor dem Anlegen erkannt; da kein Termin innerhalb von +/-20 Minuten existierte, wurde gemaess Regel 1 kein Duplikat angenommen und der neue Post fuer 15:31 angelegt."
 }
