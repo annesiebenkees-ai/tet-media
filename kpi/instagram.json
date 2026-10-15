@@ -1,18 +1,12 @@
 {
-  "stand": "2026-10-14T04:24Z",
+  "stand": "2026-10-15T04:29Z",
   "quelle": "Metricool-Connector",
   "profil": {
-    "followers": 6642,
-    "reach": 167476,
-    "interactions": 64
+    "followers": 6643,
+    "reach": 166147,
+    "interactions": 69
   },
   "verlauf": [
-    {
-      "datum": "2026-09-14",
-      "followers": 6606,
-      "reach": 1806,
-      "interactions": 9
-    },
     {
       "datum": "2026-09-15",
       "followers": 6604,
@@ -143,7 +137,7 @@
       "datum": "2026-10-06",
       "followers": 6640,
       "reach": 550,
-      "interactions": 8
+      "interactions": 9
     },
     {
       "datum": "2026-10-07",
@@ -161,7 +155,7 @@
       "datum": "2026-10-09",
       "followers": 6640,
       "reach": 10758,
-      "interactions": 7
+      "interactions": 8
     },
     {
       "datum": "2026-10-10",
@@ -184,8 +178,14 @@
     {
       "datum": "2026-10-13",
       "followers": 6642,
-      "reach": 734,
+      "reach": 781,
       "interactions": null
+    },
+    {
+      "datum": "2026-10-14",
+      "followers": 6643,
+      "reach": 430,
+      "interactions": 12
     }
   ],
   "posts": [
@@ -818,6 +818,36 @@
       "likesCount": null,
       "commentsCount": null,
       "url": "https://www.instagram.com/p/DecawobFA9R/"
+    },
+    {
+      "timestamp": "2026-10-14T08:00:00+02:00",
+      "caption": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karu",
+      "productType": "POST",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/p/DedshFRDz6h/"
+    },
+    {
+      "timestamp": "2026-10-14T15:00:00+02:00",
+      "caption": "Was sagst du, wenn 1000 Wunschkunden vor dir stehen?  Stell dir vor, wir besorgen dir morgen 1000 Leute aus deiner Zielg",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/reel/DeecxxBijB-/"
+    },
+    {
+      "timestamp": "2026-10-14T19:45:00+02:00",
+      "caption": "1 Reel. 2 neue Coaching-Kundinnen. 🎯  Am 23.09. saß Stefanie in unserem Storytelling Special Call. Sie hat nicht lange ü",
+      "productType": "POST",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/p/Dee9B1lCJ4F/"
     }
   ]
 }
