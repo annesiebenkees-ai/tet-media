@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-15T14:13",
+ "stand": "2026-10-15T16:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -222,6 +222,19 @@
    "status": "ERROR",
    "text": "30+ Unternehmen. Fast keine davon führt Tayler selbst.  Angefangen hat alles auf ein paar wenigen Quadratmetern in Dubai. Heute ist unser Fo",
    "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 396830560,
+   "datum": "2026-10-15",
+   "uhrzeit": "15:31",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "30+ Unternehmen. Fast keine davon führt Tayler selbst.  Angefangen hat alles auf ein paar wenigen Quadratmetern in Dubai. Heute ist unser Fo",
+   "url": "https://www.instagram.com/p/DehEyIPGOLZ/",
    "entwurf": false
   }
  ]
