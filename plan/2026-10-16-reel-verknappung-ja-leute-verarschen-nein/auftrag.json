@@ -12,5 +12,10 @@
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-16-reel-verknappung-ja-leute-verarschen-nein/reel.mp4"
  ],
- "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-16-reel-verknappung-ja-leute-verarschen-nein/cover.png"
+ "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-16-reel-verknappung-ja-leute-verarschen-nein/cover.png",
+ "gepostet": "2026-10-16T12:12:00+02:00",
+ "metricool_id": 397605744,
+ "status": "gepostet",
+ "fest_eingeplant": true,
+ "hinweis": "Kein neuer Post angelegt: identische Caption und identischer Termin (2026-10-16T12:30) waren laut getScheduledPosts bereits als Metricool-Post 397605744 (PENDING, draft=false, autoPublish=true) angelegt — vermutlich durch einen parallelen Lauf. Gemäß Regel 1 hier nur die bestehende ID nachgetragen."
 }
