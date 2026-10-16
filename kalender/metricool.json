@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-16T12:11",
+ "stand": "2026-10-16T14:19",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -193,9 +193,22 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "",
-   "url": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4009131493996675456",
+   "entwurf": false
+  },
+  {
+   "id": 397605744,
+   "datum": "2026-10-16",
+   "uhrzeit": "12:30",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Verknappung ja, Leute verarschen nein.  Es ist völlig okay, einen Grund zu geben, jetzt zu starten. Leute brauchen das oft, sonst schieben s",
+   "url": "https://www.instagram.com/reel/DejU0DmD34j/",
    "entwurf": false
   }
  ]
