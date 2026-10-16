@@ -1,60 +1,8 @@
 {
- "stand": "2026-10-15T16:12",
+ "stand": "2026-10-16T06:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 392140217,
-   "datum": "2026-10-11",
-   "uhrzeit": "10:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "80 Prozent werden scheitern. Das sagt Tayler seinen eigenen Kunden ins Gesicht.  Niemand schlägt Pareto, egal wie gut das Programm ist. Wir ",
-   "url": "https://www.instagram.com/reel/DeWL2vxFKmn/",
-   "entwurf": false
-  },
-  {
-   "id": 392140327,
-   "datum": "2026-10-11",
-   "uhrzeit": "18:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Noch keine Kunden, noch keine Beweise? Dann brauchst du ein Angebot, das zu gut ist, um Nein zu sagen.  Alex nennt das Produkt Null. Gemeint",
-   "url": "https://www.instagram.com/reel/DeXC31MjpFU/",
-   "entwurf": false
-  },
-  {
-   "id": 393430842,
-   "datum": "2026-10-11",
-   "uhrzeit": "20:06",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4005744581849335493",
-   "entwurf": false
-  },
-  {
-   "id": 393430856,
-   "datum": "2026-10-11",
-   "uhrzeit": "20:09",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4005746065391606860",
-   "entwurf": false
-  },
   {
    "id": 392140414,
    "datum": "2026-10-12",
