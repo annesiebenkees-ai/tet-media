@@ -11,5 +11,10 @@
  "erstellt": "2026-10-17T13:48",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-17-story-fahrradtour-teil-1b/IMG_9007-teil1b-ut.mp4"
- ]
+ ],
+ "gepostet": "2026-10-17T13:52:00+02:00",
+ "metricool_id": 398461111,
+ "status": "gepostet",
+ "fest_eingeplant": true,
+ "hinweis": "Kein neuer Post angelegt: identischer Termin (14:20) und Medium war laut getScheduledPosts bereits als Metricool-Post 398461111 (STORY, draft=false, autoPublish=true, PENDING) angelegt. Gemaess Regel 1 hier nur die bestehende ID nachgetragen."
 }
