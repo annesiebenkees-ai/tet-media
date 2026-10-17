@@ -13,9 +13,9 @@
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-20-reel-skalierbar-heisst-nicht-dass-kein-mensch-mehr-darin-sitzt/reel.mp4"
  ],
  "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-20-reel-skalierbar-heisst-nicht-dass-kein-mensch-mehr-darin-sitzt/cover.png",
- "gepostet": "2026-10-17T13:17:00+02:00",
- "metricool_id": 398446858,
+ "gepostet": "2026-10-17T13:22:00+02:00",
+ "metricool_id": 398448425,
  "status": "gepostet",
  "fest_eingeplant": true,
- "hinweis": "Paralleler Lauf hat zeitgleich fuer denselben Termin einen zweiten Metricool-Post angelegt (urspr. 398446375, von diesem Lauf). Da dieser Auftrag hier (398446858) zuerst in main gepusht war, bleibt er die offizielle, fest eingeplante ID. Der Zweitpost wurde per updateScheduledPost auf draft=true gesetzt (jetzt id 398447897, gleiche uuid -3943650298291403965), damit nicht doppelt gepostet wird."
+ "hinweis": "ACHTUNG Mehrfach-Race: Mindestens 3 parallele Laeufe haben gleichzeitig fuer diesen Termin (2026-10-20 17:00) Posts angelegt bzw. per updateScheduledPost hin- und hergeschaltet (draft true/false wurde mehrfach gegenseitig umgedreht, u.a. 398446375->398446858->398447572->398448425 fuer die eine uuid 5629764453639472395, und 398446858(?)/398447897->398448575->398448847 fuer die andere uuid -3943650298291403965). Per Stand 2026-10-17T13:22 verifiziert via getScheduledPosts: NUR id 398448425 (uuid 5629764453639472395) ist draft=false/live fuer diesen Reel. id 398448847 (uuid -3943650298291403965) ist draft=true und absichtlich deaktiviert. Vor dem Termin unbedingt in Metricool nochmal pruefen, ob nicht ein weiterer paralleler Lauf das wieder umgeschaltet hat - es laufen offenbar mehrere Instanzen dieser Routine gleichzeitig."
 }
