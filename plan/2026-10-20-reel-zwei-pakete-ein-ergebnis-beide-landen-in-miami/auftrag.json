@@ -15,5 +15,6 @@
  "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-20-reel-zwei-pakete-ein-ergebnis-beide-landen-in-miami/cover.png",
  "gepostet": "2026-10-17T13:10:00+02:00",
  "metricool_id": 398441860,
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "War bei getScheduledPosts bereits als PENDING, draft=false, autoPublish=true fuer 2026-10-20 09:15 vorhanden (von parallelem Lauf angelegt). Gemaess Regel 1 nicht neu angelegt, nur ID nachgetragen."
 }
