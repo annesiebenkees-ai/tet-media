@@ -1,34 +1,8 @@
 {
- "stand": "2026-10-16T14:19",
+ "stand": "2026-10-17T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 392140414,
-   "datum": "2026-10-12",
-   "uhrzeit": "10:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Wer mit Tayler in einem Call sitzt, weiß zwei Dinge.  Erstens: Die Calls laufen komplett ungeskriptet. Zweitens: Er ist extrem direkt. Wenn ",
-   "url": "https://www.instagram.com/reel/DeYwsKIjCvQ/",
-   "entwurf": false
-  },
-  {
-   "id": 392140510,
-   "datum": "2026-10-12",
-   "uhrzeit": "18:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Gratis gibt es nicht. Menschen bezahlen dich immer, nur nicht immer mit Cash.  Ein Gratis-Call mit Alex ist nicht gratis. Du bezahlst ihn zu",
-   "url": "https://www.instagram.com/reel/DeZnzaglf_5/",
-   "entwurf": false
-  },
   {
    "id": 392140588,
    "datum": "2026-10-13",
