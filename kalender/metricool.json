@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-17T06:12",
+ "stand": "2026-10-17T14:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -183,6 +183,279 @@
    "status": "PUBLISHED",
    "text": "Verknappung ja, Leute verarschen nein.  Es ist völlig okay, einen Grund zu geben, jetzt zu starten. Leute brauchen das oft, sonst schieben s",
    "url": "https://www.instagram.com/reel/DejU0DmD34j/",
+   "entwurf": false
+  },
+  {
+   "id": 398437169,
+   "datum": "2026-10-17",
+   "uhrzeit": "13:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Dein Werbegeld gehört zurück in die Keksdose.  Stell dir Ads vor wie im Casino. Du legst 1.000 Euro rein und willst, dass 3.000 zurückkommen",
+   "url": "https://www.instagram.com/reel/Del9OK_Stlh/",
+   "entwurf": false
+  },
+  {
+   "id": 398460356,
+   "datum": "2026-10-17",
+   "uhrzeit": "14:15",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398461111,
+   "datum": "2026-10-17",
+   "uhrzeit": "14:20",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398460789,
+   "datum": "2026-10-17",
+   "uhrzeit": "14:25",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398460928,
+   "datum": "2026-10-17",
+   "uhrzeit": "14:30",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398438849,
+   "datum": "2026-10-17",
+   "uhrzeit": "17:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398437672,
+   "datum": "2026-10-18",
+   "uhrzeit": "09:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Warum kaufen Fans sogar das schlechte Album? Weil sie es nicht wegen des Albums kaufen.  Sie verteidigen es sogar. Obwohl sie selbst wissen,",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398440804,
+   "datum": "2026-10-19",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Was dich zwischen 2 und 10k festhält, ist meistens nicht die Nachfrage, sondern dass du das Spielfeld nicht wechselst.  Um wirklich zu skali",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398441532,
+   "datum": "2026-10-19",
+   "uhrzeit": "13:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du nicht abgibst, ist ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398441836,
+   "datum": "2026-10-19",
+   "uhrzeit": "13:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du nicht abgibst, ist ",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 398441860,
+   "datum": "2026-10-20",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Zwei Preise, ein Ziel: beide landen in Miami.  Business Class und Economy Class. Der eine klappt den Stuhl runter und freut sich, dass jeman",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398448425,
+   "datum": "2026-10-20",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Skalierbar heißt nicht, dass niemand mehr arbeitet.  Für viele klingt Skalierbarkeit so: ein Produkt, das sich im Schlaf verkauft. Weil irge",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398448847,
+   "datum": "2026-10-20",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Skalierbar heißt nicht, dass niemand mehr arbeitet.  Für viele klingt Skalierbarkeit so: ein Produkt, das sich im Schlaf verkauft. Weil irge",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 398446702,
+   "datum": "2026-10-21",
+   "uhrzeit": "08:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du hast kein Marketingproblem, du hast ein Übersetzungsproblem.  Frag Coaches oder Berater nach ihrem größten Problem, und 80% sagen: Sichtb",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398447625,
+   "datum": "2026-10-21",
+   "uhrzeit": "08:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du hast kein Marketingproblem, du hast ein Übersetzungsproblem.  Frag Coaches oder Berater nach ihrem größten Problem, und 80% sagen: Sichtb",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 398466740,
+   "datum": "2026-10-21",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Was ist dein Ziel am Ende des Tages? Fang damit an, bevor du über Tools, Funnels oder neue Angebote nachdenkst.  Wenn der Markt dir schon be",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398467346,
+   "datum": "2026-10-22",
+   "uhrzeit": "08:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Ein Ausfall im Team kostet zwischen 400.000 und 600.000, bei einer Führungskraft sind es 600.000 bis 800.000. Die meisten hören diese Zahl u",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398467613,
+   "datum": "2026-10-22",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Ist das wirklich dein Bottleneck?  Meistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur 1.000 Leute gesehen ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398468238,
+   "datum": "2026-10-22",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Ist das wirklich dein Bottleneck?  Meistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur 1.000 Leute gesehen ",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 398467843,
+   "datum": "2026-10-23",
+   "uhrzeit": "08:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Jedes Business hat im Prinzip die gleichen Blöcke.  Da ist das Produkt mit seinen Produktkosten. Da ist der Unternehmergewinn, den du haben ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 398468073,
+   "datum": "2026-10-23",
+   "uhrzeit": "17:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst. Wenn es 250 Euro kostet, b",
+   "url": "",
    "entwurf": false
   }
  ]
