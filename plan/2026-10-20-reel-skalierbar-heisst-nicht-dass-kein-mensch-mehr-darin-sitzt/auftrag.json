@@ -16,5 +16,6 @@
  "gepostet": "2026-10-17T13:17:00+02:00",
  "metricool_id": 398446858,
  "status": "gepostet",
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "Paralleler Lauf hat zeitgleich fuer denselben Termin einen zweiten Metricool-Post angelegt (398446375, von diesem Lauf). Da dieser Auftrag hier (398446858) zuerst in main gepusht war, bleibt er die offizielle ID; der Zweitpost 398446375 wird separat per updateScheduledPost auf draft=true gesetzt, damit nicht doppelt gepostet wird."
 }
