@@ -13,8 +13,9 @@
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-21-reel-kein-sichtbarkeitsproblem-ein-uebersetzungsproblem/reel.mp4"
  ],
  "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-21-reel-kein-sichtbarkeitsproblem-ein-uebersetzungsproblem/cover.png",
- "gepostet": "2026-10-17T13:18:00+02:00",
- "metricool_id": 398447073,
+ "gepostet": "2026-10-17T13:21:00+02:00",
+ "metricool_id": 398446702,
  "status": "gepostet",
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "Kein neuer Post angelegt: laut getScheduledPosts war fuer 2026-10-21T08:00 bereits ein identischer Post (id 398446702, draft=false, autoPublish=true, PENDING) vorhanden, offenbar aus einem frueheren/parallelen Lauf, der nicht mehr committen konnte. Gemaess Regel 1 nur die bestehende ID nachgetragen. Ein paralleler Lauf hat hier zuerst die ID 398447073 eingetragen, die laut aktuellem getScheduledPosts gar nicht (mehr) existiert -- vermutlich ein Fehleintrag dieses Laufs (aehnlich dem bekannten Fall vom 2026-10-09). Daher auf die tatsaechlich vorhandene ID 398446702 korrigiert. Zusaetzlich existiert ein Entwurfs-Duplikat (id 398447625, draft=true) fuer denselben Termin/Text aus einem weiteren Parallellauf; dieses wurde nicht angefasst, da Entwuerfe nicht automatisch posten."
 }
