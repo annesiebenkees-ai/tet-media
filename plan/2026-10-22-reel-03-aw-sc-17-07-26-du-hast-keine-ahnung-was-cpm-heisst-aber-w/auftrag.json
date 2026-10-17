@@ -7,7 +7,7 @@
  "thema": "",
  "caption": "Ist das wirklich dein Bottleneck?\n\nMeistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur 1.000 Leute gesehen haben und nicht 10.000.\n\nDie Antwort liegt am Ende fast immer bei Ads. Dort arbeitest du mit dem CPM, also Cost per Mille, den Kosten pro 1.000 Impressionen.\n\nWenn dein CPM bei 50 Euro liegt und du 500 Euro ausgibst, wird dein Content rechnerisch 10.000 Menschen angezeigt.\n\nDu musst also nicht raten, wie mehr Leute das sehen. Du gibst Geld dafür aus und schaltest Werbung.\n\n👇 Wenn du wissen willst, wo bei dir gerade der Hebel liegt: Kommentiere ANALYSE, dann schauen wir uns das gemeinsam an.\n\n#theescapetheory #tet #ads #cpm #performancemarketing #onlinemarketing #werbeanzeigen",
  "blogId": 5629189,
- "status": "bereit",
+ "status": "gepostet",
  "erstellt": "2026-10-17T14:02",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-22-reel-03-aw-sc-17-07-26-du-hast-keine-ahnung-was-cpm-heisst-aber-w/reel.mp4"
@@ -16,5 +16,6 @@
  "gepostet": "2026-10-17T14:07:00+02:00",
  "metricool_id": 398467613,
  "status": "gepostet",
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "Paralleler Lauf war schneller: Post 398467613 war beim Push schon im Remote-Stand eingetragen. Mein eigener Duplikat-Post 398467794 (jetzt id 398468238) wurde sofort per updateScheduledPost auf draft=true gesetzt, damit er nicht zusaetzlich postet."
 }
