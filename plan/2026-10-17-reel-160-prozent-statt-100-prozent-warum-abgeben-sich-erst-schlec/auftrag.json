@@ -14,7 +14,9 @@
  ],
  "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-17-reel-160-prozent-statt-100-prozent-warum-abgeben-sich-erst-schlec/cover.png",
  "geaendert": "2026-10-17T13:00",
- "gepostet": "2026-10-17T13:02:00+02:00",
- "metricool_id": 398441097,
- "fest_eingeplant": true
+ "gepostet": "2026-10-17T13:06:00+02:00",
+ "metricool_id": 398441532,
+ "status": "gepostet",
+ "fest_eingeplant": true,
+ "hinweis": "Ein paralleler Lauf hatte hier faelschlich metricool_id 398441097 eingetragen: das ist ein Duplikat, das per createScheduledPost statt per Verschieben neu angelegt wurde. Das eigentliche Original (urspr. id 398440742, uuid -2599175199104088762) wurde von einem anderen parallelen Lauf korrekt per updateScheduledPost verschoben (uuid bleibt gleich, jetzt id 398441532) - das ist die richtige, einzige ID fuer diesen Reel. Das Duplikat 398441097 wurde gemaess Regel 1 per updateScheduledPost auf draft=true gesetzt (jetzt id 398441836), damit es nicht zusaetzlich postet. Mein eigener erster Versuch, den alten Post (id 398440742) zu deaktivieren, kam zu spaet (404, da schon verschoben) und hatte keine Auswirkung."
 }
