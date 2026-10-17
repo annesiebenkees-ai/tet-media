@@ -7,9 +7,12 @@
  "thema": "fahrradtour-teil-2",
  "caption": "",
  "blogId": 5629189,
- "status": "bereit",
+ "status": "gepostet",
  "erstellt": "2026-10-17T13:48",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-17-story-fahrradtour-teil-2/IMG_9031-ut.mp4"
- ]
+ ],
+ "gepostet": "2026-10-17T13:52:00+02:00",
+ "metricool_id": 398460789,
+ "fest_eingeplant": true
 }
