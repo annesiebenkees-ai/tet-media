@@ -15,8 +15,5 @@
  "hinweis": "Kein neuer Post angelegt: laut getScheduledPosts existierte bereits Metricool-Post 404013171 fuer 2026-10-23T12:30, Instagram STORY, Text leer, draft=false/autoPublish=true, status PENDING. Gemaess Regel 1 nur die bestehende ID nachgetragen.",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-23-story-upload-2026-10-22-12-08-img-9593-qqnx/IMG_9593-teil1.mp4"
- ],
- "gepostet": "2026-10-23T12:21:00+02:00",
- "metricool_id": 404013171,
- "fest_eingeplant": true
+ ]
 }
