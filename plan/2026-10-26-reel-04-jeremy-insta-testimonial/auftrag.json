@@ -15,5 +15,6 @@
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-26-reel-04-jeremy-insta-testimonial/reel.mp4"
  ],
- "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-26-reel-04-jeremy-insta-testimonial/cover.png"
+ "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-26-reel-04-jeremy-insta-testimonial/cover.png",
+ "hinweis": "Paralleler Lauf hat zeitgleich denselben Auftrag verarbeitet und einen zweiten Post angelegt (zuletzt id 404025562, uuid -1661172322981953472). Dieser wurde auf draft=true/autoPublish=false gesetzt, damit er nicht mitpostet. Fest eingeplant ist ausschliesslich metricool_id 404024188."
 }
