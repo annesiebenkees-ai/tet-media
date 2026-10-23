@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-23T16:15",
+ "stand": "2026-10-23T20:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -238,6 +238,19 @@
    "entwurf": false
   },
   {
+   "id": 404388104,
+   "datum": "2026-10-24",
+   "uhrzeit": "12:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Dein bestes Reel ist nicht verbraucht.  Nach einem guten Reel machen die meisten sofort etwas Neues. Dabei hat dir deine Zielgruppe gerade g",
+   "url": "",
+   "entwurf": false
+  },
+  {
    "id": 404024586,
    "datum": "2026-10-24",
    "uhrzeit": "15:45",
@@ -337,7 +350,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann.",
+   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann. Die meisten kommen mit der Erwartung rein, dass man vorher irrsinnig",
    "url": "",
    "entwurf": true
   },
