@@ -9,9 +9,6 @@
  "blogId": 5629189,
  "status": "gepostet",
  "erstellt": "2026-10-23T12:30",
- "gepostet": "2026-10-23T12:35:00+02:00",
- "metricool_id": 404023705,
- "fest_eingeplant": true,
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-24-karussell-karussell-serie-kw43-7-hustle-nicht-skalierbar-2026-10-25/slide-01.png",
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-24-karussell-karussell-serie-kw43-7-hustle-nicht-skalierbar-2026-10-25/slide-02.png",
@@ -24,5 +21,6 @@
  ],
  "gepostet": "2026-10-23T10:34:00Z",
  "metricool_id": 404023405,
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "Paralleler Lauf hat diesen Auftrag gleichzeitig angelegt (metricool_id 404023405, kanonisch). Eigenes Duplikat 404023705/404024586 wurde per updateScheduledPost auf draft=true gesetzt, damit es nicht zusaetzlich postet."
 }
