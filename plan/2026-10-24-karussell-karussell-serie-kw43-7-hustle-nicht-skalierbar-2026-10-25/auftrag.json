@@ -19,8 +19,10 @@
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-24-karussell-karussell-serie-kw43-7-hustle-nicht-skalierbar-2026-10-25/slide-07.png",
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-24-karussell-karussell-serie-kw43-7-hustle-nicht-skalierbar-2026-10-25/slide-08.png"
  ],
+ "geaendert": "2026-10-23T12:33",
  "gepostet": "2026-10-23T12:40:00+02:00",
  "metricool_id": 404027469,
+ "status": "gepostet",
  "fest_eingeplant": true,
  "hinweis": "Mehrere parallele Laeufe haben diesen Auftrag gleichzeitig bearbeitet. Kanonisch ist metricool_id 404027469 (uuid 1930242061846596995, 2026-10-25 15:45, draft=false/autoPublish=true verifiziert). Die id dieses kanonischen Posts hat sich durch die parallelen Laeufe mehrfach geaendert (u.a. 404023405, 404023705); zwischendurch war das Datum durch einen der Laeufe versehentlich auf 2026-10-26 15:45 verschoben, wurde hier korrigiert zurueck auf 2026-10-25 15:45. Daneben liegen mehrere Duplikat-Posts als draft=true geparkt (ohne Hinweistext in der Caption, damit im Fehlerfall kein DUPLIKAT-Text postet): u.a. 404024586 (uuid 4736313442071822402), 404024944 (uuid -4670150494184718020), 404026926 (uuid -3306604944125899383). Alle sollten manuell in Metricool geloescht werden. Empfehlung: Webhook/Routine entprellen, damit nicht mehrere Laeufe gleichzeitig denselben Auftrag bearbeiten."
 }
