@@ -22,5 +22,5 @@
  "gepostet": "2026-10-23T10:34:00Z",
  "metricool_id": 404023405,
  "fest_eingeplant": true,
- "hinweis": "Paralleler Lauf hat diesen Auftrag gleichzeitig angelegt (metricool_id 404023405, kanonisch). Eigenes Duplikat 404023705/404024586 wurde per updateScheduledPost auf draft=true gesetzt, damit es nicht zusaetzlich postet."
+ "hinweis": "Mehrere parallele Laeufe haben diesen Auftrag gleichzeitig bearbeitet. Kanonisch ist metricool_id 404023405 (2026-10-25 15:45, fest eingeplant). Dabei sind zwei Duplikat-Posts entstanden, beide ohne Hinweistext in der Caption per updateScheduledPost auf draft=true gesetzt, damit sie nicht zusaetzlich posten: (1) urspruenglich 404023392 fuer 2026-10-24 15:45, jetzt 404024944 (uuid -4670150494184718020); (2) 404023705, jetzt 404024586. Beide Entwuerfe sollten manuell in Metricool geloescht werden."
 }
