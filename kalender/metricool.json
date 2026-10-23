@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-23T14:12",
+ "stand": "2026-10-23T16:15",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -219,9 +219,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst. Wenn es 250 Euro kostet, b",
-   "url": "",
+   "url": "https://www.instagram.com/reel/De11exaDIPY/",
    "entwurf": false
   },
   {
@@ -337,7 +337,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann. Die meisten kommen mit der Erwartung rein, dass man vorher irrsinnig",
+   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann.",
    "url": "",
    "entwurf": true
   },
