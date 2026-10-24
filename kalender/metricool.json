@@ -1,47 +1,8 @@
 {
- "stand": "2026-10-23T20:12",
+ "stand": "2026-10-24T04:14",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 398440804,
-   "datum": "2026-10-19",
-   "uhrzeit": "09:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Was dich zwischen 2 und 10k festhält, ist meistens nicht die Nachfrage, sondern dass du das Spielfeld nicht wechselst.  Um wirklich zu skali",
-   "url": "https://www.instagram.com/reel/DeqsvhSMOtX/",
-   "entwurf": false
-  },
-  {
-   "id": 398441532,
-   "datum": "2026-10-19",
-   "uhrzeit": "13:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du nicht abgibst, ist ",
-   "url": "https://www.instagram.com/reel/DerINoZNpx6/",
-   "entwurf": false
-  },
-  {
-   "id": 398441836,
-   "datum": "2026-10-19",
-   "uhrzeit": "13:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du nicht abgibst, ist ",
-   "url": "",
-   "entwurf": true
-  },
   {
    "id": 398441860,
    "datum": "2026-10-20",
