@@ -1,18 +1,12 @@
 {
-  "stand": "2026-10-23T06:24+02:00",
+  "stand": "2026-10-24T06:23+02:00",
   "quelle": "Metricool-Connector",
   "profil": {
-    "followers": 6651,
-    "reach": 137495,
-    "interactions": 389
+    "followers": 6656,
+    "reach": 122541,
+    "interactions": 382
   },
   "verlauf": [
-    {
-      "datum": "2026-09-23",
-      "followers": 6608,
-      "reach": 15402,
-      "interactions": 15
-    },
     {
       "datum": "2026-09-24",
       "followers": 6612,
@@ -179,26 +173,22 @@
       "datum": "2026-10-21",
       "followers": 6639,
       "reach": 379,
-      "interactions": 15
+      "interactions": 16
     },
     {
       "datum": "2026-10-22",
       "followers": 6651,
-      "reach": 384,
+      "reach": 495,
+      "interactions": 7
+    },
+    {
+      "datum": "2026-10-23",
+      "followers": 6656,
+      "reach": 337,
       "interactions": 7
     }
   ],
   "posts": [
-    {
-      "timestamp": "2026-09-23T20:15:00+02:00",
-      "caption": "Wenn dich jemand ablehnt, fühlt sich das an wie eine Ablehnung von dir. Nicht von deinem Angebot, von dir. Und das ist e",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/reel/Ddo7nHBFJLx/"
-    },
     {
       "timestamp": "2026-09-24T10:44:00+02:00",
       "caption": "",
@@ -858,6 +848,46 @@
       "likesCount": null,
       "commentsCount": null,
       "url": "https://www.instagram.com/reel/DezRKu_inLw/"
+    },
+    {
+      "timestamp": "2026-10-23T08:00:00+02:00",
+      "caption": "Jedes Business hat im Prinzip die gleichen Blöcke. Da ist das Produkt mit seinen Produktkosten. Da ist der Unternehmerge",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/reel/De03e-7kXub/"
+    },
+    {
+      "timestamp": "2026-10-23T12:30:00+02:00",
+      "caption": "",
+      "productType": "STORY",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/stories/the_escapetheory/4014213281032421697"
+    },
+    {
+      "timestamp": "2026-10-23T12:30:00+02:00",
+      "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
+      "productType": "POST",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/p/De1Wcs7FD0P/"
+    },
+    {
+      "timestamp": "2026-10-23T17:00:00+02:00",
+      "caption": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst. Wenn e",
+      "productType": "REEL",
+      "videoPlayCount": null,
+      "videoViewCount": null,
+      "likesCount": null,
+      "commentsCount": null,
+      "url": "https://www.instagram.com/reel/De11exaDIPY/"
     }
   ]
 }
