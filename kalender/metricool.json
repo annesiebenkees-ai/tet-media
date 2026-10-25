@@ -1,86 +1,8 @@
 {
- "stand": "2026-10-23T14:12",
+ "stand": "2026-10-25T04:15",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 398440804,
-   "datum": "2026-10-19",
-   "uhrzeit": "09:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Was dich zwischen 2 und 10k festhält, ist meistens nicht die Nachfrage, sondern dass du das Spielfeld nicht wechselst.  Um wirklich zu skali",
-   "url": "https://www.instagram.com/reel/DeqsvhSMOtX/",
-   "entwurf": false
-  },
-  {
-   "id": 398441532,
-   "datum": "2026-10-19",
-   "uhrzeit": "13:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du nicht abgibst, ist ",
-   "url": "https://www.instagram.com/reel/DerINoZNpx6/",
-   "entwurf": false
-  },
-  {
-   "id": 398441836,
-   "datum": "2026-10-19",
-   "uhrzeit": "13:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du nicht abgibst, ist ",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 398441860,
-   "datum": "2026-10-20",
-   "uhrzeit": "09:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Zwei Preise, ein Ziel: beide landen in Miami.  Business Class und Economy Class. Der eine klappt den Stuhl runter und freut sich, dass jeman",
-   "url": "https://www.instagram.com/reel/DetRhmgMam1/",
-   "entwurf": false
-  },
-  {
-   "id": 398448425,
-   "datum": "2026-10-20",
-   "uhrzeit": "17:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Skalierbar heißt nicht, dass niemand mehr arbeitet.  Für viele klingt Skalierbarkeit so: ein Produkt, das sich im Schlaf verkauft. Weil irge",
-   "url": "https://www.instagram.com/reel/DeuHK7ICkmw/",
-   "entwurf": false
-  },
-  {
-   "id": 398448847,
-   "datum": "2026-10-20",
-   "uhrzeit": "17:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Skalierbar heißt nicht, dass niemand mehr arbeitet.  Für viele klingt Skalierbarkeit so: ein Produkt, das sich im Schlaf verkauft. Weil irge",
-   "url": "",
-   "entwurf": true
-  },
   {
    "id": 398446702,
    "datum": "2026-10-21",
@@ -219,9 +141,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst. Wenn es 250 Euro kostet, b",
-   "url": "",
+   "url": "https://www.instagram.com/reel/De11exaDIPY/",
    "entwurf": false
   },
   {
@@ -232,9 +154,22 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Es juckt einfach keinen da draußen, wie viele Follower du hast.  Ob das fünf sind oder fünf Millionen, ändert für sich genommen nichts. Viel",
-   "url": "",
+   "url": "https://www.instagram.com/reel/De3oMOojcd0/",
+   "entwurf": false
+  },
+  {
+   "id": 404388104,
+   "datum": "2026-10-24",
+   "uhrzeit": "12:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Dein bestes Reel ist nicht verbraucht.  Nach einem guten Reel machen die meisten sofort etwas Neues. Dabei hat dir deine Zielgruppe gerade g",
+   "url": "https://www.instagram.com/p/De34CIjjr25/",
    "entwurf": false
   },
   {
@@ -284,9 +219,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Dein Traumhaus für 10.000 Euro, aber du musst bis heute Abend 18 Uhr zusagen.  Denk kurz wirklich daran. Wo steht es, wie sieht es aus. Und ",
-   "url": "",
+   "url": "https://www.instagram.com/reel/De4YOoPAY37/",
    "entwurf": false
   },
   {
