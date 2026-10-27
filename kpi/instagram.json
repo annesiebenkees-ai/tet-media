@@ -1,863 +1,903 @@
 {
-  "stand": "2026-10-26T05:28+01:00",
-  "quelle": "Metricool-Connector",
-  "profil": {
-    "followers": 6657,
-    "reach": 96390,
-    "interactions": 378
+ "stand": "2026-10-27T04:24",
+ "quelle": "Metricool-Connector",
+ "profil": {
+  "followers": 6653,
+  "reach": 81777,
+  "interactions": 392
+ },
+ "verlauf": [
+  {
+   "datum": "2026-09-27",
+   "followers": 6630,
+   "reach": 13480,
+   "interactions": null
   },
-  "verlauf": [
-    {
-      "datum": "2026-09-26",
-      "followers": 6623,
-      "reach": 15104,
-      "interactions": null
-    },
-    {
-      "datum": "2026-09-27",
-      "followers": 6630,
-      "reach": 13480,
-      "interactions": null
-    },
-    {
-      "datum": "2026-09-28",
-      "followers": 6631,
-      "reach": 12342,
-      "interactions": null
-    },
-    {
-      "datum": "2026-09-29",
-      "followers": null,
-      "reach": 3770,
-      "interactions": null
-    },
-    {
-      "datum": "2026-09-30",
-      "followers": 6629,
-      "reach": 3880,
-      "interactions": 19
-    },
-    {
-      "datum": "2026-10-01",
-      "followers": 6633,
-      "reach": 4324,
-      "interactions": 21
-    },
-    {
-      "datum": "2026-10-02",
-      "followers": 6632,
-      "reach": 3197,
-      "interactions": null
-    },
-    {
-      "datum": "2026-10-03",
-      "followers": 6635,
-      "reach": 3527,
-      "interactions": null
-    },
-    {
-      "datum": "2026-10-04",
-      "followers": 6640,
-      "reach": 3714,
-      "interactions": null
-    },
-    {
-      "datum": "2026-10-05",
-      "followers": 6641,
-      "reach": 3461,
-      "interactions": 15
-    },
-    {
-      "datum": "2026-10-06",
-      "followers": 6640,
-      "reach": 550,
-      "interactions": 13
-    },
-    {
-      "datum": "2026-10-07",
-      "followers": 6640,
-      "reach": 403,
-      "interactions": 15
-    },
-    {
-      "datum": "2026-10-08",
-      "followers": 6642,
-      "reach": 6305,
-      "interactions": 52
-    },
-    {
-      "datum": "2026-10-09",
-      "followers": 6640,
-      "reach": 10758,
-      "interactions": 29
-    },
-    {
-      "datum": "2026-10-10",
-      "followers": 6639,
-      "reach": 1928,
-      "interactions": 8
-    },
-    {
-      "datum": "2026-10-11",
-      "followers": 6639,
-      "reach": 1573,
-      "interactions": 16
-    },
-    {
-      "datum": "2026-10-12",
-      "followers": 6638,
-      "reach": 860,
-      "interactions": 20
-    },
-    {
-      "datum": "2026-10-13",
-      "followers": 6642,
-      "reach": 781,
-      "interactions": 14
-    },
-    {
-      "datum": "2026-10-14",
-      "followers": 6643,
-      "reach": 550,
-      "interactions": 21
-    },
-    {
-      "datum": "2026-10-15",
-      "followers": 6639,
-      "reach": 400,
-      "interactions": 36
-    },
-    {
-      "datum": "2026-10-16",
-      "followers": 6638,
-      "reach": 1086,
-      "interactions": 9
-    },
-    {
-      "datum": "2026-10-17",
-      "followers": 6638,
-      "reach": 773,
-      "interactions": 8
-    },
-    {
-      "datum": "2026-10-18",
-      "followers": 6636,
-      "reach": 557,
-      "interactions": 12
-    },
-    {
-      "datum": "2026-10-19",
-      "followers": 6637,
-      "reach": 513,
-      "interactions": 7
-    },
-    {
-      "datum": "2026-10-20",
-      "followers": 6638,
-      "reach": 401,
-      "interactions": 1
-    },
-    {
-      "datum": "2026-10-21",
-      "followers": 6639,
-      "reach": 379,
-      "interactions": 16
-    },
-    {
-      "datum": "2026-10-22",
-      "followers": 6651,
-      "reach": 495,
-      "interactions": 8
-    },
-    {
-      "datum": "2026-10-23",
-      "followers": 6656,
-      "reach": 362,
-      "interactions": 11
-    },
-    {
-      "datum": "2026-10-24",
-      "followers": 6655,
-      "reach": 471,
-      "interactions": 18
-    },
-    {
-      "datum": "2026-10-25",
-      "followers": 6657,
-      "reach": 446,
-      "interactions": 9
-    }
-  ],
-  "posts": [
-    {
-      "timestamp": "2026-09-30T19:15:00+02:00",
-      "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn.  Special Calls kommen oben dra",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 884,
-      "likesCount": 17,
-      "commentsCount": 2,
-      "url": "https://www.instagram.com/p/Dd62pLlDaSJ/"
-    },
-    {
-      "timestamp": "2026-10-01T16:30:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998"
-    },
-    {
-      "timestamp": "2026-10-01T19:45:00+02:00",
-      "caption": "",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 420,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/Dd9eqtrk-vU/"
-    },
-    {
-      "timestamp": "2026-10-01T20:10:00+02:00",
-      "caption": "Wir analysieren Instagram-Accounts, heute Teil 1.  Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre e",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 740,
-      "likesCount": 14,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/reel/Dd9haZvCB5t/"
-    },
-    {
-      "timestamp": "2026-10-05T17:30:00+02:00",
-      "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in z",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 452,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeHiXRtiMWt/"
-    },
-    {
-      "timestamp": "2026-10-05T17:50:00+02:00",
-      "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 👇  🔻 Gemini gratis w",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 653,
-      "likesCount": 9,
-      "commentsCount": 2,
-      "url": "https://www.instagram.com/p/DeHkpjWD9Dl/"
-    },
-    {
-      "timestamp": "2026-10-06T18:20:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4002067927037625105"
-    },
-    {
-      "timestamp": "2026-10-06T18:48:00+02:00",
-      "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 559,
-      "likesCount": 7,
-      "commentsCount": 2,
-      "url": "https://www.instagram.com/p/DeKQMmxAbXS/"
-    },
-    {
-      "timestamp": "2026-10-06T18:59:00+02:00",
-      "caption": "Testkunden zahlen dich. Nur nicht in Cash.  Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 259,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeKRPiLAXZj/"
-    },
-    {
-      "timestamp": "2026-10-07T16:24:00+02:00",
-      "caption": "Personal Brands basieren auf Geschichten. Und jetzt denkst du: ich habe keine. Ich bin nicht nach Bali ausgewandert, in ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 656,
-      "likesCount": 11,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/reel/DeMkZI5ivdE/"
-    },
-    {
-      "timestamp": "2026-10-07T16:25:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4002734381903888899"
-    },
-    {
-      "timestamp": "2026-10-07T16:26:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4002734772744426513"
-    },
-    {
-      "timestamp": "2026-10-07T16:27:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4002735300439002261"
-    },
-    {
-      "timestamp": "2026-10-08T10:07:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4003268857162375882"
-    },
-    {
-      "timestamp": "2026-10-08T18:52:00+02:00",
-      "caption": "„KI ersetzt meinen Job.“ Ja, tut sie. Wenn du dich nicht weiterentwickelst.  Das Problem ist selten die KI. Das Problem ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 542,
-      "likesCount": 6,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DePaB-zj919/"
-    },
-    {
-      "timestamp": "2026-10-08T19:20:00+02:00",
-      "caption": "Warum kostet in Deutschland fast jedes Programm um die 4.000 Euro?  Weil dort der Gleichgewichtspreis liegt. 100 Kunden ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 20677,
-      "likesCount": 21,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/reel/DePdQVQk-K4/"
-    },
-    {
-      "timestamp": "2026-10-08T19:50:00+02:00",
-      "caption": "Ich finde es echt traurig, wenn ein Online-Business nicht entsteht, weil jemand an der Technik verzweifelt.  Die Vision ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 426,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DePgsDfCQN-/"
-    },
-    {
-      "timestamp": "2026-10-09T11:53:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4004046890723451487"
-    },
-    {
-      "timestamp": "2026-10-09T11:54:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4004047393099217967"
-    },
-    {
-      "timestamp": "2026-10-09T16:52:00+02:00",
-      "caption": "Dieses iPad hat sich in einer Stunde selbst bezahlt.  500 Euro waren damals viel Geld. Tayler und sein Freund Ralf haben",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 1221,
-      "likesCount": 8,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/reel/DeRxFYjikSd/"
-    },
-    {
-      "timestamp": "2026-10-09T17:29:00+02:00",
-      "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 692,
-      "likesCount": 8,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/p/DeR1aafjYrY/"
-    },
-    {
-      "timestamp": "2026-10-09T18:30:00+02:00",
-      "caption": "Der größte Hebel in deinem Business? Dich zu trauen, etwas für 120.000 Euro zu verkaufen.  Alex rechnet es vor: 10.000 E",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 1568,
-      "likesCount": 9,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeR8a3rirql/"
-    },
-    {
-      "timestamp": "2026-10-10T10:00:00+02:00",
-      "caption": "Geile Werbung, kaputtes Produkt. Tayler gibt dir drei Monate.  Du kannst starke Anzeigen bauen und gute Kunden an Land z",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 369,
-      "likesCount": 3,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeTnCAWkS-h/"
-    },
-    {
-      "timestamp": "2026-10-10T18:00:00+02:00",
-      "caption": "„Anwälte sind die schlechtesten Unternehmer der Welt.“ Alex meint das nicht als Beleidigung, sondern als Jobbeschreibung",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 915,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeUeJQgEeGa/"
-    },
-    {
-      "timestamp": "2026-10-11T10:00:00+02:00",
-      "caption": "80 Prozent werden scheitern. Das sagt Tayler seinen eigenen Kunden ins Gesicht.  Niemand schlägt Pareto, egal wie gut da",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 1616,
-      "likesCount": 10,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeWL2vxFKmn/"
-    },
-    {
-      "timestamp": "2026-10-11T18:00:00+02:00",
-      "caption": "Noch keine Kunden, noch keine Beweise? Dann brauchst du ein Angebot, das zu gut ist, um Nein zu sagen.  Alex nennt das P",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 312,
-      "likesCount": 2,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeXC31MjpFU/"
-    },
-    {
-      "timestamp": "2026-10-11T20:06:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4005744581849335493"
-    },
-    {
-      "timestamp": "2026-10-11T20:09:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4005746065391606860"
-    },
-    {
-      "timestamp": "2026-10-12T10:00:00+02:00",
-      "caption": "Wer mit Tayler in einem Call sitzt, weiß zwei Dinge.  Erstens: Die Calls laufen komplett ungeskriptet. Zweitens: Er ist ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 664,
-      "likesCount": 8,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeYwsKIjCvQ/"
-    },
-    {
-      "timestamp": "2026-10-12T18:00:00+02:00",
-      "caption": "Gratis gibt es nicht. Menschen bezahlen dich immer, nur nicht immer mit Cash.  Ein Gratis-Call mit Alex ist nicht gratis",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 539,
-      "likesCount": 8,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeZnzaglf_5/"
-    },
-    {
-      "timestamp": "2026-10-13T10:00:00+02:00",
-      "caption": "Du wirst Pareto niemals schlagen. Egal wie gut du bist.  Es gibt einen Punkt, den kein Coaching, keine Dienstleistung un",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 600,
-      "likesCount": 7,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DebVgkhAhRJ/"
-    },
-    {
-      "timestamp": "2026-10-13T11:42:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4006940492818450705"
-    },
-    {
-      "timestamp": "2026-10-13T13:00:00+02:00",
-      "caption": "Der Umsatz ist für uns alle meistens nur ein Telefonat entfernt. Wir führen es trotzdem nicht, weil dahinter eine Angst ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 377,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DebqBmGiD9J/"
-    },
-    {
-      "timestamp": "2026-10-13T20:08:00+02:00",
-      "caption": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karu",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/p/DecawobFA9R/"
-    },
-    {
-      "timestamp": "2026-10-14T08:00:00+02:00",
-      "caption": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karu",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 890,
-      "likesCount": 10,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/p/DedshFRDz6h/"
-    },
-    {
-      "timestamp": "2026-10-14T15:00:00+02:00",
-      "caption": "Was sagst du, wenn 1000 Wunschkunden vor dir stehen?  Stell dir vor, wir besorgen dir morgen 1000 Leute aus deiner Zielg",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 314,
-      "likesCount": 8,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeecxxBijB-/"
-    },
-    {
-      "timestamp": "2026-10-14T19:45:00+02:00",
-      "caption": "1 Reel. 2 neue Coaching-Kundinnen. 🎯  Am 23.09. saß Stefanie in unserem Storytelling Special Call. Sie hat nicht lange ü",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/p/Dee9B1lCJ4F/"
-    },
-    {
-      "timestamp": "2026-10-15T08:00:00+02:00",
-      "caption": "Du bist selbst der Grund, warum nichts wächst. Das ist unbequem, aber es ist der ehrlichste Startpunkt.  Stell dir vorhe",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 472,
-      "likesCount": 10,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DegRQh0CZl_/"
-    },
-    {
-      "timestamp": "2026-10-15T10:00:00+02:00",
-      "caption": "Werde laut mit deiner Geschichte - Es ist wertvoller als du denkst.  Und wenn du die ersten Anhaltspunkte dafür brauchst",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 868,
-      "likesCount": 14,
-      "commentsCount": 2,
-      "url": "https://www.instagram.com/p/DegfV76jatr/"
-    },
-    {
-      "timestamp": "2026-10-15T15:31:00+02:00",
-      "caption": "30+ Unternehmen. Fast keine davon führt Tayler selbst.  Angefangen hat alles auf ein paar wenigen Quadratmetern in Dubai",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 802,
-      "likesCount": 7,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/p/DehEyIPGOLZ/"
-    },
-    {
-      "timestamp": "2026-10-16T12:15:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4009131493996675456"
-    },
-    {
-      "timestamp": "2026-10-16T12:30:00+02:00",
-      "caption": "Verknappung ja, Leute verarschen nein.  Es ist völlig okay, einen Grund zu geben, jetzt zu starten. Leute brauchen das o",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 1790,
-      "likesCount": 8,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DejU0DmD34j/"
-    },
-    {
-      "timestamp": "2026-10-17T13:00:00+02:00",
-      "caption": "Dein Werbegeld gehört zurück in die Keksdose.  Stell dir Ads vor wie im Casino. Du legst 1.000 Euro rein und willst, das",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 409,
-      "likesCount": 2,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/Del9OK_Stlh/"
-    },
-    {
-      "timestamp": "2026-10-17T14:15:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4009916598023110534"
-    },
-    {
-      "timestamp": "2026-10-17T14:20:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4009919121030189831"
-    },
-    {
-      "timestamp": "2026-10-17T14:25:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4009921735666705435"
-    },
-    {
-      "timestamp": "2026-10-17T14:30:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4009924404511531697"
-    },
-    {
-      "timestamp": "2026-10-17T17:00:00+02:00",
-      "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 531,
-      "likesCount": 4,
-      "commentsCount": 2,
-      "url": "https://www.instagram.com/p/DemY8sXDWwm/"
-    },
-    {
-      "timestamp": "2026-10-18T09:00:00+02:00",
-      "caption": "Warum kaufen Fans sogar das schlechte Album? Weil sie es nicht wegen des Albums kaufen.  Sie verteidigen es sogar.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 563,
-      "likesCount": 2,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeoGjG9IUyD/"
-    },
-    {
-      "timestamp": "2026-10-18T17:00:00+02:00",
-      "caption": "Die meisten Selbstständigen brauchen keine KI und keine Mitarbeiter. Sie brauchen weniger Komplexität.  Zu viele Angebot",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 724,
-      "likesCount": 9,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/p/Deo9y5biJU8/"
-    },
-    {
-      "timestamp": "2026-10-19T09:15:00+02:00",
-      "caption": "Was dich zwischen 2 und 10k festhält, ist meistens nicht die Nachfrage, sondern dass du das Spielfeld nicht wechselst.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 291,
-      "likesCount": 3,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeqsvhSMOtX/"
-    },
-    {
-      "timestamp": "2026-10-19T13:15:00+02:00",
-      "caption": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 388,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DerINoZNpx6/"
-    },
-    {
-      "timestamp": "2026-10-20T09:15:00+02:00",
-      "caption": "Zwei Preise, ein Ziel: beide landen in Miami.  Business Class und Economy Class. Der eine klappt den Stuhl runter.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 302,
-      "likesCount": 1,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DetRhmgMam1/"
-    },
-    {
-      "timestamp": "2026-10-20T17:00:00+02:00",
-      "caption": "Skalierbar heißt nicht, dass niemand mehr arbeitet.  Für viele klingt Skalierbarkeit so: ein Produkt, das sich im Schlaf",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 263,
-      "likesCount": 0,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeuHK7ICkmw/"
-    },
-    {
-      "timestamp": "2026-10-21T08:00:00+02:00",
-      "caption": "Du hast kein Marketingproblem, du hast ein Übersetzungsproblem.  Frag Coaches oder Berater nach ihrem größten Problem, u",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 259,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/Devt5LJimVI/"
-    },
-    {
-      "timestamp": "2026-10-21T17:00:00+02:00",
-      "caption": "Was ist dein Ziel am Ende des Tages? Fang damit an, bevor du über Tools, Funnels oder neue Angebote nachdenkst.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 305,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/Dewr8x8ETnQ/"
-    },
-    {
-      "timestamp": "2026-10-22T08:00:00+02:00",
-      "caption": "Ein Ausfall im Team kostet zwischen 400.000 und 600.000, bei einer Führungskraft sind es 600.000 bis 800.000.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 340,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DeySsBEkySw/"
-    },
-    {
-      "timestamp": "2026-10-22T17:00:00+02:00",
-      "caption": "Ist das wirklich dein Bottleneck?  Meistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur ",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 325,
-      "likesCount": 3,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/DezRKu_inLw/"
-    },
-    {
-      "timestamp": "2026-10-23T08:00:00+02:00",
-      "caption": "Jedes Business hat im Prinzip die gleichen Blöcke.  Da ist das Produkt mit seinen Produktkosten. Da ist der Unternehmerg",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 267,
-      "likesCount": 1,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/De03e-7kXub/"
-    },
-    {
-      "timestamp": "2026-10-23T12:30:00+02:00",
-      "caption": "",
-      "productType": "STORY",
-      "videoPlayCount": null,
-      "videoViewCount": null,
-      "likesCount": null,
-      "commentsCount": null,
-      "url": "https://www.instagram.com/stories/the_escapetheory/4014213281032421697"
-    },
-    {
-      "timestamp": "2026-10-23T12:30:00+02:00",
-      "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 641,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/p/De1Wcs7FD0P/"
-    },
-    {
-      "timestamp": "2026-10-23T17:00:00+02:00",
-      "caption": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 169,
-      "likesCount": 5,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/De11exaDIPY/"
-    },
-    {
-      "timestamp": "2026-10-24T09:45:00+02:00",
-      "caption": "Es juckt einfach keinen da draußen, wie viele Follower du hast.  Ob das fünf sind oder fünf Millionen, ändert für sich g",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 416,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/De3oMOojcd0/"
-    },
-    {
-      "timestamp": "2026-10-24T12:00:00+02:00",
-      "caption": "Dein bestes Reel ist nicht verbraucht.  Nach einem guten Reel machen die meisten sofort etwas Neues.",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 341,
-      "likesCount": 6,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/p/De34CIjjr25/"
-    },
-    {
-      "timestamp": "2026-10-24T16:45:00+02:00",
-      "caption": "Dein Traumhaus für 10.000 Euro, aber du musst bis heute Abend 18 Uhr zusagen.  Denk kurz wirklich daran.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 245,
-      "likesCount": 4,
-      "commentsCount": 1,
-      "url": "https://www.instagram.com/reel/De4YOoPAY37/"
-    },
-    {
-      "timestamp": "2026-10-25T09:45:00+01:00",
-      "caption": "Rechne das Minus einmal ehrlich durch.  Du zahlst 500 Euro und bekommst dadurch vielleicht 20 Leute rein.",
-      "productType": "REEL",
-      "videoPlayCount": null,
-      "videoViewCount": 376,
-      "likesCount": 3,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/reel/De6Ty-clC5a/"
-    },
-    {
-      "timestamp": "2026-10-25T15:45:00+01:00",
-      "caption": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.",
-      "productType": "POST",
-      "videoPlayCount": null,
-      "videoViewCount": 331,
-      "likesCount": 4,
-      "commentsCount": 0,
-      "url": "https://www.instagram.com/p/De69IlJCD-I/"
-    }
-  ]
+  {
+   "datum": "2026-09-28",
+   "followers": 6631,
+   "reach": 12342,
+   "interactions": null
+  },
+  {
+   "datum": "2026-09-29",
+   "followers": null,
+   "reach": 3770,
+   "interactions": null
+  },
+  {
+   "datum": "2026-09-30",
+   "followers": 6629,
+   "reach": 3880,
+   "interactions": 19
+  },
+  {
+   "datum": "2026-10-01",
+   "followers": 6633,
+   "reach": 4324,
+   "interactions": 21
+  },
+  {
+   "datum": "2026-10-02",
+   "followers": 6632,
+   "reach": 3197,
+   "interactions": null
+  },
+  {
+   "datum": "2026-10-03",
+   "followers": 6635,
+   "reach": 3527,
+   "interactions": null
+  },
+  {
+   "datum": "2026-10-04",
+   "followers": 6640,
+   "reach": 3714,
+   "interactions": null
+  },
+  {
+   "datum": "2026-10-05",
+   "followers": 6641,
+   "reach": 3461,
+   "interactions": 15
+  },
+  {
+   "datum": "2026-10-06",
+   "followers": 6640,
+   "reach": 550,
+   "interactions": 13
+  },
+  {
+   "datum": "2026-10-07",
+   "followers": 6640,
+   "reach": 403,
+   "interactions": 15
+  },
+  {
+   "datum": "2026-10-08",
+   "followers": 6642,
+   "reach": 6305,
+   "interactions": 52
+  },
+  {
+   "datum": "2026-10-09",
+   "followers": 6640,
+   "reach": 10758,
+   "interactions": 29
+  },
+  {
+   "datum": "2026-10-10",
+   "followers": 6639,
+   "reach": 1928,
+   "interactions": 8
+  },
+  {
+   "datum": "2026-10-11",
+   "followers": 6639,
+   "reach": 1573,
+   "interactions": 16
+  },
+  {
+   "datum": "2026-10-12",
+   "followers": 6638,
+   "reach": 860,
+   "interactions": 20
+  },
+  {
+   "datum": "2026-10-13",
+   "followers": 6642,
+   "reach": 781,
+   "interactions": 15
+  },
+  {
+   "datum": "2026-10-14",
+   "followers": 6643,
+   "reach": 550,
+   "interactions": 21
+  },
+  {
+   "datum": "2026-10-15",
+   "followers": 6639,
+   "reach": 400,
+   "interactions": 36
+  },
+  {
+   "datum": "2026-10-16",
+   "followers": 6638,
+   "reach": 1086,
+   "interactions": 9
+  },
+  {
+   "datum": "2026-10-17",
+   "followers": 6638,
+   "reach": 773,
+   "interactions": 8
+  },
+  {
+   "datum": "2026-10-18",
+   "followers": 6636,
+   "reach": 557,
+   "interactions": 12
+  },
+  {
+   "datum": "2026-10-19",
+   "followers": 6637,
+   "reach": 513,
+   "interactions": 7
+  },
+  {
+   "datum": "2026-10-20",
+   "followers": 6638,
+   "reach": 401,
+   "interactions": 1
+  },
+  {
+   "datum": "2026-10-21",
+   "followers": 6639,
+   "reach": 379,
+   "interactions": 16
+  },
+  {
+   "datum": "2026-10-22",
+   "followers": 6651,
+   "reach": 495,
+   "interactions": 8
+  },
+  {
+   "datum": "2026-10-23",
+   "followers": 6656,
+   "reach": 362,
+   "interactions": 12
+  },
+  {
+   "datum": "2026-10-24",
+   "followers": 6655,
+   "reach": 471,
+   "interactions": 19
+  },
+  {
+   "datum": "2026-10-25",
+   "followers": 6657,
+   "reach": 478,
+   "interactions": 10
+  },
+  {
+   "datum": "2026-10-26",
+   "followers": 6653,
+   "reach": 459,
+   "interactions": 10
+  }
+ ],
+ "posts": [
+  {
+   "timestamp": "2026-09-30T19:15:00",
+   "caption": "Der September ist rum. Neuer Monat, neue Special Calls — und im Oktober sind es sechzehn. Unsere Kunden haben ohnehin jede Woche 6 bis 10",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 884,
+   "likesCount": 17,
+   "commentsCount": 2,
+   "url": "https://www.instagram.com/p/Dd62pLlDaSJ/"
+  },
+  {
+   "timestamp": "2026-10-01T16:30:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/3998388569224625998"
+  },
+  {
+   "timestamp": "2026-10-01T19:45:00",
+   "caption": "",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 420,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/Dd9eqtrk-vU/"
+  },
+  {
+   "timestamp": "2026-10-01T20:10:00",
+   "caption": "Wir analysieren Instagram-Accounts, heute Teil 1. Sam hat sich das Profil von zwei Kunden von uns angesehen, und ihre erste Frage war",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 740,
+   "likesCount": 14,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/reel/Dd9haZvCB5t/"
+  },
+  {
+   "timestamp": "2026-10-05T17:30:00",
+   "caption": "Wissen ist längst nicht mehr dein Problem. Jede Strategie, jedes Funnel-Konzept und jede Sales-Vorlage holst du dir in zwei Minuten aus",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 452,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeHiXRtiMWt/"
+  },
+  {
+   "timestamp": "2026-10-05T17:50:00",
+   "caption": "Bei den KI-Werkzeugen hat sich diese Woche einiges verschoben. Fünf Sachen, die du wissen solltest. 🔻 Gemini gratis wird ab Freitag",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 653,
+   "likesCount": 9,
+   "commentsCount": 2,
+   "url": "https://www.instagram.com/p/DeHkpjWD9Dl/"
+  },
+  {
+   "timestamp": "2026-10-06T18:20:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002067927037625105"
+  },
+  {
+   "timestamp": "2026-10-06T18:48:00",
+   "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales,",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 561,
+   "likesCount": 7,
+   "commentsCount": 2,
+   "url": "https://www.instagram.com/p/DeKQMmxAbXS/"
+  },
+  {
+   "timestamp": "2026-10-06T18:59:00",
+   "caption": "Testkunden zahlen dich. Nur nicht in Cash. Ein Testkunde bekommt dein Angebot für einen Euro oder für null. Nicht, weil es nichts wert",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 259,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeKRPiLAXZj/"
+  },
+  {
+   "timestamp": "2026-10-07T16:24:00",
+   "caption": "Personal Brands basieren auf Geschichten. Und jetzt denkst du: ich habe keine. Ich bin nicht nach Bali ausgewandert, in ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 656,
+   "likesCount": 11,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/reel/DeMkZI5ivdE/"
+  },
+  {
+   "timestamp": "2026-10-07T16:25:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002734381903888899"
+  },
+  {
+   "timestamp": "2026-10-07T16:26:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002734772744426513"
+  },
+  {
+   "timestamp": "2026-10-07T16:27:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4002735300439002261"
+  },
+  {
+   "timestamp": "2026-10-08T10:07:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4003268857162375882"
+  },
+  {
+   "timestamp": "2026-10-08T18:52:00",
+   "caption": "„KI ersetzt meinen Job.“ Ja, tut sie. Wenn du dich nicht weiterentwickelst.  Das Problem ist selten die KI. Das Problem ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 544,
+   "likesCount": 6,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DePaB-zj919/"
+  },
+  {
+   "timestamp": "2026-10-08T19:20:00",
+   "caption": "Warum kostet in Deutschland fast jedes Programm um die 4.000 Euro?  Weil dort der Gleichgewichtspreis liegt. 100 Kunden ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 20677,
+   "likesCount": 21,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/reel/DePdQVQk-K4/"
+  },
+  {
+   "timestamp": "2026-10-08T19:50:00",
+   "caption": "Ich finde es echt traurig, wenn ein Online-Business nicht entsteht, weil jemand an der Technik verzweifelt.  Die Vision ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 426,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DePgsDfCQN-/"
+  },
+  {
+   "timestamp": "2026-10-09T11:53:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4004046890723451487"
+  },
+  {
+   "timestamp": "2026-10-09T11:54:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4004047393099217967"
+  },
+  {
+   "timestamp": "2026-10-09T16:52:00",
+   "caption": "Dieses iPad hat sich in einer Stunde selbst bezahlt.  500 Euro waren damals viel Geld. Tayler und sein Freund Ralf haben",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 1221,
+   "likesCount": 8,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/reel/DeRxFYjikSd/"
+  },
+  {
+   "timestamp": "2026-10-09T17:29:00",
+   "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 692,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/p/DeR1aafjYrY/"
+  },
+  {
+   "timestamp": "2026-10-09T18:30:00",
+   "caption": "Der größte Hebel in deinem Business? Dich zu trauen, etwas für 120.000 Euro zu verkaufen.  Alex rechnet es vor: 10.000 E",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 1568,
+   "likesCount": 9,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeR8a3rirql/"
+  },
+  {
+   "timestamp": "2026-10-10T10:00:00",
+   "caption": "Geile Werbung, kaputtes Produkt. Tayler gibt dir drei Monate.  Du kannst starke Anzeigen bauen und gute Kunden an Land z",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 369,
+   "likesCount": 3,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeTnCAWkS-h/"
+  },
+  {
+   "timestamp": "2026-10-10T18:00:00",
+   "caption": "„Anwälte sind die schlechtesten Unternehmer der Welt.“ Alex meint das nicht als Beleidigung, sondern als Jobbeschreibung",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 915,
+   "likesCount": 5,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeUeJQgEeGa/"
+  },
+  {
+   "timestamp": "2026-10-11T10:00:00",
+   "caption": "80 Prozent werden scheitern. Das sagt Tayler seinen eigenen Kunden ins Gesicht.  Niemand schlägt Pareto, egal wie gut da",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 1616,
+   "likesCount": 10,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeWL2vxFKmn/"
+  },
+  {
+   "timestamp": "2026-10-11T18:00:00",
+   "caption": "Noch keine Kunden, noch keine Beweise? Dann brauchst du ein Angebot, das zu gut ist, um Nein zu sagen.  Alex nennt das P",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 312,
+   "likesCount": 2,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeXC31MjpFU/"
+  },
+  {
+   "timestamp": "2026-10-11T20:06:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4005744581849335493"
+  },
+  {
+   "timestamp": "2026-10-11T20:09:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4005746065391606860"
+  },
+  {
+   "timestamp": "2026-10-12T10:00:00",
+   "caption": "Wer mit Tayler in einem Call sitzt, weiß zwei Dinge.  Erstens: Die Calls laufen komplett ungeskriptet. Zweitens: Er ist ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 664,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeYwsKIjCvQ/"
+  },
+  {
+   "timestamp": "2026-10-12T18:00:00",
+   "caption": "Gratis gibt es nicht. Menschen bezahlen dich immer, nur nicht immer mit Cash.  Ein Gratis-Call mit Alex ist nicht gratis",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 540,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeZnzaglf_5/"
+  },
+  {
+   "timestamp": "2026-10-13T10:00:00",
+   "caption": "Du wirst Pareto niemals schlagen. Egal wie gut du bist.  Es gibt einen Punkt, den kein Coaching, keine Dienstleistung un",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 605,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DebVgkhAhRJ/"
+  },
+  {
+   "timestamp": "2026-10-13T11:42:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4006940492818450705"
+  },
+  {
+   "timestamp": "2026-10-13T13:00:00",
+   "caption": "Der Umsatz ist für uns alle meistens nur ein Telefonat entfernt. Wir führen es trotzdem nicht, weil dahinter eine Angst ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 377,
+   "likesCount": 5,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DebqBmGiD9J/"
+  },
+  {
+   "timestamp": "2026-10-13T20:08:00",
+   "caption": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karu",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/p/DecawobFA9R/"
+  },
+  {
+   "timestamp": "2026-10-14T08:00:00",
+   "caption": "Karussells in Edits bauen: Auf Slide 2 steht, wie du die Funktion freischaltest. 👇  🎬 In Edits kannst du jetzt auch Karu",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 896,
+   "likesCount": 10,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/p/DedshFRDz6h/"
+  },
+  {
+   "timestamp": "2026-10-14T15:00:00",
+   "caption": "Was sagst du, wenn 1000 Wunschkunden vor dir stehen?  Stell dir vor, wir besorgen dir morgen 1000 Leute aus deiner Zielg",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 314,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeecxxBijB-/"
+  },
+  {
+   "timestamp": "2026-10-14T19:45:00",
+   "caption": "1 Reel. 2 neue Coaching-Kundinnen. 🎯  Am 23.09. saß Stefanie in unserem Storytelling Special Call. Sie hat nicht lange ü",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/p/Dee9B1lCJ4F/"
+  },
+  {
+   "timestamp": "2026-10-15T08:00:00",
+   "caption": "Du bist selbst der Grund, warum nichts wächst. Das ist unbequem, aber es ist der ehrlichste Startpunkt.  Stell dir vorhe",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 476,
+   "likesCount": 10,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DegRQh0CZl_/"
+  },
+  {
+   "timestamp": "2026-10-15T10:00:00",
+   "caption": "Werde laut mit deiner Geschichte - Es ist wertvoller als du denkst.  Und wenn du die ersten Anhaltspunkte dafür brauchst",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 873,
+   "likesCount": 14,
+   "commentsCount": 2,
+   "url": "https://www.instagram.com/p/DegfV76jatr/"
+  },
+  {
+   "timestamp": "2026-10-15T15:31:00",
+   "caption": "30+ Unternehmen. Fast keine davon führt Tayler selbst.  Angefangen hat alles auf ein paar wenigen Quadratmetern in Dubai",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 805,
+   "likesCount": 7,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/p/DehEyIPGOLZ/"
+  },
+  {
+   "timestamp": "2026-10-16T12:15:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4009131493996675456"
+  },
+  {
+   "timestamp": "2026-10-16T12:30:00",
+   "caption": "Verknappung ja, Leute verarschen nein.  Es ist völlig okay, einen Grund zu geben, jetzt zu starten. Leute brauchen das o",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 1792,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DejU0DmD34j/"
+  },
+  {
+   "timestamp": "2026-10-17T13:00:00",
+   "caption": "Dein Werbegeld gehört zurück in die Keksdose.  Stell dir Ads vor wie im Casino. Du legst 1.000 Euro rein und willst, das",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 410,
+   "likesCount": 2,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/Del9OK_Stlh/"
+  },
+  {
+   "timestamp": "2026-10-17T14:15:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4009916598023110534"
+  },
+  {
+   "timestamp": "2026-10-17T14:20:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4009919121030189831"
+  },
+  {
+   "timestamp": "2026-10-17T14:25:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4009921735666705435"
+  },
+  {
+   "timestamp": "2026-10-17T14:30:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4009924404511531697"
+  },
+  {
+   "timestamp": "2026-10-17T17:00:00",
+   "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 533,
+   "likesCount": 4,
+   "commentsCount": 2,
+   "url": "https://www.instagram.com/p/DemY8sXDWwm/"
+  },
+  {
+   "timestamp": "2026-10-18T09:00:00",
+   "caption": "Warum kaufen Fans sogar das schlechte Album? Weil sie es nicht wegen des Albums kaufen.  Sie verteidigen es sogar. Obwoh",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 563,
+   "likesCount": 2,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeoGjG9IUyD/"
+  },
+  {
+   "timestamp": "2026-10-18T17:00:00",
+   "caption": "Die meisten Selbstständigen brauchen keine KI und keine Mitarbeiter. Sie brauchen weniger Komplexität.  Zu viele Angebot",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 735,
+   "likesCount": 9,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/p/Deo9y5biJU8/"
+  },
+  {
+   "timestamp": "2026-10-19T09:15:00",
+   "caption": "Was dich zwischen 2 und 10k festhält, ist meistens nicht die Nachfrage, sondern dass du das Spielfeld nicht wechselst.  ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 292,
+   "likesCount": 3,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeqsvhSMOtX/"
+  },
+  {
+   "timestamp": "2026-10-19T13:15:00",
+   "caption": "Zwei Leute mit 80 Prozent schlagen dich allein. Rechne es einmal nach, dann wird es offensichtlich.  Der Grund, warum du",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 391,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DerINoZNpx6/"
+  },
+  {
+   "timestamp": "2026-10-20T09:15:00",
+   "caption": "Zwei Preise, ein Ziel: beide landen in Miami.  Business Class und Economy Class. Der eine klappt den Stuhl runter und fr",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 304,
+   "likesCount": 1,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DetRhmgMam1/"
+  },
+  {
+   "timestamp": "2026-10-20T17:00:00",
+   "caption": "Skalierbar heißt nicht, dass niemand mehr arbeitet.  Für viele klingt Skalierbarkeit so: ein Produkt, das sich im Schlaf",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 264,
+   "likesCount": 0,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeuHK7ICkmw/"
+  },
+  {
+   "timestamp": "2026-10-21T08:00:00",
+   "caption": "Du hast kein Marketingproblem, du hast ein Übersetzungsproblem.  Frag Coaches oder Berater nach ihrem größten Problem, u",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 263,
+   "likesCount": 5,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/Devt5LJimVI/"
+  },
+  {
+   "timestamp": "2026-10-21T17:00:00",
+   "caption": "Was ist dein Ziel am Ende des Tages? Fang damit an, bevor du über Tools, Funnels oder neue Angebote nachdenkst.  Wenn de",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 311,
+   "likesCount": 5,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/Dewr8x8ETnQ/"
+  },
+  {
+   "timestamp": "2026-10-22T08:00:00",
+   "caption": "Ein Ausfall im Team kostet zwischen 400.000 und 600.000, bei einer Führungskraft sind es 600.000 bis 800.000. Die meiste",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 351,
+   "likesCount": 5,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DeySsBEkySw/"
+  },
+  {
+   "timestamp": "2026-10-22T17:00:00",
+   "caption": "Ist das wirklich dein Bottleneck?  Meistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 335,
+   "likesCount": 3,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/DezRKu_inLw/"
+  },
+  {
+   "timestamp": "2026-10-23T08:00:00",
+   "caption": "Jedes Business hat im Prinzip die gleichen Blöcke.  Da ist das Produkt mit seinen Produktkosten. Da ist der Unternehmerg",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 271,
+   "likesCount": 1,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/De03e-7kXub/"
+  },
+  {
+   "timestamp": "2026-10-23T12:30:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4014213281032421697"
+  },
+  {
+   "timestamp": "2026-10-23T12:30:00",
+   "caption": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Ange",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 662,
+   "likesCount": 6,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/p/De1Wcs7FD0P/"
+  },
+  {
+   "timestamp": "2026-10-23T17:00:00",
+   "caption": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst. Wenn e",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 186,
+   "likesCount": 5,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/De11exaDIPY/"
+  },
+  {
+   "timestamp": "2026-10-24T09:45:00",
+   "caption": "Es juckt einfach keinen da draußen, wie viele Follower du hast.  Ob das fünf sind oder fünf Millionen, ändert für sich g",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 450,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/De3oMOojcd0/"
+  },
+  {
+   "timestamp": "2026-10-24T12:00:00",
+   "caption": "Dein bestes Reel ist nicht verbraucht.  Nach einem guten Reel machen die meisten sofort etwas Neues. Dabei hat dir deine",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 378,
+   "likesCount": 7,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/p/De34CIjjr25/"
+  },
+  {
+   "timestamp": "2026-10-24T16:45:00",
+   "caption": "Dein Traumhaus für 10.000 Euro, aber du musst bis heute Abend 18 Uhr zusagen.  Denk kurz wirklich daran. Wo steht es, wi",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 261,
+   "likesCount": 4,
+   "commentsCount": 1,
+   "url": "https://www.instagram.com/reel/De4YOoPAY37/"
+  },
+  {
+   "timestamp": "2026-10-25T09:45:00",
+   "caption": "Rechne das Minus einmal ehrlich durch.  Du zahlst 500 Euro und bekommst dadurch vielleicht 20 Leute rein. Die zahlen dir",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 441,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/De6Ty-clC5a/"
+  },
+  {
+   "timestamp": "2026-10-25T15:45:00",
+   "caption": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen ",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 445,
+   "likesCount": 4,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/p/De69IlJCD-I/"
+  },
+  {
+   "timestamp": "2026-10-26T08:45:00",
+   "caption": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann. Die meisten kommen mit der Erwartung rein, dass ",
+   "productType": "REEL",
+   "videoPlayCount": null,
+   "videoViewCount": 299,
+   "likesCount": 8,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/reel/De8xuuIksge/"
+  },
+  {
+   "timestamp": "2026-10-26T15:45:00",
+   "caption": "Wie viele Kunden brauchst du eigentlich für deinen Jahresumsatz?  Die meisten haben das nie durchgerechnet. 100 Kunden f",
+   "productType": "POST",
+   "videoPlayCount": null,
+   "videoViewCount": 366,
+   "likesCount": 2,
+   "commentsCount": 0,
+   "url": "https://www.instagram.com/p/De9h_GAiJy9/"
+  },
+  {
+   "timestamp": "2026-10-26T17:45:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4016575659543603884"
+  },
+  {
+   "timestamp": "2026-10-26T17:50:00",
+   "caption": "",
+   "productType": "STORY",
+   "videoPlayCount": null,
+   "videoViewCount": null,
+   "likesCount": null,
+   "commentsCount": null,
+   "url": "https://www.instagram.com/stories/the_escapetheory/4016578099126211438"
+  }
+ ]
 }
