@@ -1,47 +1,8 @@
 {
- "stand": "2026-10-26T21:13",
+ "stand": "2026-10-27T05:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 398467346,
-   "datum": "2026-10-22",
-   "uhrzeit": "08:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Ein Ausfall im Team kostet zwischen 400.000 und 600.000, bei einer Führungskraft sind es 600.000 bis 800.000. Die meisten hören diese Zahl u",
-   "url": "https://www.instagram.com/reel/DeySsBEkySw/",
-   "entwurf": false
-  },
-  {
-   "id": 398467613,
-   "datum": "2026-10-22",
-   "uhrzeit": "17:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Ist das wirklich dein Bottleneck?  Meistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur 1.000 Leute gesehen ",
-   "url": "https://www.instagram.com/reel/DezRKu_inLw/",
-   "entwurf": false
-  },
-  {
-   "id": 398468238,
-   "datum": "2026-10-22",
-   "uhrzeit": "17:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Ist das wirklich dein Bottleneck?  Meistens ist die Frage nicht, ob du ein großes Problem hast. Sondern warum etwas nur 1.000 Leute gesehen ",
-   "url": "",
-   "entwurf": true
-  },
   {
    "id": 398467843,
    "datum": "2026-10-23",
