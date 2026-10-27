@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T17:18",
+ "stand": "2026-10-27T19:19",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -103,7 +103,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.",
+   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
    "url": "",
    "entwurf": true
   },
@@ -116,7 +116,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.",
+   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
    "url": "",
    "entwurf": true
   },
@@ -129,7 +129,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.",
+   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
    "url": "",
    "entwurf": true
   },
@@ -194,7 +194,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann.",
+   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann. Die meisten kommen mit der Erwartung rein, dass man vorher irrsinnig",
    "url": "",
    "entwurf": true
   },
@@ -261,6 +261,32 @@
    "status": "PUBLISHED",
    "text": "Empfehlungen fühlen sich gut an. Sie sind ein Kompliment für deine Arbeit.  Aber sie sagen dir nicht, wann der nächste Kunde kommt. Und gena",
    "url": "https://www.instagram.com/p/De_WqvxiAMi/",
+   "entwurf": false
+  },
+  {
+   "id": 408026096,
+   "datum": "2026-10-27",
+   "uhrzeit": "17:31",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4017293810211803229",
+   "entwurf": false
+  },
+  {
+   "id": 408091660,
+   "datum": "2026-10-27",
+   "uhrzeit": "18:36",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4017326016712003729",
    "entwurf": false
   }
  ]
