@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T05:12",
+ "stand": "2026-10-27T09:24",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -248,6 +248,19 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/4016578099126211438",
+   "entwurf": false
+  },
+  {
+   "id": 407509768,
+   "datum": "2026-10-27",
+   "uhrzeit": "08:45",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Empfehlungen fühlen sich gut an. Sie sind ein Kompliment für deine Arbeit.  Aber sie sagen dir nicht, wann der nächste Kunde kommt. Und gena",
+   "url": "https://www.instagram.com/p/De_WqvxiAMi/",
    "entwurf": false
   }
  ]
