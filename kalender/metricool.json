@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T14:27",
+ "stand": "2026-10-28T17:17",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -222,6 +222,19 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/4017326016712003729",
+   "entwurf": false
+  },
+  {
+   "id": 409060065,
+   "datum": "2026-10-28",
+   "uhrzeit": "16:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Wer Diesel hasst, kauft auch für 100 Euro nicht. Weil der Preis gar nicht das Problem ist.  Erst wenn du das Angebot ohne Preis gut findest,",
+   "url": "https://www.instagram.com/reel/DfCu2JAkeOF/",
    "entwurf": false
   }
  ]
