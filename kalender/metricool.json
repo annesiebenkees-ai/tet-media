@@ -1,73 +1,8 @@
 {
- "stand": "2026-10-27T20:12",
+ "stand": "2026-10-28T04:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 398467843,
-   "datum": "2026-10-23",
-   "uhrzeit": "08:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Jedes Business hat im Prinzip die gleichen Blöcke.  Da ist das Produkt mit seinen Produktkosten. Da ist der Unternehmergewinn, den du haben ",
-   "url": "https://www.instagram.com/reel/De03e-7kXub/",
-   "entwurf": false
-  },
-  {
-   "id": 404013171,
-   "datum": "2026-10-23",
-   "uhrzeit": "12:30",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4014213281032421697",
-   "entwurf": false
-  },
-  {
-   "id": 404014360,
-   "datum": "2026-10-23",
-   "uhrzeit": "12:30",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-   "url": "https://www.instagram.com/p/De1Wcs7FD0P/",
-   "entwurf": false
-  },
-  {
-   "id": 404015543,
-   "datum": "2026-10-23",
-   "uhrzeit": "12:30",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 398468073,
-   "datum": "2026-10-23",
-   "uhrzeit": "17:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Es ist eine Rechnung, keine Magie. Wenn dein Angebot 4.000 Euro kostet, brauchst du 250 Leute, die du überzeugst. Wenn es 250 Euro kostet, b",
-   "url": "https://www.instagram.com/reel/De11exaDIPY/",
-   "entwurf": false
-  },
   {
    "id": 404020323,
    "datum": "2026-10-24",
