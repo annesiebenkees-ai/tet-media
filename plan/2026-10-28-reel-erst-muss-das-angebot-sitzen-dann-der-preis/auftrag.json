@@ -12,5 +12,9 @@
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-28-reel-erst-muss-das-angebot-sitzen-dann-der-preis/reel.mp4"
  ],
- "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-28-reel-erst-muss-das-angebot-sitzen-dann-der-preis/cover.png"
+ "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-10-28-reel-erst-muss-das-angebot-sitzen-dann-der-preis/cover.png",
+ "gepostet": "2026-10-28T16:04:00+01:00",
+ "metricool_id": 409060065,
+ "status": "gepostet",
+ "fest_eingeplant": true
 }
