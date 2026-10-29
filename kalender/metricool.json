@@ -1,86 +1,8 @@
 {
- "stand": "2026-10-28T17:17",
+ "stand": "2026-10-29T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 404020323,
-   "datum": "2026-10-24",
-   "uhrzeit": "09:45",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Es juckt einfach keinen da draußen, wie viele Follower du hast.  Ob das fünf sind oder fünf Millionen, ändert für sich genommen nichts. Viel",
-   "url": "https://www.instagram.com/reel/De3oMOojcd0/",
-   "entwurf": false
-  },
-  {
-   "id": 404388104,
-   "datum": "2026-10-24",
-   "uhrzeit": "12:00",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Dein bestes Reel ist nicht verbraucht.  Nach einem guten Reel machen die meisten sofort etwas Neues. Dabei hat dir deine Zielgruppe gerade g",
-   "url": "https://www.instagram.com/p/De34CIjjr25/",
-   "entwurf": false
-  },
-  {
-   "id": 404024586,
-   "datum": "2026-10-24",
-   "uhrzeit": "15:45",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 404024944,
-   "datum": "2026-10-24",
-   "uhrzeit": "15:45",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 404026926,
-   "datum": "2026-10-24",
-   "uhrzeit": "15:45",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 404021258,
-   "datum": "2026-10-24",
-   "uhrzeit": "16:45",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Dein Traumhaus für 10.000 Euro, aber du musst bis heute Abend 18 Uhr zusagen.  Denk kurz wirklich daran. Wo steht es, wie sieht es aus. Und ",
-   "url": "https://www.instagram.com/reel/De4YOoPAY37/",
-   "entwurf": false
-  },
   {
    "id": 404022306,
    "datum": "2026-10-25",
@@ -235,6 +157,32 @@
    "status": "PUBLISHED",
    "text": "Wer Diesel hasst, kauft auch für 100 Euro nicht. Weil der Preis gar nicht das Problem ist.  Erst wenn du das Angebot ohne Preis gut findest,",
    "url": "https://www.instagram.com/reel/DfCu2JAkeOF/",
+   "entwurf": false
+  },
+  {
+   "id": 409359343,
+   "datum": "2026-10-29",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "\"Ich melde mich bei dir\" ist in den meisten Fällen eine höfliche Absage.  Im Sales willst du am Ende eines Gesprächs immer einen klaren, gem",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 409360538,
+   "datum": "2026-10-29",
+   "uhrzeit": "15:15",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du bekommst 500 Euro pro Kunde. Wie viel darfst du ausgeben, um diesen Kunden zu gewinnen?  Wenn du 500 gibst, geht es 0,0 aus. Bei 300 auch",
+   "url": "",
    "entwurf": false
   }
  ]
