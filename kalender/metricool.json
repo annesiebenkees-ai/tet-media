@@ -1,34 +1,8 @@
 {
- "stand": "2026-10-29T17:26",
+ "stand": "2026-10-30T06:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 404022306,
-   "datum": "2026-10-25",
-   "uhrzeit": "09:45",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Rechne das Minus einmal ehrlich durch.  Du zahlst 500 Euro und bekommst dadurch vielleicht 20 Leute rein. Die zahlen dir 9 Euro, macht 180 z",
-   "url": "https://www.instagram.com/reel/De6Ty-clC5a/",
-   "entwurf": false
-  },
-  {
-   "id": 404029848,
-   "datum": "2026-10-25",
-   "uhrzeit": "15:45",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Der Hustle-Modus, mit dem du deine ersten Umsätze gemacht hast, lässt sich nicht skalieren. Er schwankt. Immer.  Diesen Monat drei Empfehlun",
-   "url": "https://www.instagram.com/p/De69IlJCD-I/",
-   "entwurf": false
-  },
   {
    "id": 404024188,
    "datum": "2026-10-26",
@@ -183,6 +157,19 @@
    "status": "PUBLISHED",
    "text": "Du bekommst 500 Euro pro Kunde. Wie viel darfst du ausgeben, um diesen Kunden zu gewinnen?  Wenn du 500 gibst, geht es 0,0 aus. Bei 300 auch",
    "url": "https://www.instagram.com/p/DfFM1hfDT1B/",
+   "entwurf": false
+  },
+  {
+   "id": 410487149,
+   "datum": "2026-10-30",
+   "uhrzeit": "09:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "",
    "entwurf": false
   }
  ]
