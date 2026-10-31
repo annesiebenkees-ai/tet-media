@@ -1,86 +1,8 @@
 {
- "stand": "2026-10-30T12:11",
+ "stand": "2026-10-31T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 404024188,
-   "datum": "2026-10-26",
-   "uhrzeit": "08:45",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann. Die meisten kommen mit der Erwartung rein, dass man vorher irrsinnig",
-   "url": "https://www.instagram.com/reel/De8xuuIksge/",
-   "entwurf": false
-  },
-  {
-   "id": 404028299,
-   "datum": "2026-10-26",
-   "uhrzeit": "08:45",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "Der Satz, der am Ende immer wieder fällt: dass es so einfach sein kann. Die meisten kommen mit der Erwartung rein, dass man vorher irrsinnig",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 404023896,
-   "datum": "2026-10-26",
-   "uhrzeit": "15:45",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Wie viele Kunden brauchst du eigentlich für deinen Jahresumsatz?  Die meisten haben das nie durchgerechnet. 100 Kunden für 4.000 Euro sind 4",
-   "url": "https://www.instagram.com/p/De9h_GAiJy9/",
-   "entwurf": false
-  },
-  {
-   "id": 406868462,
-   "datum": "2026-10-26",
-   "uhrzeit": "17:45",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4016575659543603884",
-   "entwurf": false
-  },
-  {
-   "id": 406870380,
-   "datum": "2026-10-26",
-   "uhrzeit": "17:45",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PENDING",
-   "text": "",
-   "url": "",
-   "entwurf": true
-  },
-  {
-   "id": 406868624,
-   "datum": "2026-10-26",
-   "uhrzeit": "17:50",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4016578099126211438",
-   "entwurf": false
-  },
   {
    "id": 407509768,
    "datum": "2026-10-27",
