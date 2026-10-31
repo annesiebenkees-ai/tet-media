@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-31T12:13",
+ "stand": "2026-10-31T16:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -121,7 +121,7 @@
    "entwurf": false
   },
   {
-   "id": 412031343,
+   "id": 412202329,
    "datum": "2026-11-01",
    "uhrzeit": "10:00",
    "typ": "REEL",
@@ -131,7 +131,7 @@
    "status": "PENDING",
    "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
    "url": "",
-   "entwurf": true
+   "entwurf": false
   }
  ]
 }
