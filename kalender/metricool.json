@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-02T06:11",
+ "stand": "2026-11-02T12:19",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -79,6 +79,19 @@
    "status": "PUBLISHED",
    "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
    "url": "https://www.instagram.com/reel/DfMXjB7gIHy/",
+   "entwurf": false
+  },
+  {
+   "id": 413746832,
+   "datum": "2026-11-02",
+   "uhrzeit": "11:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
+   "url": "https://www.instagram.com/reel/DfPDQ00Hzii/",
    "entwurf": false
   }
  ]
