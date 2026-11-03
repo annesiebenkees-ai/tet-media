@@ -1,34 +1,8 @@
 {
- "stand": "2026-11-02T12:19",
+ "stand": "2026-11-03T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 409359343,
-   "datum": "2026-10-29",
-   "uhrzeit": "09:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "\"Ich melde mich bei dir\" ist in den meisten Fällen eine höfliche Absage.  Im Sales willst du am Ende eines Gesprächs immer einen klaren, gem",
-   "url": "https://www.instagram.com/reel/DfEji4dE4eg/",
-   "entwurf": false
-  },
-  {
-   "id": 409360538,
-   "datum": "2026-10-29",
-   "uhrzeit": "15:15",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Du bekommst 500 Euro pro Kunde. Wie viel darfst du ausgeben, um diesen Kunden zu gewinnen?  Wenn du 500 gibst, geht es 0,0 aus. Bei 300 auch",
-   "url": "https://www.instagram.com/p/DfFM1hfDT1B/",
-   "entwurf": false
-  },
   {
    "id": 410487149,
    "datum": "2026-10-30",
@@ -92,6 +66,32 @@
    "status": "PUBLISHED",
    "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
    "url": "https://www.instagram.com/reel/DfPDQ00Hzii/",
+   "entwurf": false
+  },
+  {
+   "id": 414382190,
+   "datum": "2026-11-03",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Kauf deinem Gegenüber seine Ausrede niemals ab.  Nicht an den Punkten, wo es heißt: Ich weiß auch gar nicht, brauche ich das jetzt? Oder: So",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 414353245,
+   "datum": "2026-11-04",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du brauchst keine Woche, du gibst dir eine Woche.  Sagst du, bis nächste Woche Freitag ist die Wohnung aufgeräumt, dann ist sie nächste Woch",
+   "url": "",
    "entwurf": false
   }
  ]
