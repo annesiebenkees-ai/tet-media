@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T06:12",
+ "stand": "2026-11-03T12:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -69,6 +69,19 @@
    "entwurf": false
   },
   {
+   "id": 414919375,
+   "datum": "2026-11-03",
+   "uhrzeit": "08:28",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4022093651744216673",
+   "entwurf": false
+  },
+  {
    "id": 414382190,
    "datum": "2026-11-03",
    "uhrzeit": "10:00",
@@ -76,9 +89,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Kauf deinem Gegenüber seine Ausrede niemals ab.  Nicht an den Punkten, wo es heißt: Ich weiß auch gar nicht, brauche ich das jetzt? Oder: So",
-   "url": "",
+   "url": "https://www.instagram.com/reel/DfRhN4cAEQ0/",
    "entwurf": false
   },
   {
