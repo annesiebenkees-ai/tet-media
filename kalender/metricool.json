@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-05T11:13",
+ "stand": "2026-11-05T16:35",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -82,6 +82,19 @@
    "entwurf": false
   },
   {
+   "id": 417780044,
+   "datum": "2026-11-05",
+   "uhrzeit": "15:10",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4023745332941454907",
+   "entwurf": false
+  },
+  {
    "id": 417520537,
    "datum": "2026-11-05",
    "uhrzeit": "16:00",
@@ -89,13 +102,26 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Frag Coaches und Berater nach ihrem größten Problem und 80 Prozent sagen: Sichtbarkeit.  Dabei ist Sichtbarkeit meistens gar nicht das Thema",
+   "url": "https://www.instagram.com/p/DfXUcVbCJte/",
+   "entwurf": false
+  },
+  {
+   "id": 417889662,
+   "datum": "2026-11-06",
+   "uhrzeit": "09:00",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "",
    "url": "",
    "entwurf": false
   },
   {
-   "id": 417520591,
+   "id": 417881705,
    "datum": "2026-11-06",
    "uhrzeit": "10:00",
    "typ": "REEL",
@@ -108,7 +134,7 @@
    "entwurf": false
   },
   {
-   "id": 417520631,
+   "id": 417881762,
    "datum": "2026-11-07",
    "uhrzeit": "10:00",
    "typ": "REEL",
