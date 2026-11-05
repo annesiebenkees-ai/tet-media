@@ -1,34 +1,8 @@
 {
- "stand": "2026-11-04T16:11",
+ "stand": "2026-11-05T06:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 412015159,
-   "datum": "2026-10-31",
-   "uhrzeit": "10:15",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Zahlt deine Kundin sofort 1.000 Euro für diese Lösung? Stell dir vor, eine Fee kommt zu ihr und sagt: Gib mir 1.000 Euro, dann schnippse ich",
-   "url": "https://www.instagram.com/reel/DfJ0Ad9kuJP/",
-   "entwurf": false
-  },
-  {
-   "id": 412023748,
-   "datum": "2026-10-31",
-   "uhrzeit": "10:40",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Zahlt deine Kundin sofort 1.000 Euro für diese Lösung? Stell dir vor, eine Fee kommt zu ihr und sagt: Gib mir 1.000 Euro, dann schnippse ich",
-   "url": "https://www.instagram.com/reel/DfJ23Jsien8/",
-   "entwurf": false
-  },
   {
    "id": 412202329,
    "datum": "2026-11-01",
@@ -38,7 +12,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind. Ein Salesgespräc",
+   "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
    "url": "https://www.instagram.com/reel/DfMXjB7gIHy/",
    "entwurf": false
   },
@@ -51,7 +25,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind. Ein Salesgespräc",
+   "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
    "url": "https://www.instagram.com/reel/DfPDQ00Hzii/",
    "entwurf": false
   },
@@ -77,7 +51,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Kauf deinem Gegenüber seine Ausrede niemals ab. Nicht an den Punkten, wo es heißt: Ich weiß auch gar nicht, brauche ich das jetzt? Oder: So ",
+   "text": "Kauf deinem Gegenüber seine Ausrede niemals ab.  Nicht an den Punkten, wo es heißt: Ich weiß auch gar nicht, brauche ich das jetzt? Oder: So",
    "url": "https://www.instagram.com/reel/DfRhN4cAEQ0/",
    "entwurf": false
   },
@@ -90,8 +64,60 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Du brauchst keine Woche, du gibst dir eine Woche. Sagst du, bis nächste Woche Freitag ist die Wohnung aufgeräumt, dann ist sie nächste Woche",
+   "text": "Du brauchst keine Woche, du gibst dir eine Woche.  Sagst du, bis nächste Woche Freitag ist die Wohnung aufgeräumt, dann ist sie nächste Woch",
    "url": "https://www.instagram.com/reel/DfUF11hjg41/",
+   "entwurf": false
+  },
+  {
+   "id": 417069692,
+   "datum": "2026-11-05",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "„Mach was du liebst\" ist der Rat, bei dem sich mir immer die Nackenhaare aufstellen.  Wer mit seinem Business erfolgreich ist, hat die Passi",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 417062657,
+   "datum": "2026-11-05",
+   "uhrzeit": "16:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Frag Coaches und Berater nach ihrem größten Problem und 80 Prozent sagen: Sichtbarkeit.  Dabei ist Sichtbarkeit meistens gar nicht das Thema",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 417050131,
+   "datum": "2026-11-06",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Ich wollte für meine Partnerin einen Airbnb-Kurs kaufen. Ich weiß, was solche Kurse kosten, das Budget war da, und ich war bereit, 4000 Euro",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 417062691,
+   "datum": "2026-11-07",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Sieben Videos können mehr wert sein als zweihundert.  Die Zeit ist vorbei, dass ein Produkt Wert hat, nur weil eine Bibliothek mit 100 oder ",
+   "url": "",
    "entwurf": false
   }
  ]
