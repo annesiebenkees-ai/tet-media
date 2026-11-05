@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-05T06:11",
+ "stand": "2026-11-05T11:13",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -76,13 +76,13 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "„Mach was du liebst\" ist der Rat, bei dem sich mir immer die Nackenhaare aufstellen.  Wer mit seinem Business erfolgreich ist, hat die Passi",
-   "url": "",
+   "url": "https://www.instagram.com/reel/DfWq5gvlXmG/",
    "entwurf": false
   },
   {
-   "id": 417062657,
+   "id": 417520537,
    "datum": "2026-11-05",
    "uhrzeit": "16:00",
    "typ": "POST",
@@ -95,7 +95,7 @@
    "entwurf": false
   },
   {
-   "id": 417050131,
+   "id": 417520591,
    "datum": "2026-11-06",
    "uhrzeit": "10:00",
    "typ": "REEL",
@@ -108,7 +108,7 @@
    "entwurf": false
   },
   {
-   "id": 417062691,
+   "id": 417520631,
    "datum": "2026-11-07",
    "uhrzeit": "10:00",
    "typ": "REEL",
