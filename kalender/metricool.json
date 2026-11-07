@@ -1,21 +1,8 @@
 {
- "stand": "2026-11-06T12:12",
+ "stand": "2026-11-07T06:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 413746832,
-   "datum": "2026-11-02",
-   "uhrzeit": "11:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Nach dem ersten Beitrag verliebt sich niemand in dich. Weil nach diesem einen Kontaktpunkt noch zu viele Fragen offen sind.  Ein Salesgesprä",
-   "url": "https://www.instagram.com/reel/DfPDQ00Hzii/",
-   "entwurf": false
-  },
   {
    "id": 414919375,
    "datum": "2026-11-03",
@@ -134,7 +121,7 @@
    "entwurf": false
   },
   {
-   "id": 417950042,
+   "id": 419345968,
    "datum": "2026-11-07",
    "uhrzeit": "10:00",
    "typ": "REEL",
@@ -143,6 +130,19 @@
    ],
    "status": "PENDING",
    "text": "Sieben Videos können mehr wert sein als zweihundert.  Die Zeit ist vorbei, dass ein Produkt Wert hat, nur weil eine Bibliothek mit 100 oder ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 419340005,
+   "datum": "2026-11-07",
+   "uhrzeit": "16:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Jetzt für alle unsere Kunden: das KI-Social-Media-Studio, das dir wirklich Arbeit abnimmt. 🚀  Online haben wir schon einige Tools gesehen, d",
    "url": "",
    "entwurf": false
   }
