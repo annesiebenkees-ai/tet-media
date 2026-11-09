@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T12:18",
+ "stand": "2026-11-09T16:15",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -118,6 +118,19 @@
    "status": "PUBLISHED",
    "text": "Du musst dir keinen Bart wachsen lassen. Und du musst auch niemanden an die Wand labern können.  Du kannst das komplett auf deinem Style mac",
    "url": "https://www.instagram.com/reel/Dfg2905k_M_/",
+   "entwurf": false
+  },
+  {
+   "id": 421899964,
+   "datum": "2026-11-09",
+   "uhrzeit": "15:30",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Teil 2 unseres neuen Social Media Studios: DAS nimmt es dir außerdem ab. 👀  In Teil 1 hast du gesehen: Schnitt, bis zu 60 Skripte pro Woche,",
+   "url": "https://www.instagram.com/p/DfhjfF6D2nu/",
    "entwurf": false
   }
  ]
