@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T06:11",
+ "stand": "2026-11-09T12:18",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -105,6 +105,19 @@
    "status": "PUBLISHED",
    "text": "Jetzt für alle unsere Kunden: das KI-Social-Media-Studio, das dir wirklich Arbeit abnimmt. 🚀  Online haben wir schon einige Tools gesehen, d",
    "url": "https://www.instagram.com/p/Dfcd6oKoehG/",
+   "entwurf": false
+  },
+  {
+   "id": 421459742,
+   "datum": "2026-11-09",
+   "uhrzeit": "09:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Du musst dir keinen Bart wachsen lassen. Und du musst auch niemanden an die Wand labern können.  Du kannst das komplett auf deinem Style mac",
+   "url": "https://www.instagram.com/reel/Dfg2905k_M_/",
    "entwurf": false
   }
  ]
