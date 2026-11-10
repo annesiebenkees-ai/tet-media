@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T05:12",
+ "stand": "2026-11-10T17:16",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -92,6 +92,32 @@
    "status": "PUBLISHED",
    "text": "Teil 2 unseres neuen Social Media Studios: DAS nimmt es dir außerdem ab. 👀  In Teil 1 hast du gesehen: Schnitt, bis zu 60 Skripte pro Woche,",
    "url": "https://www.instagram.com/p/DfhjfF6D2nu/",
+   "entwurf": false
+  },
+  {
+   "id": 423249359,
+   "datum": "2026-11-10",
+   "uhrzeit": "16:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Die Spüle zu Hause erklärt ziemlich gut, warum Angebote liegen bleiben.  \"Kannst du bitte die Spüle ausräumen?\" – \"Ja, ja, mache ich.\" Und d",
+   "url": "https://www.instagram.com/reel/DfkMWRWiK8R/",
+   "entwurf": false
+  },
+  {
+   "id": 423253069,
+   "datum": "2026-11-11",
+   "uhrzeit": "10:00",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Ich habe dich gerade absichtlich zappeln lassen. Erst ein Satz angekündigt, der angeblich alles verändert, und dann einfach über etwas ander",
+   "url": "",
    "entwurf": false
   }
  ]
