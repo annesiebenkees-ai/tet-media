@@ -1,47 +1,8 @@
 {
- "stand": "2026-11-09T16:15",
+ "stand": "2026-11-10T05:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 417069692,
-   "datum": "2026-11-05",
-   "uhrzeit": "10:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "„Mach was du liebst\" ist der Rat, bei dem sich mir immer die Nackenhaare aufstellen.  Wer mit seinem Business erfolgreich ist, hat die Passi",
-   "url": "https://www.instagram.com/reel/DfWq5gvlXmG/",
-   "entwurf": false
-  },
-  {
-   "id": 417780044,
-   "datum": "2026-11-05",
-   "uhrzeit": "15:10",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4023745332941454907",
-   "entwurf": false
-  },
-  {
-   "id": 417520537,
-   "datum": "2026-11-05",
-   "uhrzeit": "16:00",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Frag Coaches und Berater nach ihrem größten Problem und 80 Prozent sagen: Sichtbarkeit.  Dabei ist Sichtbarkeit meistens gar nicht das Thema",
-   "url": "https://www.instagram.com/p/DfXUcVbCJte/",
-   "entwurf": false
-  },
   {
    "id": 417889662,
    "datum": "2026-11-06",
