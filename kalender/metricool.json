@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T11:18",
+ "stand": "2026-11-11T17:14",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -93,6 +93,19 @@
    "text": "Dein Preis ist nicht zu hoch. Du stellst ihn nackt in den Raum.  Alex sagt es im Call so: Normalerweise kostet das 10.000 €. Und du bekommst",
    "url": "",
    "entwurf": true
+  },
+  {
+   "id": 424511902,
+   "datum": "2026-11-11",
+   "uhrzeit": "15:43",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4028110750326526936",
+   "entwurf": false
   },
   {
    "id": 423646047,
