@@ -1,34 +1,8 @@
 {
- "stand": "2026-11-11T17:14",
+ "stand": "2026-11-12T06:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 419345968,
-   "datum": "2026-11-07",
-   "uhrzeit": "10:00",
-   "typ": "REEL",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Sieben Videos können mehr wert sein als zweihundert.  Die Zeit ist vorbei, dass ein Produkt Wert hat, nur weil eine Bibliothek mit 100 oder ",
-   "url": "https://www.instagram.com/reel/Dfb0UeMDoZJ/",
-   "entwurf": false
-  },
-  {
-   "id": 419340005,
-   "datum": "2026-11-07",
-   "uhrzeit": "16:00",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Jetzt für alle unsere Kunden: das KI-Social-Media-Studio, das dir wirklich Arbeit abnimmt. 🚀  Online haben wir schon einige Tools gesehen, d",
-   "url": "https://www.instagram.com/p/Dfcd6oKoehG/",
-   "entwurf": false
-  },
   {
    "id": 421459742,
    "datum": "2026-11-09",
@@ -121,7 +95,7 @@
    "entwurf": false
   },
   {
-   "id": 423647276,
+   "id": 424659354,
    "datum": "2026-11-14",
    "uhrzeit": "10:00",
    "typ": "POST",
