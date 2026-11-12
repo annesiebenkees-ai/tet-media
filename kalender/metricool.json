@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-12T06:11",
+ "stand": "2026-11-12T12:14",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -89,9 +89,22 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "„Meine Werbung funktioniert nicht.“ Das ist keine Diagnose. Das ist ein Gefühl.  Dein Problem ist nicht die Werbung. Dein Problem ist, dass ",
-   "url": "",
+   "url": "https://www.instagram.com/p/DfovYjKjUve/",
+   "entwurf": false
+  },
+  {
+   "id": 425512300,
+   "datum": "2026-11-12",
+   "uhrzeit": "11:50",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4028718220391546597",
    "entwurf": false
   },
   {
