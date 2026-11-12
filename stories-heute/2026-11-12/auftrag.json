@@ -5,10 +5,13 @@
   {
    "name": "IMG_1355.MOV",
    "erstellt": "2026-11-12T11:40",
-   "status": "bereit",
+   "status": "gepostet",
    "untertitel": true,
    "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-11-12/IMG_1355-ut.mp4",
-   "posting": "ausgeloest"
+   "posting": "ausgeloest",
+   "gepostet": "2026-11-12T11:48:00+01:00",
+   "metricool_id": 425512300,
+   "fest_eingeplant": true
   }
  ]
 }
