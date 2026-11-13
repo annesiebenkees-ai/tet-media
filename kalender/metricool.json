@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T11:13",
+ "stand": "2026-11-13T16:30",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -118,6 +118,32 @@
    "status": "PUBLISHED",
    "text": "",
    "url": "https://www.instagram.com/stories/the_escapetheory/4029420655219963761",
+   "entwurf": false
+  },
+  {
+   "id": 426821904,
+   "datum": "2026-11-13",
+   "uhrzeit": "12:25",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4029460438337542668",
+   "entwurf": false
+  },
+  {
+   "id": 427123045,
+   "datum": "2026-11-13",
+   "uhrzeit": "16:51",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/Dfr_0WZkTOl/",
    "entwurf": false
   },
   {
