@@ -8,11 +8,15 @@
    "status": "bereit",
    "untertitel": true,
    "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-11-13/IMG_9834-ut.mp4",
-   "posting": "ausgeloest",
-   "gepostet": "2026-11-13T11:02:00+01:00",
-   "metricool_id": 426748397,
-   "status": "gepostet",
-   "fest_eingeplant": true
+   "posting": "ausgeloest"
+  },
+  {
+   "name": "C94966AD-2EEE-4E46-8776-0704BF234A4A.mov",
+   "erstellt": "2026-11-13T11:09",
+   "status": "bereit",
+   "untertitel": true,
+   "url": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/stories-heute/2026-11-13/C94966AD-2EEE-4E46-8776-0704BF234A4A-ut.mp4",
+   "posting": "ausgeloest"
   }
  ]
 }
