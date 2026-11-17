@@ -1,34 +1,8 @@
 {
- "stand": "2026-11-16T16:14",
+ "stand": "2026-11-17T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 423646047,
-   "datum": "2026-11-12",
-   "uhrzeit": "10:30",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "„Meine Werbung funktioniert nicht.“ Das ist keine Diagnose. Das ist ein Gefühl.  Dein Problem ist nicht die Werbung. Dein Problem ist, dass ",
-   "url": "https://www.instagram.com/p/DfovYjKjUve/",
-   "entwurf": false
-  },
-  {
-   "id": 425512300,
-   "datum": "2026-11-12",
-   "uhrzeit": "11:50",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4028718220391546597",
-   "entwurf": false
-  },
   {
    "id": 426748397,
    "datum": "2026-11-13",
@@ -89,9 +63,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Fleißig jeden Tag und trotzdem kommst du nicht an. Das liegt meistens nicht am Einsatz.  Stell dir vor, wir wollen uns in Berlin treffen, du",
-   "url": "",
+   "url": "https://www.instagram.com/reel/Df0EVVlgP4Y/",
    "entwurf": false
   },
   {
