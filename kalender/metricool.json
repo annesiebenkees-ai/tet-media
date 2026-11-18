@@ -1,47 +1,8 @@
 {
- "stand": "2026-11-17T17:13",
+ "stand": "2026-11-18T06:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
-  {
-   "id": 426748397,
-   "datum": "2026-11-13",
-   "uhrzeit": "11:06",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4029420655219963761",
-   "entwurf": false
-  },
-  {
-   "id": 426821904,
-   "datum": "2026-11-13",
-   "uhrzeit": "12:25",
-   "typ": "STORY",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "",
-   "url": "https://www.instagram.com/stories/the_escapetheory/4029460438337542668",
-   "entwurf": false
-  },
-  {
-   "id": 427123045,
-   "datum": "2026-11-13",
-   "uhrzeit": "16:51",
-   "typ": "POST",
-   "netzwerke": [
-    "instagram"
-   ],
-   "status": "PUBLISHED",
-   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-   "url": "https://www.instagram.com/p/Dfr_0WZkTOl/",
-   "entwurf": false
-  },
   {
    "id": 424659354,
    "datum": "2026-11-14",
@@ -51,7 +12,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Dein Preis ist nicht zu hoch. Du stellst ihn nackt in den Raum. Alex sagt es im Call so: Normalerweise kostet das 10.000 €. Und du bekommst ",
+   "text": "Dein Preis ist nicht zu hoch. Du stellst ihn nackt in den Raum.  Alex sagt es im Call so: Normalerweise kostet das 10.000 €. Und du bekommst",
    "url": "https://www.instagram.com/p/Dft10C2DdtN/",
    "entwurf": false
   },
@@ -64,7 +25,7 @@
     "instagram"
    ],
    "status": "PUBLISHED",
-   "text": "Fleißig jeden Tag und trotzdem kommst du nicht an. Das liegt meistens nicht am Einsatz. Stell dir vor, wir wollen uns in Berlin treffen, du ",
+   "text": "Fleißig jeden Tag und trotzdem kommst du nicht an. Das liegt meistens nicht am Einsatz.  Stell dir vor, wir wollen uns in Berlin treffen, du",
    "url": "https://www.instagram.com/reel/Df0EVVlgP4Y/",
    "entwurf": false
   },
@@ -77,7 +38,7 @@
     "instagram"
    ],
    "status": "PENDING",
-   "text": "Fleißig jeden Tag und trotzdem kommst du nicht an. Das liegt meistens nicht am Einsatz. Stell dir vor, wir wollen uns in Berlin treffen, du ",
+   "text": "Fleißig jeden Tag und trotzdem kommst du nicht an. Das liegt meistens nicht am Einsatz.  Stell dir vor, wir wollen uns in Berlin treffen, du",
    "url": "",
    "entwurf": true
   }
