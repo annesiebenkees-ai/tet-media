@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T06:12",
+ "stand": "2026-11-18T12:10",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -41,6 +41,71 @@
    "text": "Fleißig jeden Tag und trotzdem kommst du nicht an. Das liegt meistens nicht am Einsatz.  Stell dir vor, wir wollen uns in Berlin treffen, du",
    "url": "",
    "entwurf": true
+  },
+  {
+   "id": 432648155,
+   "datum": "2026-11-18",
+   "uhrzeit": "11:45",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Drei Absagen, ein Ja – und das ist ein Erfolg.  Im Sales sind 25 Prozent Abschlussquote schon gut. Das heißt: Du sprichst mit vier Leuten, s",
+   "url": "https://www.instagram.com/reel/Df4Ut61EQAj/",
+   "entwurf": false
+  },
+  {
+   "id": 432673252,
+   "datum": "2026-11-19",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Eine Webseite braucht kein Mensch.  Was gebraucht wird, sind Landingpages. Jemand landet auf einer Seite, basierend auf einem Versprechen.  ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 432673880,
+   "datum": "2026-11-20",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 432675218,
+   "datum": "2026-11-20",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 432674345,
+   "datum": "2026-11-21",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "1700 Leute auf der Seite und kein einziger Termin im Kalender.  Das heißt nicht automatisch, dass das Angebot nicht passt. Es kann auch bede",
+   "url": "",
+   "entwurf": false
   }
  ]
 }
