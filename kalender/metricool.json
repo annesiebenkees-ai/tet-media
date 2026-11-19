@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T05:11",
+ "stand": "2026-11-19T12:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -50,9 +50,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Eine Webseite braucht kein Mensch.  Was gebraucht wird, sind Landingpages. Jemand landet auf einer Seite, basierend auf einem Versprechen.  ",
-   "url": "",
+   "url": "https://www.instagram.com/reel/Df6oPMxFbYh/",
    "entwurf": false
   },
   {
@@ -91,6 +91,71 @@
    ],
    "status": "PENDING",
    "text": "1700 Leute auf der Seite und kein einziger Termin im Kalender.  Das heißt nicht automatisch, dass das Angebot nicht passt. Es kann auch bede",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 433819969,
+   "datum": "2026-11-22",
+   "uhrzeit": "12:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Die meisten nennen ihren Preis und hoffen. Und dann wundern sie sich, warum er zu hoch klingt.  Achtung: Eine Zahl ist nie absolut. Sie wird",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 433820802,
+   "datum": "2026-11-23",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Ruhig schlafen bei 5.000 Euro Werbung am Tag? Das hat weniger mit Nerven zu tun als mit der Rechnung dahinter.  1.000 Euro ausgeben und 3.00",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 433824842,
+   "datum": "2026-11-24",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 433825575,
+   "datum": "2026-11-24",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 433821270,
+   "datum": "2026-11-25",
+   "uhrzeit": "17:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Coaches mit 14, 15 Tools. Prozesse für ein Team, das es nicht gibt. Und alles machen sie trotzdem selbst.  Das passiert, wenn du das Wort sk",
    "url": "",
    "entwurf": false
   }
