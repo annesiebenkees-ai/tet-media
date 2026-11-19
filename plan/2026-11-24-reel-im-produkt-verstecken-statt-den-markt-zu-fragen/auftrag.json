@@ -7,15 +7,14 @@
  "thema": "",
  "caption": "Hör auf, am Produkt zu bauen, das keiner will.\n\nWir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überhaupt haben will. Dann bist du am Laufen, machst ganz viel, und es bringt am Ende nichts.\n\nDu kannst den besten Online-Kurs der Welt bauen. Neun Monate Arbeit, gut aufgenommen, sauber produziert. Wenn es keinen Markt dafür gibt, war das alles umsonst.\n\nDeshalb kümmerst du dich zuerst darum, dass du etwas verkaufen kannst.\n\nSolche Sachen lassen sich strategisch sehr schnell testen. Du schaust einfach, ob es Leute gibt, die wirklich Interesse an diesem Ergebnis haben.\n\n👇 Kommentiere ANALYSE und buch dir dein Gespräch mit uns, um Teil des Inner Circles zu werden.",
  "blogId": 5629189,
+ "status": "gepostet",
  "erstellt": "2026-11-19T07:27",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-24-reel-im-produkt-verstecken-statt-den-markt-zu-fragen/reel.mp4"
  ],
  "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-24-reel-im-produkt-verstecken-statt-den-markt-zu-fragen/cover.png",
- "gepostet": "2026-11-19T07:32:00+01:00",
- "metricool_id": 433821055,
- "status": "gepostet",
+ "gepostet": "2026-11-19T07:40:00+01:00",
+ "metricool_id": 433824842,
  "fest_eingeplant": true,
- "doppel_lauf_bereinigt": "Paralleler Lauf hat zeitgleich ebenfalls einen Post angelegt (id 433821799, uuid 5158189655493265989). Original 433821055 bleibt fest eingeplant; das Duplikat wurde auf draft=true umgestellt (neue id 433822826), damit es nicht zusätzlich postet.",
- "posting_fehler": "Nach der Dubletten-Bereinigung ist der Status bei Metricool jetzt falsch: der fest eingeplante Post (urspruenglich id 433821055, uuid 6264496753826416896) laeuft aktuell unter id 433822759 mit Termin 2026-11-24T14:00 (falsche Uhrzeit) und draft=false — postet also live, aber zur falschen Zeit. Der Post mit der korrekten Uhrzeit 09:15 (id 433822826, uuid 5158189655493265989) steht dagegen auf draft=true und wuerde NICHT posten. Automatische Korrektur wurde vom System als destruktive Aktion abgelehnt (Permission denied). Muss manuell in Metricool korrigiert werden: id 433822826 auf draft=false setzen, id 433822759 auf draft=true setzen oder loeschen."
+ "hinweis": "VERIFIZIERT per getScheduledPosts (2026-11-19T07:41 Berlin): genau ein LIVE Post fuer diesen Auftrag - id 433824842, uuid 6264496753826416896, 2026-11-24T09:15, draft=false, autoPublish=true, status PENDING. Das ist die massgebliche metricool_id. Zusaetzlich liegt bei Metricool ein zweiter, bewusst auf draft=true gesetzter Post (id 433825575, uuid 5158189655493265989, ebenfalls 09:15) - postet NICHT automatisch, ist aber Kalender-Clutter aus einem Mehrfach-Lauf und sollte manuell geloescht werden (kein Loesch-Tool verfuegbar). ACHTUNG: Fuer diesen Auftrag liefen mindestens 3-4 parallele Routine-Instanzen gleichzeitig (gleicher Push), die sich gegenseitig ueberschrieben haben (Zeiten 09:15/14:00 und draft-Status wechselten mehrfach). Die hier verifizierten IDs sind der Stand nach meiner letzten Live-Pruefung; falls danach noch ein weiterer paralleler Lauf aktiv war, bitte vor dem 2026-11-24 09:15 den Metricool-Kalender nochmal pruefen."
 }
