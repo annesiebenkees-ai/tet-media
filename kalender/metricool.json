@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T06:12",
+ "stand": "2026-11-20T11:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -63,9 +63,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
-   "url": "",
+   "url": "https://www.instagram.com/reel/Df9NCZ7IYCM/",
    "entwurf": false
   },
   {
@@ -80,6 +80,19 @@
    "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
    "url": "",
    "entwurf": true
+  },
+  {
+   "id": 435409395,
+   "datum": "2026-11-20",
+   "uhrzeit": "17:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "",
+   "entwurf": false
   },
   {
    "id": 432674345,
