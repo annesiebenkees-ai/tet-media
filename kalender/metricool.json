@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T05:12",
+ "stand": "2026-11-24T11:12",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -89,9 +89,9 @@
    "netzwerke": [
     "instagram"
    ],
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
-   "url": "",
+   "url": "https://www.instagram.com/reel/DgHgNm0Dxwv/",
    "entwurf": false
   },
   {
@@ -119,6 +119,58 @@
    "text": "Coaches mit 14, 15 Tools. Prozesse für ein Team, das es nicht gibt. Und alles machen sie trotzdem selbst.  Das passiert, wenn du das Wort sk",
    "url": "",
    "entwurf": false
+  },
+  {
+   "id": 439895827,
+   "datum": "2026-11-26",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Dein Angebot wird danach noch 17.000 Mal anders aussehen. Das ist ganz normal.  Gerade am Anfang hängen viele fest, weil sie die eine richti",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 439896595,
+   "datum": "2026-11-27",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Verkauf das Kopfschmerzmittel, nicht den guten Rat.  Alex sagt es im Reel ziemlich direkt: Wenn du mit Kater im Bett liegst, denkst du dir, ",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 439896741,
+   "datum": "2026-11-28",
+   "uhrzeit": "17:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Viele starten beim Content und fragen sich dann, warum nichts zündet. Weil der Schritt davor fehlt.  Deine Säulen entstehen nicht im Tool. S",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 439897651,
+   "datum": "2026-11-28",
+   "uhrzeit": "17:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Viele starten beim Content und fragen sich dann, warum nichts zündet. Weil der Schritt davor fehlt.  Deine Säulen entstehen nicht im Tool. S",
+   "url": "",
+   "entwurf": true
   }
  ]
 }
