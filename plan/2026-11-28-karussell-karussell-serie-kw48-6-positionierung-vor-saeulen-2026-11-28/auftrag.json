@@ -20,5 +20,6 @@
  ],
  "gepostet": "2026-11-24T08:28:00+01:00",
  "metricool_id": 439896741,
- "fest_eingeplant": true
+ "fest_eingeplant": true,
+ "hinweis": "Ein paralleler Lauf hat diesen Karussell-Post ebenfalls angelegt (id 439896741, massgeblich). Die zusaetzliche Kopie (zuletzt id 439897651, uuid 6762734835321292300) wurde per updateScheduledPost auf draft=true gesetzt, damit sie nicht zusaetzlich postet. Kein Loeschen-Tool verfuegbar."
 }
