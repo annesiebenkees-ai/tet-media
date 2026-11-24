@@ -7,10 +7,14 @@
  "thema": "",
  "caption": "Verkauf das Kopfschmerzmittel, nicht den guten Rat.\n\nAlex sagt es im Reel ziemlich direkt: Wenn du mit Kater im Bett liegst, denkst du dir, hättest du mal nicht so viel getrunken. Verkauft wird dir trotzdem Elotrans am nächsten Morgen, nicht die Warnung davor.\n\nUnd nein, das heißt nicht, dass der gute Rat schlecht wäre. Natürlich wäre es besser, sich gesünder zu ernähren, weniger Salz zu essen, öfter ins Gym zu gehen. Wäre alles besser.\n\nNur kauft das niemand. Keiner zahlt für „ey, Achtung, bleib fit, es ist sau schwer, wieder abzunehmen\".\n\nGekauft wird: Du hast sechs Kilo zu viel, ich helfe dir da wieder runter.\n\nDas ist der Unterschied zwischen einem Problem und einem Nicht-Problem. Schau dir an, auf welcher Seite dein Angebot gerade steht.\n\n👇 Kommentiere ANALYSE und buch dir dein Gespräch mit uns, um Teil des Inner Circles zu werden.",
  "blogId": 5629189,
- "status": "bereit",
+ "status": "gepostet",
  "erstellt": "2026-11-24T08:20",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-27-reel-warum-sich-vorbeugen-kaum-verkaufen-laesst/reel.mp4"
  ],
- "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-27-reel-warum-sich-vorbeugen-kaum-verkaufen-laesst/cover.png"
+ "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-27-reel-warum-sich-vorbeugen-kaum-verkaufen-laesst/cover.png",
+ "gepostet": "2026-11-24T08:28:00+01:00",
+ "metricool_id": 439896595,
+ "fest_eingeplant": true,
+ "hinweis": "Bei Pruefung lag bereits ein Post mit identischer Caption fuer 14:00 (Stand vor der Zeit-Korrektur auf 09:15) bei Metricool, offenbar aus einem parallelen Lauf. Nicht doppelt angelegt, sondern per updateScheduledPost auf die korrekte Zeit 09:15 verschoben. Massgebliche id: 439896595, uuid -6645062588333537514, draft=false, autoPublish=true, status PENDING."
 }
