@@ -7,14 +7,14 @@
  "thema": "",
  "caption": "Dein Angebot wird danach noch 17.000 Mal anders aussehen. Das ist ganz normal.\n\nGerade am Anfang hängen viele fest, weil sie die eine richtige Version suchen, bevor sie starten. Die gibt es so nicht.\n\nLeg dich einfach auf eine Sache fest und fang an. Es gibt nur einen einzigen Weg, um herauszufinden, ob deine These stimmt oder nicht: machen.\n\nAlles, was du danach änderst, gehört zum Prozess dazu. Das ist nicht das Zeichen, dass du etwas falsch gemacht hast, sondern dass du unterwegs bist.\n\nTayler über das, was am Anfang wirklich zählt.\n\n👇 Kommentiere ANALYSE und buch dir dein Gespräch mit uns, um Teil des Inner Circles zu werden.",
  "blogId": 5629189,
- "status": "bereit",
+ "status": "gepostet",
  "erstellt": "2026-11-24T08:19",
  "medien": [
   "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-26-reel-17-000-mal-aendern-starte-trotzdem-jetzt/reel.mp4"
  ],
  "cover": "https://raw.githubusercontent.com/annesiebenkees-ai/tet-media/main/plan/2026-11-26-reel-17-000-mal-aendern-starte-trotzdem-jetzt/cover.png",
- "gepostet": "2026-11-24T08:25:00+01:00",
- "metricool_id": 439894865,
- "status": "gepostet",
- "fest_eingeplant": true
+ "gepostet": "2026-11-24T08:26:00+01:00",
+ "metricool_id": 439895827,
+ "fest_eingeplant": true,
+ "hinweis": "Zeit wurde zwischen zwei schnell aufeinanderfolgenden Pushes von 11:30 auf 09:15 geaendert, waehrend diese Routine schon lief. Urspruenglich fuer 11:30 angelegter Metricool-Post wurde per updateScheduledPost auf 09:15 korrigiert (Update aendert die id, nicht dupliziert). Massgebliche id: 439895827, uuid 1573650373988664557, draft=false, autoPublish=true, status PENDING."
 }
