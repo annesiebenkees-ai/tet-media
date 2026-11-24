@@ -1,117 +1,124 @@
 {
-  "stand": "2026-11-23T12:11",
-  "brand": "5629189",
-  "quelle": "Metricool-Connector",
-  "posts": [
-    {
-      "id": 432673252,
-      "datum": "2026-11-19",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Eine Webseite braucht kein Mensch.  Was gebraucht wird, sind Landingpages. Jemand landet auf einer Seite, basierend auf einem Versprechen.  ",
-      "url": "https://www.instagram.com/reel/Df6oPMxFbYh/",
-      "entwurf": false
-    },
-    {
-      "id": 432673880,
-      "datum": "2026-11-20",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
-      "url": "https://www.instagram.com/reel/Df9NCZ7IYCM/",
-      "entwurf": false
-    },
-    {
-      "id": 432675218,
-      "datum": "2026-11-20",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PENDING",
-      "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
-      "url": "",
-      "entwurf": true
-    },
-    {
-      "id": 435470663,
-      "datum": "2026-11-20",
-      "uhrzeit": "13:10",
-      "typ": "POST",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
-      "url": "https://www.instagram.com/p/Df9oCo5ii9B/",
-      "entwurf": false
-    },
-    {
-      "id": 432674345,
-      "datum": "2026-11-21",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "1700 Leute auf der Seite und kein einziger Termin im Kalender.  Das heißt nicht automatisch, dass das Angebot nicht passt. Es kann auch bede",
-      "url": "https://www.instagram.com/reel/Df_x0dhE-JF/",
-      "entwurf": false
-    },
-    {
-      "id": 433819969,
-      "datum": "2026-11-22",
-      "uhrzeit": "12:00",
-      "typ": "POST",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Die meisten nennen ihren Preis und hoffen. Und dann wundern sie sich, warum er zu hoch klingt.  Achtung: Eine Zahl ist nie absolut. Sie wird",
-      "url": "https://www.instagram.com/p/DgCp_IviLET/",
-      "entwurf": false
-    },
-    {
-      "id": 433820802,
-      "datum": "2026-11-23",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PUBLISHED",
-      "text": "Ruhig schlafen bei 5.000 Euro Werbung am Tag? Das hat weniger mit Nerven zu tun als mit der Rechnung dahinter.  1.000 Euro ausgeben und 3.00",
-      "url": "https://www.instagram.com/reel/DgE7f6mAfhs/",
-      "entwurf": false
-    },
-    {
-      "id": 433824842,
-      "datum": "2026-11-24",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PENDING",
-      "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
-      "url": "",
-      "entwurf": false
-    },
-    {
-      "id": 433825575,
-      "datum": "2026-11-24",
-      "uhrzeit": "09:15",
-      "typ": "REEL",
-      "netzwerke": ["instagram"],
-      "status": "PENDING",
-      "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
-      "url": "",
-      "entwurf": true
-    },
-    {
-      "id": 433821270,
-      "datum": "2026-11-25",
-      "uhrzeit": "17:00",
-      "typ": "POST",
-      "netzwerke": ["instagram"],
-      "status": "PENDING",
-      "text": "Coaches mit 14, 15 Tools. Prozesse für ein Team, das es nicht gibt. Und alles machen sie trotzdem selbst.  Das passiert, wenn du das Wort sk",
-      "url": "",
-      "entwurf": false
-    }
-  ]
+ "stand": "2026-11-24T05:12",
+ "brand": "5629189",
+ "quelle": "Metricool-Connector",
+ "posts": [
+  {
+   "id": 432673880,
+   "datum": "2026-11-20",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
+   "url": "https://www.instagram.com/reel/Df9NCZ7IYCM/",
+   "entwurf": false
+  },
+  {
+   "id": 432675218,
+   "datum": "2026-11-20",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Du brauchst keine 15 Tools, du brauchst Kunden.  Ich sehe immer wieder Coaches und Berater, die sich 14, 15 Tools holen und sich damit Proze",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 435470663,
+   "datum": "2026-11-20",
+   "uhrzeit": "13:10",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/Df9oCo5ii9B/",
+   "entwurf": false
+  },
+  {
+   "id": 432674345,
+   "datum": "2026-11-21",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "1700 Leute auf der Seite und kein einziger Termin im Kalender.  Das heißt nicht automatisch, dass das Angebot nicht passt. Es kann auch bede",
+   "url": "https://www.instagram.com/reel/Df_x0dhE-JF/",
+   "entwurf": false
+  },
+  {
+   "id": 433819969,
+   "datum": "2026-11-22",
+   "uhrzeit": "12:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Die meisten nennen ihren Preis und hoffen. Und dann wundern sie sich, warum er zu hoch klingt.  Achtung: Eine Zahl ist nie absolut. Sie wird",
+   "url": "https://www.instagram.com/p/DgCp_IviLET/",
+   "entwurf": false
+  },
+  {
+   "id": 433820802,
+   "datum": "2026-11-23",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Ruhig schlafen bei 5.000 Euro Werbung am Tag? Das hat weniger mit Nerven zu tun als mit der Rechnung dahinter.  1.000 Euro ausgeben und 3.00",
+   "url": "https://www.instagram.com/reel/DgE7f6mAfhs/",
+   "entwurf": false
+  },
+  {
+   "id": 433824842,
+   "datum": "2026-11-24",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
+   "url": "",
+   "entwurf": false
+  },
+  {
+   "id": 433825575,
+   "datum": "2026-11-24",
+   "uhrzeit": "09:15",
+   "typ": "REEL",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Hör auf, am Produkt zu bauen, das keiner will.  Wir verstecken uns ganz häufig darin, etwas zu bauen, ohne zu wissen, ob der Markt das überh",
+   "url": "",
+   "entwurf": true
+  },
+  {
+   "id": 433821270,
+   "datum": "2026-11-25",
+   "uhrzeit": "17:00",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PENDING",
+   "text": "Coaches mit 14, 15 Tools. Prozesse für ein Team, das es nicht gibt. Und alles machen sie trotzdem selbst.  Das passiert, wenn du das Wort sk",
+   "url": "",
+   "entwurf": false
+  }
+ ]
 }
