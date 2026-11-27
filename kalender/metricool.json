@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T11:11",
+ "stand": "2026-11-27T16:11",
  "brand": "5629189",
  "quelle": "Metricool-Connector",
  "posts": [
@@ -79,6 +79,32 @@
    "status": "PUBLISHED",
    "text": "Verkauf das Kopfschmerzmittel, nicht den guten Rat.  Alex sagt es im Reel ziemlich direkt: Wenn du mit Kater im Bett liegst, denkst du dir, ",
    "url": "https://www.instagram.com/reel/DgPOmWwoDxT/",
+   "entwurf": false
+  },
+  {
+   "id": 444522659,
+   "datum": "2026-11-27",
+   "uhrzeit": "16:45",
+   "typ": "POST",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "Unsere Kunden haben jede Woche 6 bis 10 reguläre Calls — zu jedem Fachgebiet, das sie gerade brauchen: Funnel, Ads, Angebot, Sales, Content,",
+   "url": "https://www.instagram.com/p/DgQCO0Ajqet/",
+   "entwurf": false
+  },
+  {
+   "id": 444522724,
+   "datum": "2026-11-27",
+   "uhrzeit": "16:45",
+   "typ": "STORY",
+   "netzwerke": [
+    "instagram"
+   ],
+   "status": "PUBLISHED",
+   "text": "",
+   "url": "https://www.instagram.com/stories/the_escapetheory/4039738255242945344",
    "entwurf": false
   },
   {
